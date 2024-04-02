@@ -1,7 +1,7 @@
 var primaryColor = themeStyle && themeStyle.colors && themeStyle.colors.primary;
 var isSquared = themeStyle && themeStyle.square;
 
-const countryCode = 'FR';
+const countryCode = 'BE';
 
 if (primaryColor) {
   var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', extendWith: {
@@ -12,24 +12,24 @@ if (primaryColor) {
 
 var siteConfig = {
   version: 2,
-  availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
+  availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'LITERATURE'],
   routes: {
-    enabledRoutes: ['occurrenceSearch', 'institutionKey', 'institutionSearch', 'publisherSearch', 'publisherKey', 'collectionKey', 'collectionSearch', 'datasetKey', 'datasetSearch', 'literatureSearch'],
+    enabledRoutes: ['occurrenceSearch', 'publisherSearch', 'publisherKey', 'datasetKey', 'datasetSearch', 'literatureSearch'],
   },
   occurrence: {
     mapSettings: {
-      lat: 0,
-      lng: 0,
-      zoom: 1.8
+      lat: 50.6,
+      lng: 4.3,
+      zoom: 8.4
     },
     rootPredicate: {
       "type": "or",
       "predicates": [
-        {
-          "key": "publishingCountry",
-          "type": "equals",
-          "value": countryCode
-        },
+        // { // it is possible to include records published from Belgium
+        //   "key": "publishingCountry",
+        //   "type": "equals",
+        //   "value": countryCode
+        // },
         {
           "type": "and",
           "predicates": [
@@ -38,7 +38,7 @@ var siteConfig = {
               "type": "equals",
               "value": countryCode
             },
-            {
+            { // exclude records that have coordinate issues
               "key": "notIssues",
               "type": "equals",
               "value": "COUNTRY_COORDINATE_MISMATCH"
@@ -77,9 +77,9 @@ var siteConfig = {
     },
     mapSettings: {
       enabled: true,
-      lat: 45.81,
-      lng: 2.66,
-      zoom: 5.4
+      lat: 50.6,
+      lng: 4.3,
+      zoom: 8.4
     },
   },
   literature: {

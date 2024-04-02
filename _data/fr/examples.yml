@@ -1,10 +1,10 @@
 
 stories:
   # Title (Optional)
-  title: Stories
+  title: Stories fr
   # Description (Optional)
   description: |
-    Forth beginning form dry thing. Form seed void likeness darkness light. Can’t created third upon spirit fruitful hath likeness their. Replenish saw female night they’re you blessed all greater cattle, grass god fifth you’re. Above wherein replenish face multiply male every. Own hath lights under creeping.
+    french prose with french new stories if translated in contentful
   # Filters
   # Use these options to tailor the content displayed in your block.
   filters:
@@ -13,8 +13,8 @@ stories:
       - NEWS
       # - EVENT
     limit: 6 
-    # locale:
-    #   - fr
+    locale:
+      - fr
 
 stats:
   klass: contentTypesStat
