@@ -3,14 +3,14 @@
 - text: About
   href: /about
 - text: Explore
-  menu: 
-  - text: Occurrences
-    href: /occurrence/search
-  - text: Datasets
-    href: /dataset/search
-  - text: Publishers
-    href: /publisher/search
-  - text: Literature
-    href: /literature/search
+  menu:
+    - text: Occurrences
+      href: /occurrence/search
+    - text: Datasets
+      href: /dataset/search
+    - text: Publishers
+      href: /publisher/search
+    - text: Literature
+      href: /literature/search
 - text: News
   href: /news

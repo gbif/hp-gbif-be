@@ -1,8 +1,15 @@
 en:
   label: English
-  icon:  # optional
+  icon: # optional
+
 fr:
   label: French
-  icon:  # optional
+  icon: # optional
   storiesLocale: fr
   widgetLocale: fr
+
+nl:
+  label: Dutch
+  icon: # optional
+  storiesLocale: nl
+  widgetLocale: nl
