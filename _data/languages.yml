@@ -13,3 +13,9 @@ nl:
   icon: # optional
   storiesLocale: nl
   widgetLocale: nl
+
+de:
+  label: German
+  icon: # optional
+  storiesLocale: de
+  widgetLocale: de

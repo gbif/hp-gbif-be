@@ -1,92 +1,42 @@
 ---
 lang-ref: about
-title: About
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+title: Qu'est-ce que le GBIF.be?
+description: Bienvenue sur le portail GBIF Belge
 background: /assets/images/placeholders/moss.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
 height: 70vh
+permalink: /fr/about
 ---
 
-## Procris quippe mentior urbes ubi
+## What can I discover here?
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+GBIF.be Hosted Portal let you explore **Open Biodiversity Data published about Belgium**. This is all data occurring in Belgium and openly shared through GBIF.
+Most of these data are coming from **Belgian Institutions, Public agencies, Scientists and Citizens**, but also from abroad. This site is part of our contribution to [GBIF Hosted Portals](https://www.gbif.org/hosted-portals).
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+---
 
-## Quam ex te videt
+## Who are we?
 
-Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
-cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
-ubi**.
+The **Belgian Biodiversity Platform (BBPf)** is a **science-policy interface body** funded by the Belgian Science Policy Office (BELSPO) and is supported by a Cooperation Agreement between the federal and concerned federated authorities. Within the field of biodiversity, it acts as a broker between policy, science and practice.
 
-    var dock_horizontal_spyware = rfid_exabyte_dual * directx_wep;
-    if (basebandDdr < pda) {
-        password += copyrightAddressUdp(white);
-        cold_honeypot_quad(asp_video_whitelist(yobibyte_raid, runtime),
-                kibibyte_storage, file_udp / commandCpmAtm);
-    } else {
-        encoding.dragWhoisWww = lun_token * ram;
-        boxCpm(media_drag_southbridge);
-        url_key.gnutellaTrinitron += uddi_login_overwrite;
-    }
-    if (phreaking(digitalMulticasting, compression)) {
-        mashup -= serverWidgetTask(9) + mashupDirectory;
-        safeCifsIde = odbc_modem;
-    }
+To fight biodiversity loss, different types of stakeholders need to work hand- in-hand, from public authorities to scientists, businesses, citizens, practitioners and many more. The Platform maintains privileged relations with scientists and policymakers, but our strategic partners are not restricted to these two communities. Indeed, science-policy interfacing (SPI) activities encompass broader interactions between knowledge holders and people involved in governance, decision-making and biodiversity management on the ground.
+See our [Community page](/community) to discover all our partners.
 
-### Turbatque promittat memorque
+## Our values
 
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
+### ![Holistic thinking](/assets/images/icons/valueHolistic.png)Holistic thinking
 
---------
+A holistic approach refers to dealing with the whole of something rather than just a part of it. In the context of our work on biodiversity, we aim to look at all levels, drivers, disciplines and sectors related to biodiversity and address them together in a systemic way rather than through silos;
 
-### In frustra albus
+### ![Transdisciplinarity](/assets/images/icons/valueTransdisciplinarity.png)Transdisciplinarity
 
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
+We believe that the issues related to biodiversity cannot be solved by a unique discipline and by scientific knowledge alone. By ensuring that biodiversity related issues are looked at from different perspectives including views of relevant stakeholders, by a diversity of disciplines, across different sectors, and by co-creating knowledge in a joint manner, we will be able to solve the challenges our society is currently facing. We can create new conceptual, theoretical, methodological innovations that integrate stakeholders perspectives and move beyond discipline-specific approaches to address the common environmental issues that we are all facing.
 
-### Turbatque promittat memorque
+### ![Trust](/assets/images/icons/valueTrust.png)Trust
 
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
+Nurturing trust among the different communities engaged in and/or depending on biodiversity (i.e., various scientific disciplines, policymakers, civil society, managers, private sectors etc.) is crucial. Trust allows for dialogue which leads to common understanding and therefore, to informed decisions at all levels
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| tables        | are useful    |    $1 |
+### ![Open access](/assets/images/icons/valueOpen.png)Open access
 
---------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-* Level 1 a
-* Level 1 b
-  * Level 2 a
-  * Level 2 b
-
-## Est mea videndo
-
-Nec bene filia fraxineam flumina, praesens amici nitidaeque inguine infractaque!
-Non quae illuc! E alto cum quod: fessi fatum patulis ore actaque quaque, ore.
-Honor praemia veniunt violavit tu
-[aequore](http://pete-munere.com/caeneus-dare.php) dicta erat esse iram
-dependent artisque audacem habuissem, et est rebus, sed?
-
-[Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
-
-Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
-tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
+Open data, knowledge and science: We believe that open and free access to reliable biodiversity knowledge and data is key in responding to the challenges facing decision-making in terms of biodiversity. Extending the principles of openness to the whole research process entails a systemic change to the way science is done and used in practice, supporting mandatory scientific integrity.

@@ -3,7 +3,7 @@ lang-ref: archive
 layout: archive
 title: News
 description: News and events
-permalink: /nl/news
+permalink: /de/news
 ---
 
 {% comment %}

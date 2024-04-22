@@ -1,7 +1,7 @@
 ---
 title: Datasets
 description: We publish open data
-permalink: /nl/dataset/search
+permalink: /de/dataset/search
 layout: dataset
 noindex: true
 ---

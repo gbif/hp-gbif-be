@@ -1,6 +1,6 @@
 ---
 title: Data
 description: We publish open data
-permalink: /nl/institution/search
+permalink: /de/institution/search
 layout: institution-search
 ---

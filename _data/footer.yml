@@ -3,26 +3,27 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
+  - name: Contact us
+    description: | # Can be Markdown
+      The [Belgian Biodiversity Platform](https://www.biodiversity.be) customized this [hosted portal](https://www.gbif.org/hosted-portals) as part of our contribution to [GBIF](https://www.gbif.org)
+    connectIcons: true
+
   - name: Partners
     links:
-      - text: Belgian Science Policy
-        href: http://www.belspo.be
-      - text: Natural Sciences
+      - text: Natural Sciences (Federal)
         href: https://www.naturalsciences.be
-      - text: Research Institute Nature and Forests
+      - text: INBO (Flanders Region)
         href: https://www.inbo.be
+      - text: DEMNA (Walloon Region)
+        href: http://environnement.wallonie.be/administration/demna.htm
 
   - name: Code
     description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+      This project is **open source** and maintained on our [GitHub repository](https://github.com/gbif/hp-gbif-be)
 
-  - name: Contact
+  - name: Funding
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
-    connectIcons: true
+      This is an initiative of Belspo, [the Belgian Science Policy](https://www.belspo.be)
 
   # EXAMPLE
   #- name: Group name
@@ -34,6 +35,7 @@ columns:
   #  - text: link title 2
   #    href: http://example2.com
   #  connectIcons: true # optional - show social icons (defined in _config.yml)
+
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 # Will be postfixed by "Powered by GBIF"
