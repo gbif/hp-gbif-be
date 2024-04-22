@@ -1,4 +1,5 @@
 ---
+lang-ref: community
 title: Community
 description: Open Biodiversity Data Community
 background: /assets/images/placeholders/moss.jpg

@@ -6,18 +6,21 @@
       href: /about
     - text: Community
       href: /community
+    - text: Services
+      href: /services
     - text: FAQs
       href: /faqs
 
-- text: Occurrences
-  href: /occurrence/search
-- text: Datasets
-  href: /dataset/search
-- text: Publishers
-  href: /publisher/search
-- text: Literature
-  href: /literature/search
-- text: Services
-  href: /services
+- text: Data
+  menu:
+    - text: Occurrences
+      href: /occurrence/search
+    - text: Datasets
+      href: /dataset/search
+    - text: Publishers
+      href: /publisher/search
+    - text: Literature
+      href: /literature/search
+
 - text: News
   href: /news

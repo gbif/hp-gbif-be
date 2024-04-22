@@ -1,7 +1,7 @@
 ---
 lang-ref: about
-title: What is GBIF.be?
-description: Welcome to the Belgian GBIF Hosted Portal
+title: Welcome
+description: you are on the Belgian GBIF Hosted Portal
 background: /assets/images/placeholders/moss.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
@@ -9,7 +9,7 @@ height: 70vh
 permalink: /about
 ---
 
-## What can I discover here?
+## What is GBIF.be?
 
 GBIF.be Hosted Portal let you explore **Open Biodiversity Data published about Belgium**. This is all data occurring in Belgium and openly shared through GBIF.
 Most of these data are coming from **Belgian Institutions, Public agencies, Scientists and Citizens**, but also from abroad. This site is part of our contribution to [GBIF Hosted Portals](https://www.gbif.org/hosted-portals).
@@ -21,7 +21,6 @@ Most of these data are coming from **Belgian Institutions, Public agencies, Scie
 The **Belgian Biodiversity Platform (BBPf)** is a **science-policy interface body** funded by the Belgian Science Policy Office (BELSPO) and is supported by a Cooperation Agreement between the federal and concerned federated authorities. Within the field of biodiversity, it acts as a broker between policy, science and practice.
 
 To fight biodiversity loss, different types of stakeholders need to work hand- in-hand, from public authorities to scientists, businesses, citizens, practitioners and many more. The Platform maintains privileged relations with scientists and policymakers, but our strategic partners are not restricted to these two communities. Indeed, science-policy interfacing (SPI) activities encompass broader interactions between knowledge holders and people involved in governance, decision-making and biodiversity management on the ground.
-See our [Community page](/community) to discover all our partners.
 
 ## Our values
 
@@ -40,3 +39,17 @@ Nurturing trust among the different communities engaged in and/or depending on b
 ### ![Open access](/assets/images/icons/valueOpen.png)Open access
 
 Open data, knowledge and science: We believe that open and free access to reliable biodiversity knowledge and data is key in responding to the challenges facing decision-making in terms of biodiversity. Extending the principles of openness to the whole research process entails a systemic change to the way science is done and used in practice, supporting mandatory scientific integrity.
+
+---
+
+### More
+
+![BBPf logo](/assets/images/logos/logoBBPf.png)
+
+If you want to know more about us, please visit these pages:
+
+- [Community](/community)
+- [Services](/services)
+- [FAQs](/faqs)
+
+or our [Belgian Platform main website](https://www.biodiversity.be).

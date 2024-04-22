@@ -6,6 +6,7 @@ columns:
   - name: Contact us
     description: | # Can be Markdown
       The [Belgian Biodiversity Platform](https://www.biodiversity.be) customized this [hosted portal](https://www.gbif.org/hosted-portals) as part of our contribution to [GBIF](https://www.gbif.org)
+
     connectIcons: true
 
   - name: Partners

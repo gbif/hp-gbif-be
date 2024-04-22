@@ -1,4 +1,5 @@
 ---
+lang-ref: faqs
 title: FAQs
 description: Frequently Asked Questions
 background: /assets/images/placeholders/moss.jpg
@@ -25,3 +26,7 @@ Most of these data are coming from **Belgian Institutions, Public agencies, Scie
 
 If you have relevant Biodiversity data want to share data through GBIF, please have a look at this [Become a publisher page](https://www.gbif.org/become-a-publisher) or contact us directly.
 If you have a remark on this website, please let us know via [GitHub](https://github.com/gbif/hp-gbif-be)
+
+## How can you help me?
+
+Platform experts and infrastructure are there to help you sharing and re-using Open Biodiversity Data. Visit our [services](/services) section
