@@ -11,7 +11,7 @@
     - text: FAQs
       href: /faqs
 
-- text: Data
+- text: Explore
   menu:
     - text: Occurrences
       href: /occurrence/search

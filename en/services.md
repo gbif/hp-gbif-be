@@ -49,13 +49,33 @@ This tool allows users the ability to browse, search and view objects in the GBI
 
 ### Global Registry of Scientific Collections (GRSciColl)
 
-The [Global Registry of Scientific Collections](https://scientific-collections.gbif.org), or GRSciColl, is a comprehensive, community-curated repository of information about scientific collections that extends work initially started by the Consortium of the Barcode of Life (CBOL).
+The [Global Registry of Scientific Collections](https://scientific-collections.gbif.org), or GRSciColl, is a comprehensive, community-curated repository of information about scientific collections that extends work initially started by the Consortium of the Barcode of Life (CBOL). By providing information about physical scientific collections—their content, location, contacts, associated institutions, and collection codes and identifiers—GRSciColl offers a resource for a wide range of uses by experts, researchers and members of broader society.
 
-> We help you describing and curating the Belgian institutions and collections.
+> We support the curation of the Belgian institutions and collections metadata.
 
 ### Dedicated Data Portals
 
+Over the last 20 years, the Platform has develop a variety of Taxonomic websites for different groups:
+
+- FADA
+- Biofresh
+- TrIAS
+- RiparIAS
+- Afromoths
+- African Mammals
+- Atlas of Lepidoptera
+- IFBL
+  ...
+
+> We design, database, implement and host these websites. The content is always scrutinized by some scientific experts.
+
 ### Data Use tools
+
+- GBIF API
+- RGBIF
+- PyGBIF
+
+> We help you to discover and make use of these tools.
 
 ### Geographic tools
 

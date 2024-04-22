@@ -6,17 +6,19 @@
       href: /about
     - text: Communité
       href: /community
+    - text: Services
+      href: /services
     - text: FAQs
       href: /faqs
-- text: Occurrences
-  href: /occurrence/search
-- text: Jeux de données
-  href: /dataset/search
-- text: Editeurs de données
-  href: /publisher/search
-- text: Littérature
-  href: /literature/search
-- text: Services
-  href: /services
+- text: Explorez
+  menu:
+    - text: Occurrences
+      href: /occurrence/search
+    - text: Jeux de données
+      href: /dataset/search
+    - text: Editeurs de données
+      href: /publisher/search
+    - text: Littérature
+      href: /literature/search
 - text: Nouvelles
   href: /news

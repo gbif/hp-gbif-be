@@ -9,14 +9,14 @@ height: 70vh
 permalink: /about
 ---
 
-## What is GBIF.be?
+## About GBIF.be
 
-GBIF.be Hosted Portal let you explore **Open Biodiversity Data published about Belgium**. This is all data occurring in Belgium and openly shared through GBIF.
-Most of these data are coming from **Belgian Institutions, Public agencies, Scientists and Citizens**, but also from abroad. This site is part of our contribution to [GBIF Hosted Portals](https://www.gbif.org/hosted-portals).
+**GBIF.be Hosted Portal** let you explore _Open Biodiversity Data published about Belgium_. This is all data occurring in Belgium and openly shared through GBIF.
+Most of these data are coming from _Belgian Institutions, Public agencies, Scientists and Citizens_, but also from abroad. This site is our contribution to [GBIF Hosted Portals](https://www.gbif.org/hosted-portals).
 
 ---
 
-## Who are we?
+## About us
 
 The **Belgian Biodiversity Platform (BBPf)** is a **science-policy interface body** funded by the Belgian Science Policy Office (BELSPO) and is supported by a Cooperation Agreement between the federal and concerned federated authorities. Within the field of biodiversity, it acts as a broker between policy, science and practice.
 
@@ -42,14 +42,8 @@ Open data, knowledge and science: We believe that open and free access to reliab
 
 ---
 
-### More
+### More readings
 
 ![BBPf logo](/assets/images/logos/logoBBPf.png)
 
-If you want to know more about us, please visit these pages:
-
-- [Community](/community)
-- [Services](/services)
-- [FAQs](/faqs)
-
-or our [Belgian Platform main website](https://www.biodiversity.be).
+If you want to know more about us, please read our latest [GBIF activity report](https://analytics-files.gbif.org/country/BE/GBIF_CountryReport_BE.pdf), read our [Community](/community), [Services](/services) or [FAQs](/faqs) pages and visit our [main portal](https://www.biodiversity.be).
