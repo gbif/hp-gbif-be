@@ -6,12 +6,13 @@ columns:
   - name: Contact us
     description: | # Can be Markdown
       The [Belgian Biodiversity Platform](https://www.biodiversity.be) customized this [hosted portal](https://www.gbif.org/hosted-portals) as part of our contribution to [GBIF](https://www.gbif.org)
+      ![BBPf](/assets/images/logos/logoBBPf.png){:height="60px" width="120px"}
 
     connectIcons: true
 
   - name: Partners
     links:
-      - text: Natural Sciences (Federal)
+      - text: Natural Sciences .be (Federal)
         href: https://www.naturalsciences.be
       - text: INBO (Flanders Region)
         href: https://www.inbo.be
@@ -25,6 +26,7 @@ columns:
   - name: Funding
     description: | # Can be Markdown
       This is an initiative of Belspo, [the Belgian Science Policy](https://www.belspo.be)
+      ![Belspo](/assets/images/logos/BELSPO.png){:height="60px" width="120px"}
 
   # EXAMPLE
   #- name: Group name

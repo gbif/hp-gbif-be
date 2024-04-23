@@ -57,25 +57,35 @@ The [Global Registry of Scientific Collections](https://scientific-collections.g
 
 Over the last 20 years, the Platform has develop a variety of Taxonomic websites for different groups:
 
-- FADA
-- Biofresh
-- TrIAS
-- RiparIAS
-- Afromoths
-- African Mammals
-- Atlas of Lepidoptera
-- IFBL
-  ...
+- [African Mammalia](https://projects.biodiversity.be/africanmammalia/)
+- [Afromoths](https://www.afromoths.net/)
+- Online database of Afrotropical moth species
+- [Belgian biodiversity data portal](http://data.biodiversity.be/)
+- [Catalogue of the Lepidoptera of Belgium](https://projects.biodiversity.be/lepidoptera)
+- [Freshwater Animal Diversity Assessment (FADA)](http://fada.biodiversity.be/)
+- [IFBL Data portal](https://projects.biodiversity.be/ifbl/pages/metadata) - Explore Flora Checklists of Belgium
+- [RiparIAS](https://www.riparias.be/) - Reaching Integrated and Prompt Action in Response to Invasive Alien Species
+- [TrIAS](http://trias-project.be) project
 
-> We design, database, implement and host these websites. The content is always scrutinized by some scientific experts.
+> We design, database, implement and host these websites. The content is always provided and scrutinized by scientific experts.
 
 ### Data Use tools
 
-- GBIF API
-- RGBIF
-- PyGBIF
+#### GBIF API
+
+The [GBIF API](https://techdocs.gbif.org/en/openapi/) provides a programmatic way to query and publish data on GBIF.org. With GBIF RESTful API you can query Species, Occurrences, Datasets, Publishers, Networks, Literature, Vocabulary...
+
+#### RGBIF
+
+[rgbif](https://techdocs.gbif.org/en/data-use/rgbif) is an interface to the GBIF API for the R statistical programming environment.
+
+#### PyGBIF
+
+[pygbif](https://techdocs.gbif.org/en/data-use/pygbif) is an interface to the GBIF API for the Python programming language.
 
 > We help you to discover and make use of these tools.
+
+The [GBIF technical documentation](https://techdocs.gbif.org/en/) describes how users can access data from GBIF. It provides information on the available data, how to retrieve it, where it has been cleaned or checked for data quality, and how it should be cited.
 
 ### Geographic tools
 

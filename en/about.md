@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: Welcome
-description: you are on the Belgian GBIF Hosted Portal
+description: to the Belgian GBIF Node Hosted Portal
 background: /assets/images/placeholders/moss.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
@@ -11,16 +11,17 @@ permalink: /about
 
 ## About GBIF.be
 
-**GBIF.be Hosted Portal** let you explore _Open Biodiversity Data published about Belgium_. This is all data occurring in Belgium and openly shared through GBIF.
-Most of these data are coming from _Belgian Institutions, Public agencies, Scientists and Citizens_, but also from abroad. This site is our contribution to [GBIF Hosted Portals](https://www.gbif.org/hosted-portals).
+**GBIF.be Hosted Portal** let you explore _Open Biodiversity Data published about Belgium_. This is all biodiversity data occurring in Belgium and openly shared through the Global Biodiversity Information Facility([GBIF](https://www.gbif.org)).
+Through this site, you can explore _occurrences, datasets, publishers and literature_ on Biodiversity of our country.
+Most of these data are coming from _Belgian Institutions, Public agencies, Scientists and Citizens_, but some are coming from abroad thanks to data repatriation. This site is our contribution to [GBIF Hosted Portals](https://www.gbif.org/hosted-portals).
 
 ---
 
 ## About us
 
-The **Belgian Biodiversity Platform (BBPf)** is a **science-policy interface body** funded by the Belgian Science Policy Office (BELSPO) and is supported by a Cooperation Agreement between the federal and concerned federated authorities. Within the field of biodiversity, it acts as a broker between policy, science and practice.
+The **Belgian GBIF Node** is a team designated by Belgium to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. We are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making.
 
-To fight biodiversity loss, different types of stakeholders need to work hand- in-hand, from public authorities to scientists, businesses, citizens, practitioners and many more. The Platform maintains privileged relations with scientists and policymakers, but our strategic partners are not restricted to these two communities. Indeed, science-policy interfacing (SPI) activities encompass broader interactions between knowledge holders and people involved in governance, decision-making and biodiversity management on the ground.
+We are part of the **Belgian Biodiversity Platform (BBPf)**, a _science-policy interface body_ funded by the _Belgian Science Policy Office (BELSPO)_ supported by a Cooperation Agreement between the federal and concerned federated authorities. Within the field of biodiversity, the Platform acts as a broker between policy, science and practice.
 
 ## Our values
 
@@ -43,7 +44,5 @@ Open data, knowledge and science: We believe that open and free access to reliab
 ---
 
 ### More readings
-
-![BBPf logo](/assets/images/logos/logoBBPf.png)
 
 If you want to know more about us, please read our latest [GBIF activity report](https://analytics-files.gbif.org/country/BE/GBIF_CountryReport_BE.pdf), read our [Community](/community), [Services](/services) or [FAQs](/faqs) pages and visit our [main portal](https://www.biodiversity.be).
