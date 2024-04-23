@@ -44,10 +44,10 @@ Our country also is very active on the **Biodiversity informatics** internationa
 |
 | --------------------------------------------------------------------- | ----- |
 | ![Biodiversa+](/assets/images/logos/biodiversa+.png){:height="60px" width="180px"} | [BiodivERsA+](https://www.biodiversa.eu/) |
-| ![CoL](/assets/images/logos/col.jpg){:height="60px" width="180px"} | [Catalogue of Life](https://www.catalogueoflife.org/) |
+| ![CoL](/assets/images/logos/CoL.jpg){:height="60px" width="180px"} | [Catalogue of Life](https://www.catalogueoflife.org/) |
 | ![dissco](/assets/images/logos/dissco.png){:height="60px" width="180px"} | [DiSSCo](https://www.dissco.eu/) |
 | ![Elixir](/assets/images/logos/Elixir.png){:height="60px" width="120px"} | [Elixir Europe](https://elixir-europe.org/) |
-| ![EuropaBON](/assets/images/logos/Europabon.jpg){:height="60px" width="180px"}| [EuropaBON](https://europabon.org/) |
+| ![EuropaBON](/assets/images/logos/europabon.jpg){:height="60px" width="180px"}| [EuropaBON](https://europabon.org/) |
 | ![GBIF](/assets/images/logos/GBIF-2015.png){:height="60px" width="180px"} | [GBIF](https://www.gbif.org) |
 | ![IPBES](/assets/images/logos/IPBES.jpg){:height="60px" width="180px"} | [IPBES](https://www.ipbes.net/) |
 | ![IUCN](/assets/images/logos/IUCN.svg){:height="60px" width="120px"} | [IUCN](https://www.iucn.org/) |
