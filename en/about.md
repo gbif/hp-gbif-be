@@ -19,7 +19,7 @@ Most of these data are coming from _Belgian Institutions, Public agencies, Scien
 
 ## About us
 
-The **Belgian GBIF Node** is a team designated by Belgium to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. We are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making.
+The **Belgian GBIF Node** is a team designated by Belgium to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. We are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making. Our vibrant [Community](/community) consists of **federal/regional organizations, Universities and NGOs**.
 
 We are part of the **Belgian Biodiversity Platform (BBPf)**, a _science-policy interface body_ funded by the _Belgian Science Policy Office (BELSPO)_ supported by a Cooperation Agreement between the federal and concerned federated authorities. Within the field of biodiversity, the Platform acts as a broker between policy, science and practice.
 
@@ -45,4 +45,4 @@ Open data, knowledge and science: We believe that open and free access to reliab
 
 ### More readings
 
-If you want to know more about us, please read our latest [GBIF activity report](https://analytics-files.gbif.org/country/BE/GBIF_CountryReport_BE.pdf), read our [Community](/community), [Services](/services) or [FAQs](/faqs) pages and visit our [main portal](https://www.biodiversity.be).
+If you want to know more about our Node activities, please read our latest [GBIF activity report](https://analytics-files.gbif.org/country/BE/GBIF_CountryReport_BE.pdf), read our [Community](/community), [Services](/services) or [FAQs](/faqs) sections and visit our [main portal](https://www.biodiversity.be).

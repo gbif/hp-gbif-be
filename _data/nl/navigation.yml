@@ -1,16 +1,28 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: A propos
-  href: /fr/about
-- text: Explorez
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: About
+  menu:
+    - text: What is GBIF.be?
+      href: /about
+    - text: Community
+      href: /community
+    - text: Services
+      href: /services
+    - text: FAQs
+      href: /faqs
+
+- text: Explore
   menu:
     - text: Occurrences
-      href: /fr/occurrence/search
-    - text: Jeux de données
+      href: /occurrence/search
+    - text: Datasets
       href: /dataset/search
-    - text: Editeurs de donnéed
+    - text: Publishers
       href: /publisher/search
-    - text: Littérature
+    - text: Literature
       href: /literature/search
-- text: Nouvelles
-  href: /fr/news
+
+- text: News
+  href: /news
