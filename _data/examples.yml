@@ -1,26 +1,25 @@
-
 stories:
   # Title (Optional)
-  title: Stories
+  title: Global News
   # Description (Optional)
   description: |
-    Forth beginning form dry thing. Form seed void likeness darkness light. Can’t created third upon spirit fruitful hath likeness their. Replenish saw female night they’re you blessed all greater cattle, grass god fifth you’re. Above wherein replenish face multiply male every. Own hath lights under creeping.
+    (from GBIF.org news feed)
   # Filters
   # Use these options to tailor the content displayed in your block.
   filters:
-    contentType: 
+    contentType:
       - DATA_USE
       - NEWS
       # - EVENT
-    limit: 6 
+    limit: 4
     # locale:
     #   - fr
 
 stats:
   klass: contentTypesStat
   # title: "type: stats"
-  # description: |      # required
-  #  See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
+  # description: | # required
+  # See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
   features:
     - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution?displayOnNHCPortal=true">642</span>
       description: Institutions
@@ -40,7 +39,7 @@ couldBeAnyName:
     Forth beginning form dry thing. Form seed void likeness darkness light. Can’t created third upon spirit fruitful hath likeness their. Replenish saw female night they’re you blessed all greater cattle, grass god fifth you’re. Above wherein replenish face multiply male every. Own hath lights under creeping.
   features:
     - title: Abundantly light years # required
-      description: |      # required
+      description: | # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       href: /about
       # img required
@@ -48,25 +47,25 @@ couldBeAnyName:
       imageLicense: None for this image, but normally you would provide one here
       # categories: [drawings] # optional
     - title: Fly moving land # required
-      description: |      # required
+      description: | # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       href: /about
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
     - title: Fruitful replenish # required
-      description: |      # required
+      description: | # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       href: /about
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
     - title: Land man dry # required
-      description: |      # required
+      description: | # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       href: /about
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
     - title: Abundantly light years # required
-      description: |      # required
+      description: | # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       href: /about
       background: /assets/images/placeholders/blocks2.png
@@ -75,7 +74,7 @@ couldBeAnyName:
 herbariumImageExample:
   reverse: false
   title: "Likeness darkness light"
-  description: |      # required
+  description: | # required
     Forth beginning form dry thing. Form seed void likeness darkness light. Can't created third upon spirit fruitful hath likeness their. Replenish saw female night they're you blessed all greater cattle, grass god fifth you're. Above wherein replenish face multiply male every. Own hath lights under creeping.
   # img required
   background: https://data.nhm.ac.uk/media/d9850154-9e45-426c-8712-d030da3c1c00
@@ -83,6 +82,6 @@ herbariumImageExample:
     *Polyptychodon* Owen, 1841 collected in United Kingdom of Great Britain and Northern Ireland. [See full record](/specimen/search?entity=1057252794&view=TABLE) (licensed under http://creativecommons.org/licenses/by/4.0/)
   href: /about
   cta:
-  - text: Download report
-    href: http://example.com
-    isPrimary: true
+    - text: Download report
+      href: http://example.com
+      isPrimary: true

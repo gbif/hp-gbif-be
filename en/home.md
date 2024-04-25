@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: Biodiversity in Belgium
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+description: Welcome to GBIF.be Hosted Portal.<br> Explore Biodiversity occurrences in our country. Discover the vibrant community of data publishers and the services offered by your Node.
 background:  "{{ site.data.images.acalypha_gillespieae.src }}"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 90vh
@@ -16,6 +16,10 @@ cta:
   - text: Occurrences
     href: /occurrence/search
     isPrimary: true
+  - text: Community
+    href: /community
+  - text: Services
+    href: /services
   - text: About
     href: /about
 composition:
