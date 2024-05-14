@@ -11,13 +11,10 @@ columns:
     connectIcons: true
 
   - name: Partners
-    links:
-      - text: Natural Sciences .be (Federal)
-        href: https://www.naturalsciences.be
-      - text: INBO (Flanders Region)
-        href: https://www.inbo.be
-      - text: DEMNA (Walloon Region)
-        href: http://environnement.wallonie.be/administration/demna.htm
+    description: | # Can be Markdown
+      ![RBINS](/assets/images/logos/RBINS.png){:height="60px" width="120px"}<br>
+      ![INBO](/assets/images/logos/INBO.png){:height="60px" width="120px"}<br>
+      ![DEMNA](/assets/images/logos/DEMNA.png){:height="60px" width="120px"}<br>
 
   - name: Code
     description: | # Can be Markdown

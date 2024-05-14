@@ -13,7 +13,7 @@ cta:
     isPrimary: true
 ---
 
-## ![GBIF](/assets/images/logos/GBIF-2015.png){:height="50px" width="50px"}
+![GBIF](/assets/images/logos/GBIF-2015.png){:height="60px" width="120px"}
 
 **GBIF.be Hosted Portal** let you explore _Open Biodiversity Data published about Belgium_. This is all biodiversity data occurring in Belgium and openly shared through the Global Biodiversity Information Facility([GBIF](https://www.gbif.org)).
 Through this site, you can explore _occurrences, datasets, publishers and literature_ on Biodiversity of our country.
@@ -21,17 +21,19 @@ Most of these data are coming from _Belgian Institutions, Public agencies, Scien
 
 ---
 
-## ![GBIF node](/assets/images/logos/node-green.png){:height="50px" width="50px"}
+![GBIF node](/assets/images/logos/node-green.png){:height="60px" width="120px"}
 
 The **Belgian GBIF Node** is a team designated by Belgium to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. We are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making. Our vibrant [Community](/community) consists of **federal/regional organizations, Universities and NGOs**.
 
 ---
 
-## ![BBPf](/assets/images/logos/logoBBPf.png){:height="50px" width="50px"}
+![BBPf](/assets/images/logos/logoBBPf.png){:height="60px" width="120px"}
 
 We are part of the **Belgian Biodiversity Platform (BBPf)**, a _science-policy interface body_ funded by the _Belgian Science Policy Office (BELSPO)_ supported by a Cooperation Agreement between the federal and concerned federated authorities. Within the field of biodiversity, the Platform acts as a broker between policy, science and practice.
 
----
+## Our mission
+
+> "Decision making on biodiversity issues is grounded on sound evidence and takes place through collaboration between actors"
 
 ## Our values
 
