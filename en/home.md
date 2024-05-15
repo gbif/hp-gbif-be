@@ -24,22 +24,13 @@ cta:
     href: /about
 composition:
   - type: heroImage
+  - type: stats
+    data: examples.stats
   - type: stories
     data: examples.stories
   - type: split
     data: examples.support
-  - type: features
-    data: examples.topics
+#  - type: pageMarkdown # This block will render the markdown in this file so no data property needed
 ---
 
 Edit `/home.md` to change the text.
-
-Lorem markdownum spatium limes indefessus neque _at_ orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus _valent_, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).

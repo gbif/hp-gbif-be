@@ -2,8 +2,6 @@ stories:
   # Title (Optional)
   title: Global News
   # Description (Optional)
-  description: |
-    from GBIF Secretariat
   # Filters
   # Use these options to tailor the content displayed in your block.
   filters:
@@ -11,15 +9,36 @@ stories:
       - DATA_USE
       - NEWS
       # - EVENT
-    limit: 4
+    limit: 6
     # locale:
     #   - fr
-
+stats:
+  klass: contentTypesStat
+  # title: "type: stats"
+  # description: |      # required
+  #  See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
+  features:
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?country=BE&limit=0"></span>
+      description: Occurrences
+      background: /assets/images/icons/occurrence.svg
+      href: /occurrence/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=BE&limit=0"></span>
+      description: Publishers
+      background: /assets/images/icons/publisher.svg
+      href: /publisher/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=BE&limit=0"></span>
+      description: Datasets
+      background: /assets/images/icons/dataset.svg
+      href: /dataset/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?countriesOfResearcher=BE&limit=0"></span>
+      description: Articles
+      background: /assets/images/icons/article.svg
+      href: /literature/search
 support:
   reverse: false
   title: "Supporting GBIF"
   description: | # required
-    Belgium was an early adopter of GBIF and remained one of the most active Voting Participant since 2001. Thanks to our continuous efforts in data mobilization, publication and use, we delivered great results compared to the size of our country.
+    Belgium was an early adopter of GBIF and remained one of the most active Voting Participant since 2001. Thanks to our continuous efforts in data mobilization, publication and use, we delivered great results for such a small country.
   # img required
   background: /assets/images/placeholders/mapBE2024-05-15.png
   imageLicense: |
