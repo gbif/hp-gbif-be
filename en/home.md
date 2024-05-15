@@ -27,9 +27,9 @@ composition:
   - type: stories
     data: examples.stories
   - type: split
-    data: examples.herbariumImageExample
+    data: examples.support
   - type: features
-    data: examples.couldBeAnyName
+    data: examples.topics
 ---
 
 Edit `/home.md` to change the text.

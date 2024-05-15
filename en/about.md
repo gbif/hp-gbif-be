@@ -57,4 +57,4 @@ Open data, knowledge and science: We believe that open and free access to reliab
 
 ### More readings
 
-If you want to know more about our activities, please read our [Community](/community), [Services](/services) or [FAQs](/faqs) sections and visit our [Platform main portal](https://www.biodiversity.be).
+If you want to know more about our activities, please read our [Community](/community), [Services](/services), [Team](/team) or [FAQs](/faqs) sections and visit our [Platform main portal](https://www.biodiversity.be).

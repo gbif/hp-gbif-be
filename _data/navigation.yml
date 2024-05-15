@@ -8,6 +8,8 @@
       href: /community
     - text: Services
       href: /services
+    - text: Team
+      href: /team
     - text: FAQs
       href: /faqs
 
@@ -22,5 +24,5 @@
     - text: Literature
       href: /literature/search
 
-- text: News
+- text: Local News
   href: /news
