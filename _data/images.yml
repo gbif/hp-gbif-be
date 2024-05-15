@@ -1,5 +1,5 @@
-# it is possible to refer to images in front matter and access these images. 
-# Or you can choose to just type them in the front matter. It is a matter of preference. 
+# it is possible to refer to images in front matter and access these images.
+# Or you can choose to just type them in the front matter. It is a matter of preference.
 # If you reuse images a lot, it can be convinent to only have them one place.
 
 # So in your frontmatter you can either use this data file :
@@ -30,4 +30,7 @@ catocala_ilia_cramer:
   src: /assets/images/placeholders/catocala_ilia_cramer_2365571744.jpg
   caption: |
     [_Catocala ilia_ Cramer, 1779](https://www.gbif.org/occurrence/2365571744) from [Peabody Museum of Natural History](institution/75f50140-830d-4630-a290-3d6e951a7c29)
-
+Lycaena_tityrus:
+  src: /assets/images/placeholders/Lycaena_tityrus_BRB2726.jpg
+  caption: |
+    Lycaena tityrus © [Yvan Barbier](https://www.yvanbarbier.com)

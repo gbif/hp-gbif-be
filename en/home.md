@@ -3,8 +3,8 @@ lang-ref: home
 layout: home
 title: Biodiversity in Belgium
 description: Welcome to GBIF.be Hosted Portal.<br> Explore Biodiversity occurrences in our country. Discover the vibrant community of data publishers and the services offered by your Node.
-background:  "{{ site.data.images.acalypha_gillespieae.src }}"
-imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
+background:  "{{ site.data.images.Lycaena_tityrus.src }}"
+imageLicense: "{{ site.data.images.Lycaena_tityrus.caption }}"
 height: 90vh
 height: 70vh
 permalink: /
