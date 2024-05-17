@@ -36,15 +36,17 @@ stats:
       href: /literature/search
 support:
   reverse: false
-  title: "Supporting GBIF"
+  title: "our contribution"
   description: | # required
-    Belgium was an early adopter of GBIF and remained one of the most active Voting Participant since 2001. Thanks to our continuous efforts in data mobilization, publication and use, we delivered great results for such a small country.
+    Belgium was an early adopter of GBIF and remained very active Voting Participant since 2001. Thanks to our continuous efforts in data mobilization, publication and use, we delivered great results for such a small country.
   # img required
   background: /assets/images/placeholders/mapBE2024-05-15.png
   imageLicense: |
     GBIF.org
   href: /about
   cta:
+    - text: visit our country page
+      href: https://www.gbif.org/country/BE
     - text: Download activity report
       href: https://www.gbif.org/sites/default/files/gbif_analytics/country/BE/GBIF_CountryReport_BE.pdf
       isPrimary: true
@@ -97,50 +99,31 @@ staff:
   features:
     - title: Andre Heughebaert # required
       description: | # required
-        Senior Software engineer and expert in Biodiversity Informatics, André manages the Platform's IT team. He coordinates data management, websites and web based services. André is our representative to Global Biodiversity Information Facility (GBIF) Governing Board taking part in the global-level decision making. He has a particular interest in Biodiversity Data Exchange Standards, Data Visualisation, Cleaning and Publication Tools.<br>Node manager
-      href: /team
+        Senior Software engineer and expert in Biodiversity Informatics, André manages the Platform's IT team. He coordinates data management, websites and web based services. André is our representative to Global Biodiversity Information Facility (GBIF) Governing Board taking part in the global-level decision making. He has a particular interest in Biodiversity Data Exchange Standards, Data Visualisation, Cleaning and Publication Tools.<br>[contact](maito:a.heughebaert@biodiversity.be)
       categories: [Node manager]
       background: /assets/images/staff/andre.png
-      imageLicense: None for this image, but normally you would provide one here
+      imageLicense: None
     - title: Julien Cigar # required
       description: | # required
-        IT specialist, Julien is the Belgian Biodiversity Platform system administrator. He has particular interest in databases, Python and the FreeBSD operating system.
-      href: /team
+        IT specialist, Julien is the Belgian Biodiversity Platform system administrator. He has particular interest in databases, Python and the FreeBSD operating system.<br>[contact](maito:j.cigar@biodiversity.be)
       categories: [System Adminstrator]
       background: /assets/images/staff/julien.png
-      imageLicense: None for this image, but normally you would provide one here
+      imageLicense: None
     - title: Dimitri Brossens # required
       description: | # required
-        Dimitri is a biologist interested in biodiversity informatics and is the GBIF (Global Biodiversity Information Facility) node manager for Belgium, he animates the network and is actively involved in data mobilisation and publication in Belgium. Dimitri has a particular interest in data standardisation, Darwin Core, invasive species, palaeontology, terrestrial and freshwater biodiversity. He advocates Open Science in the Research cycle and looks for practical usage of open data. He loves to chat with scientists and helps them to publish their data. His ultimate goal is to get Belgium on the global map of biodiversity. Dimitri has is office in the Research Institute for Nature and Forest.
-      href: /team
+        Dimitri is a biologist interested in biodiversity informatics and is the GBIF (Global Biodiversity Information Facility) node manager for Belgium, he animates the network and is actively involved in data mobilisation and publication in Belgium. Dimitri has a particular interest in data standardisation, Darwin Core, invasive species, palaeontology, terrestrial and freshwater biodiversity. He advocates Open Science in the Research cycle and looks for practical usage of open data. He loves to chat with scientists and helps them to publish their data. His ultimate goal is to get Belgium on the global map of biodiversity. Dimitri has is office in the Research Institute for Nature and Forest.<br>[contact](maito:d.brosens@biodiversity.be)
       categories: [Open Data Expert]
       background: /assets/images/staff/dimi.png
-      imageLicense: None for this image, but normally you would provide one here
+      imageLicense: None
     - title: Maxime Coppremanne # required
       description: | # required
-        Maxime is a biologist involved in the mobilization of biodiversity data on the Global Biodiversity Information Facility (GBIF) portal. Based at the Départment d'Etude du Milieu Naturel et Agricole (SPW-DEMNA), he advocates the use of Open Data in Wallonia and support anyhow is willing to join the open side of the science. His  particular interests are biodiversity informatics, data management, marine life, invasive species, species distribution models and Open Science.
-      href: /team
+        Maxime is a biologist involved in the mobilization of biodiversity data on the Global Biodiversity Information Facility (GBIF) portal. Based at the Départment d'Etude du Milieu Naturel et Agricole (SPW-DEMNA), he advocates the use of Open Data in Wallonia and support anyhow is willing to join the open side of the science. His  particular interests are biodiversity informatics, data management, marine life, invasive species, species distribution models and Open Science.<br>[contact](maito:m.coppremanne@biodiversity.be)
       categories: [Open Data Expert]
       background: /assets/images/staff/max.png
-      imageLicense: None for this image, but normally you would provide one here
+      imageLicense: None
     - title: Stijn Cooleman # required
       description: | # required
-        Stijn is a biologist with interdisciplinary skills in data management. He is involved in open data activities at the platform. By focusing on biodiversity informatic standards and data mapping, he supports to mobilise natural history knowledge from collections to web portals of the Global Biodiversity Information Facility (GBIF) and European Infrastructures. He has a particular interest in avian ecology, taxonomy, species distribution and ecosystem services.
-      href: /team
+        Stijn is a biologist with interdisciplinary skills in data management. He is involved in open data activities at the platform. By focusing on biodiversity informatic standards and data mapping, he supports to mobilise natural history knowledge from collections to web portals of the Global Biodiversity Information Facility (GBIF) and European Infrastructures. He has a particular interest in avian ecology, taxonomy, species distribution and ecosystem services.<br>[contact](maito:s.cooleman@biodiversity.be)
       categories: [Open Data Expert]
       background: /assets/images/staff/stijn.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Sebastien Ronveaux # required
-      description: | # required
-        Sébastien is a computer scientist specialised in computer imaging and computer vision. Hired within the context of the RiparIAS project, he's currently developing the decision support tool which is a key deliverable of this project. He has particular interests in programming languages and paradigms, imaging and optimisation.
-      href: /team
-      categories: [Developer]
-      background: /assets/images/staff/sebastien.png
-      imageLicense: None for this image, but normally you would provide one here
-
-    - title: Francois Malherbe # required
-      description: | # required
-        François has helped update our data portal (https://data.biodiversity.be) and is working on the database export of the Belgian Gracillariidae database to enrich the Catalogue of Life collection. He has particular interest in the open source, inclusive social projects and zero waste.            href: /team
-      categories: [Developer]
-      background: /assets/images/staff/francois.png
-      imageLicense: None for this image, but normally you would provide one here
+      imageLicense: None

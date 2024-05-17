@@ -8,19 +8,4 @@ background: /assets/images/logos/node-green.png
 
 The Belgian Node consists of members based in federal and regional research institutes.
 
-## Open Data experts
-
-|---|---|---|
-|Dimitri Brosens|||
-|Stijn Cooleman|||
-|Maxime Coupremanne|||
-
-## IT experts
-
-|---|---|---|
-|Andre Heughebaert|||
-|Julien Cigar|||
-|François Malherbe|||
-|Sébastien Ronveaux|||
-
 Discover the rest of the Belgian Biodiversity Platform team [here](https://www.biodiversity.be/1764/)

@@ -2,9 +2,8 @@
 lang-ref: services
 title: Our Services
 description: Node offer a variety of services
-background: /assets/images/placeholders/moss.jpg
-imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+background: "{{ site.data.images.Lycaena_tityrus.src }}"
+imageLicense: "{{ site.data.images.Lycaena_tityrus.caption }}"
 height: 70vh
 permalink: /services
 ---
@@ -55,12 +54,11 @@ The [Global Registry of Scientific Collections](https://scientific-collections.g
 
 ### Dedicated Data Portals
 
-Over the last 20 years, the Platform has develop a variety of Taxonomic websites for different groups:
+Over the last 20 years, we developped a variety of websites:
 
 - [African Mammalia](https://projects.biodiversity.be/africanmammalia/)
-- [Afromoths](https://www.afromoths.net/)
-- Online database of Afrotropical moth species
-- [Belgian biodiversity data portal](http://data.biodiversity.be/)
+- [Afromoths](https://www.afromoths.net/) Online database of Afrotropical moth species
+- [Belgian biodiversity data portal](http://data.biodiversity.be/) Data published by Belgium
 - [Catalogue of the Lepidoptera of Belgium](https://projects.biodiversity.be/lepidoptera)
 - [Freshwater Animal Diversity Assessment (FADA)](http://fada.biodiversity.be/)
 - [IFBL Data portal](https://projects.biodiversity.be/ifbl/pages/metadata) - Explore Flora Checklists of Belgium
