@@ -90,31 +90,31 @@ staff:
   features:
     - title: Andre Heughebaert # required
       description: | # required
-        Ingénieur logiciel senior et expert en informatique de la biodiversité, André dirige l'équipe informatique de la Plateforme. Il coordonne la gestion des données, les sites Web et les services Web. André est notre représentant auprès du conseil d’administration du Global Biodiversity Information Facility (GBIF) et participe à la prise de décision au niveau mondial. Il s'intéresse particulièrement aux normes d'échange de données sur la biodiversité, aux outils de visualisation, de nettoyage et de publication des données.<br>[contact](maito:a.heughebaert@biodiversity.be)
+        Ingénieur logiciel senior et expert en informatique de la biodiversité, André dirige l'équipe informatique de la Plateforme. Il coordonne la gestion des données, les sites Web et les services Web. André est notre représentant auprès du conseil d’administration du Global Biodiversity Information Facility (GBIF) et participe à la prise de décision au niveau mondial. Il s'intéresse particulièrement aux normes d'échange de données sur la biodiversité, aux outils de visualisation, de nettoyage et de publication des données.<br>[<i class="fa fa-envelope"></i> contact](maito:a.heughebaert@biodiversity.be)
       categories: [Gestionnaire du Noeud]
       background: /assets/images/staff/andre.png
       imageLicense: None
     - title: Julien Cigar # required
       description: | # required
-        Informaticien, Julien est l'administrateur système de la Plateforme Belge pour la Biodiversité. Il s'intéresse particulièrement aux bases de données, à Python et au système d'exploitation FreeBSD.<br>[contact](maito:j.cigar@biodiversity.be)
+        Informaticien, Julien est l'administrateur système de la Plateforme Belge pour la Biodiversité. Il s'intéresse particulièrement aux bases de données, à Python et au système d'exploitation FreeBSD.<br>[<i class="fa fa-envelope"></i> contact](maito:j.cigar@biodiversity.be)
       categories: [Administrateur de système]
       background: /assets/images/staff/julien.png
       imageLicense: None
     - title: Dimitri Brossens # required
       description: | # required
-        Dimitri est un biologiste intéressé par l'informatique de la biodiversité, il anime le réseau et participe activement à la mobilisation et à la publication des données en Flandres. Dimitri s'intéresse particulièrement à la standardisation des données, au Darwin Core, aux espèces envahissantes, à la paléontologie, à la biodiversité terrestre et d'eau douce. Il prône la science ouverte dans le cycle de recherche et recherche une utilisation pratique des données ouvertes. Il adore discuter avec les scientifiques et les aide à publier leurs données. Dimitri travaille à l'Institut de Recherche sur la Nature et la Forêt.<br>[contact](maito:d.brosens@biodiversity.be)
+        Dimitri est un biologiste intéressé par l'informatique de la biodiversité, il anime le réseau et participe activement à la mobilisation et à la publication des données en Flandres. Dimitri s'intéresse particulièrement à la standardisation des données, au Darwin Core, aux espèces envahissantes, à la paléontologie, à la biodiversité terrestre et d'eau douce. Il prône la science ouverte dans le cycle de recherche et recherche une utilisation pratique des données ouvertes. Il adore discuter avec les scientifiques et les aide à publier leurs données. Dimitri travaille à l'Institut de Recherche sur la Nature et la Forêt.<br>[<i class="fa fa-envelope"></i> contact](maito:d.brosens@biodiversity.be)
       categories: [Expert en données]
       background: /assets/images/staff/dimi.png
       imageLicense: None
     - title: Maxime Coppremanne # required
       description: | # required
-        Maxime est un biologiste impliqué dans la mobilisation des données sur la biodiversité sur le portail Global Biodiversity Information Facility (GBIF). Basé au Département d'Etude du Milieu Naturel et Agricole (SPW-DEMNA), il prône l'utilisation de l'Open Data en Wallonie et souhaite en tout cas rejoindre le côté ouvert de la science. Ses intérêts particuliers sont l'informatique de la biodiversité, la gestion des données, la vie marine, les espèces envahissantes, les modèles de répartition des espèces et la science ouverte.<br>[contact](maito:m.coppremanne@biodiversity.be)
+        Maxime est un biologiste impliqué dans la mobilisation des données sur la biodiversité sur le portail Global Biodiversity Information Facility (GBIF). Basé au Département d'Etude du Milieu Naturel et Agricole (SPW-DEMNA), il prône l'utilisation de l'Open Data en Wallonie et souhaite en tout cas rejoindre le côté ouvert de la science. Ses intérêts particuliers sont l'informatique de la biodiversité, la gestion des données, la vie marine, les espèces envahissantes, les modèles de répartition des espèces et la science ouverte.<br>[<i class="fa fa-envelope"></i> contact](maito:m.coppremanne@biodiversity.be)
       categories: [Expert en données]
       background: /assets/images/staff/max.png
       imageLicense: None
     - title: Stijn Cooleman # required
       description: | # required
-        Stijn est un biologiste doté de compétences interdisciplinaires en gestion de données. Il est impliqué dans les activités open data de la plateforme. En se concentrant sur les standards et la cartographie des données, il soutient la mobilisation des connaissances sur l'histoire naturelle des collections. Il s'intéresse particulièrement à l'écologie aviaire, à la taxonomie, à la répartition des espèces et aux services écosystémiques.<br>[contact](maito:s.cooleman@biodiversity.be)
+        Stijn est un biologiste doté de compétences interdisciplinaires en gestion de données. Il est impliqué dans les activités open data de la plateforme. En se concentrant sur les standards et la cartographie des données, il soutient la mobilisation des connaissances sur l'histoire naturelle des collections. Il s'intéresse particulièrement à l'écologie aviaire, à la taxonomie, à la répartition des espèces et aux services écosystémiques.<br>[<i class="fa fa-envelope"></i> contact](maito:s.cooleman@biodiversity.be)
       categories: [Expert en données]
       background: /assets/images/staff/stijn.png
       imageLicense: None
