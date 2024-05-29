@@ -1,10 +1,10 @@
 ---
 lang-ref: home
 layout: home
-title: Biodiversité en Belgique
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background:  "{{ site.data.images.acalypha_gillespieae.src }}"
-imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
+title: la biodiversité en Belgique
+description: Bienvenue sur le portail hébergé GBIF.be.<br> Explorez la biodiversté de notre pays. Découvrez les éditeurs de données et les services offerts par le noeud GBIF.
+background:  "{{ site.data.images.Lycaena_tityrus.src }}"
+imageLicense: "{{ site.data.images.Lycaena_tityrus.caption }}"
 height: 90vh
 height: 70vh
 permalink: /fr
@@ -14,28 +14,23 @@ navbar:
   floating: true
 cta:
   - text: Occurrences
-    href: /occurrence/search
+    href: /fr/occurrence/search
     isPrimary: true
-  - text: About
-    href: /about
+  - text: Communité
+    href: /fr/community
+  - text: Services
+    href: /fr/services
+  - text: A propos
+    href: /fr/about
 composition:
   - type: heroImage
+  - type: stats
+    data: fr.examples.stats
   - type: stories
     data: fr.examples.stories
   - type: split
-    data: examples.herbariumImageExample
-  - type: features
-    data: examples.couldBeAnyName
+    data: fr.examples.support
+#  - type: pageMarkdown # This block will render the markdown in this file so no data property needed
 ---
 
 Edit `/home.md` to change the text.
-
-Lorem markdownum spatium limes indefessus neque _at_ orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus _valent_, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).

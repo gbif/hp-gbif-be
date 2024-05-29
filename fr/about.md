@@ -1,42 +1,55 @@
 ---
 lang-ref: about
-title: Qu'est-ce que le GBIF.be?
-description: Bienvenue sur le portail GBIF Belge
-background: /assets/images/placeholders/moss.jpg
-imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+title: Bienvenue sur GBIF.be
+description: portail hébergé de notre noeud
+background: "{{ site.data.images.Lycaena_tityrus.src }}"
+imageLicense: "{{ site.data.images.Lycaena_tityrus.caption }}"
 height: 70vh
 permalink: /fr/about
 ---
 
-## What can I discover here?
+![GBIF](/assets/images/logos/GBIF-2015.png){:height="60px" width="120px"}
 
-GBIF.be Hosted Portal let you explore **Open Biodiversity Data published about Belgium**. This is all data occurring in Belgium and openly shared through GBIF.
-Most of these data are coming from **Belgian Institutions, Public agencies, Scientists and Citizens**, but also from abroad. This site is part of our contribution to [GBIF Hosted Portals](https://www.gbif.org/hosted-portals).
+Le **portail hébergé GBIF.be** vous présente les _données ouvertes de biodiversité dans notre pays_. C'est à dire toutes les données receuillies en Belgique et partagées via le Global Biodiversity Information Facility([GBIF](https://www.gbif.org/fr)).
+Sur ce site, vous pouvez explorer les _occurrences, jeux de données et éditeurs de données ainsi que la litérature_ sur la biodiversité dans notre pays.
+La grande majorité de ces données viennent d' \_institutions, d'organismes publiques, de scientifiques et de citoyens; d'autres proviennent de l'étranger gràce à la rapatriation de données. Ce site est notre contribution aux [portails hébergés du GBIF](https://www.gbif.org/fr/hosted-portals).
 
 ---
 
-## Who are we?
+![Noeud GBIF](/assets/images/logos/node-green.png){:height="60px" width="120px"}
 
-The **Belgian Biodiversity Platform (BBPf)** is a **science-policy interface body** funded by the Belgian Science Policy Office (BELSPO) and is supported by a Cooperation Agreement between the federal and concerned federated authorities. Within the field of biodiversity, it acts as a broker between policy, science and practice.
+Le **noeud Belge du GBIF** est une équipe désignée par la Belgique pour coordonner un réseau de personnes et d'institutions qui produisent, gèrent et utilisent des données sur la biodiversité, construisant collectivement une infrastructure pour fournir des informations sur la biodiversité. Au travers de dispositions organisationnelles et des solutions informatiques, nous travaillaons à améliorer la disponibilité et l'utilisation des données sur la biodiversité pour la recherche, les politiques et la prise de décision. Notre [communauté](/fr/community) se compose d'un large panel d'**institutions fédérales et régionales, d'organisations, d'universités et d'ONGs**.
 
-To fight biodiversity loss, different types of stakeholders need to work hand- in-hand, from public authorities to scientists, businesses, citizens, practitioners and many more. The Platform maintains privileged relations with scientists and policymakers, but our strategic partners are not restricted to these two communities. Indeed, science-policy interfacing (SPI) activities encompass broader interactions between knowledge holders and people involved in governance, decision-making and biodiversity management on the ground.
-See our [Community page](/community) to discover all our partners.
+---
 
-## Our values
+![BBPf](/assets/images/logos/logoBBPf.png){:height="60px" width="120px"}
 
-### ![Holistic thinking](/assets/images/icons/valueHolistic.png)Holistic thinking
+Nous faisons partie de la **Plateforme Belgge de Biodiversité(BBPf)**, une interface science-politique financée par la* Politique Scientique Belge (BELSPO)* soutenue par un accord de cooperation entre le fédéral et les entités fédérées concernées. Dans le cadre de la biodiversité, la plateforme agit comme intermédiaire entre la politique, la science et la pratique.
 
-A holistic approach refers to dealing with the whole of something rather than just a part of it. In the context of our work on biodiversity, we aim to look at all levels, drivers, disciplines and sectors related to biodiversity and address them together in a systemic way rather than through silos;
+## Notre mission
 
-### ![Transdisciplinarity](/assets/images/icons/valueTransdisciplinarity.png)Transdisciplinarity
+> "La prise de décision sur les questions de biodiversité est fondée sur des preuves solides et s'effectue grâce à la collaboration entre les acteurs."
 
-We believe that the issues related to biodiversity cannot be solved by a unique discipline and by scientific knowledge alone. By ensuring that biodiversity related issues are looked at from different perspectives including views of relevant stakeholders, by a diversity of disciplines, across different sectors, and by co-creating knowledge in a joint manner, we will be able to solve the challenges our society is currently facing. We can create new conceptual, theoretical, methodological innovations that integrate stakeholders perspectives and move beyond discipline-specific approaches to address the common environmental issues that we are all facing.
+## Nos valeurs
 
-### ![Trust](/assets/images/icons/valueTrust.png)Trust
+### ![Holistic thinking](/assets/images/icons/valueHolistic.png)Pensée holistique
 
-Nurturing trust among the different communities engaged in and/or depending on biodiversity (i.e., various scientific disciplines, policymakers, civil society, managers, private sectors etc.) is crucial. Trust allows for dialogue which leads to common understanding and therefore, to informed decisions at all levels
+Une approche holistique consiste à traiter la totalité d’une chose plutôt que seulement une partie de celle-ci. Dans le contexte de notre travail sur la biodiversité, nous visons à examiner tous les niveaux, moteurs, disciplines et secteurs liés à la biodiversité et à les aborder ensemble de manière systémique plutôt qu'en silos.
 
-### ![Open access](/assets/images/icons/valueOpen.png)Open access
+### ![Transdisciplinarity](/assets/images/icons/valueTransdisciplinarity.png)Transdisciplinarité
 
-Open data, knowledge and science: We believe that open and free access to reliable biodiversity knowledge and data is key in responding to the challenges facing decision-making in terms of biodiversity. Extending the principles of openness to the whole research process entails a systemic change to the way science is done and used in practice, supporting mandatory scientific integrity.
+Nous pensons que les enjeux liés à la biodiversité ne peuvent être résolus par une seule discipline et par la seule connaissance scientifique. En veillant à ce que les questions liées à la biodiversité soient examinées sous différents angles, y compris les points de vue des parties prenantes concernées, par une diversité de disciplines et dans différents secteurs, et en co-créant des connaissances de manière conjointe, nous serons en mesure de résoudre les défis auxquels notre société est actuellement confrontée. Nous pouvons créer de nouvelles innovations conceptuelles, théoriques et méthodologiques qui intègrent les perspectives des parties prenantes et vont au-delà des approches spécifiques à une seule discipline pour résoudre les problèmes environnementaux communs auxquels nous sommes tous confrontés.
+
+### ![Trust](/assets/images/icons/valueTrust.png)Confiance
+
+Il est crucial d’entretenir la confiance entre les différentes communautés engagées dans la biodiversité et/ou qui en dépendent (c’est-à-dire diverses disciplines scientifiques, décideurs politiques, société civile, gestionnaires, secteurs privés, etc.). La confiance permet un dialogue qui mène à une compréhension commune et donc à des décisions éclairées à tous les niveaux.
+
+### ![Open access](/assets/images/icons/valueOpen.png)Access libre
+
+Données, connaissances et science ouvertes : Nous pensons qu’un accès ouvert et libre aux connaissances et aux données fiables sur la biodiversité est essentiel pour répondre aux défis auxquels sont confrontées les prises de décision en matière de biodiversité. L'extension des [principes FAIR](https://www.go-fair.org/fair-principles/) à l'ensemble du processus de recherche implique un changement profond dans la manière dont la science est réalisée et utilisée dans la pratique, soutenant l'intégrité scientifique obligatoire.
+
+---
+
+### Lectures complémentaires
+
+Si vous voulez en savoir plus sur nos activités, veuillez lire les sections [Communité](/fr/community), [Services](/fr/services), [Equipe](/fr/team) ou [FAQs](/fr/faqs) ou vous rendre sur le [site principal de la Platforme](https://www.biodiversity.be).

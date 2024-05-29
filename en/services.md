@@ -38,10 +38,10 @@ This tool allows users the ability to browse, search and view objects in the GBI
 
 - Organizations: entities who publish datasets and/or manage installations , e.g. Natural History Museum of Denmark
 - Datasets: collections of data, e.g. species occurrences, e.g. Birds fallen at Danish Lighthouses 1883 through 1939
-  Installations: servers when datasets are hosted, e.g. DanBIF IPT at Aarhus University
+- Installations: servers when datasets are hosted, e.g. DanBIF IPT at Aarhus University
 - Collections: entities describing mainly museum collections, e.g. Hacettepe University Biodiversity Advanced Research Center Genbank
 - Institutions: entities responsible for collections , e.g. Hacettepe University Biodiversity Advanced Research Center (BIOSPHERE)
-  GRSciColl Staff: people associated with institutions, e.g. Selim Sualp Çağlar
+- GRSciColl Staff: people associated with institutions, e.g. Selim Sualp Çağlar
 - Nodes: entities representing GBIF participants responsible for endorsing publishers and coordinating activities in a geographic or thematic context, e.g. DanBIF - Danish Biodiversity Information Facility
 
 > With GBIF Secretariat, we maintain the Belgian entries of GBIF Registry.

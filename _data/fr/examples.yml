@@ -1,88 +1,120 @@
-
 stories:
   # Title (Optional)
-  title: Stories fr
+  title: Nouvelles internationales
   # Description (Optional)
-  description: |
-    french prose with french new stories if translated in contentful
   # Filters
   # Use these options to tailor the content displayed in your block.
   filters:
-    contentType: 
+    contentType:
       - DATA_USE
       - NEWS
       # - EVENT
-    limit: 6 
-    locale:
-      - fr
-
+    limit: 6
+    # locale:
+    #   - fr
 stats:
   klass: contentTypesStat
   # title: "type: stats"
   # description: |      # required
   #  See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
   features:
-    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution?displayOnNHCPortal=true">642</span>
-      description: Institutions
-      background: /assets/images/placeholders/institutions_small.jpg
-      href: /institution/search
-    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?&displayOnNHCPortal=true">45</span>
-      description: Collections
-      background: /assets/images/placeholders/collections_small.jpg
-      href: /collection/search
-    - title: "54 million"
-      description: Digitized specimens
-      background: /assets/images/placeholders/specimen.png
-
-couldBeAnyName:
-  title: Virginis socerque
-  description: |
-    Forth beginning form dry thing. Form seed void likeness darkness light. Can’t created third upon spirit fruitful hath likeness their. Replenish saw female night they’re you blessed all greater cattle, grass god fifth you’re. Above wherein replenish face multiply male every. Own hath lights under creeping.
-  features:
-    - title: Abundantly light years # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      # img required
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
-      # categories: [drawings] # optional
-    - title: Fly moving land # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Fruitful replenish # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Land man dry # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Abundantly light years # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
-
-herbariumImageExample:
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?country=BE&limit=0"></span>
+      description: Occurrences
+      background: /assets/images/icons/occurrence.svg
+      href: /fr/occurrence/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=BE&limit=0"></span>
+      description: Editeurs de données
+      background: /assets/images/icons/publisher.svg
+      href: /fr/publisher/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=BE&limit=0"></span>
+      description: Jeux de données
+      background: /assets/images/icons/dataset.svg
+      href: /fr/dataset/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?countriesOfResearcher=BE&limit=0"></span>
+      description: Articles
+      background: /assets/images/icons/article.svg
+      href: /fr/literature/search
+support:
   reverse: false
-  title: "Likeness darkness light"
-  description: |      # required
-    Forth beginning form dry thing. Form seed void likeness darkness light. Can't created third upon spirit fruitful hath likeness their. Replenish saw female night they're you blessed all greater cattle, grass god fifth you're. Above wherein replenish face multiply male every. Own hath lights under creeping.
+  title: "notre contribution"
+  description: | # required
+    La Belgique contribue au GBIF depuis sa création. Elle a toujours été un participant très actif depuis 2001.
+    Gràce à nos efforts continus en mobilisation de données, en publication et en utilisation, nous avons atteint des résultats impressionnants malgré la petite taille de notre pays.
   # img required
-  background: https://data.nhm.ac.uk/media/d9850154-9e45-426c-8712-d030da3c1c00
+  background: /assets/images/placeholders/mapBE2024-05-15.png
   imageLicense: |
-    *Polyptychodon* Owen, 1841 collected in United Kingdom of Great Britain and Northern Ireland. [See full record](/specimen/search?entity=1057252794&view=TABLE) (licensed under http://creativecommons.org/licenses/by/4.0/)
-  href: /about
+    GBIF.org
+  href: /fr/about
   cta:
-  - text: Download report
-    href: http://example.com
-    isPrimary: true
+    - text: Visitez la page de notre pays
+      href: https://www.gbif.org/country/BE
+    - text: Téléchargez notre rapport annuel(en anglais)
+      href: https://www.gbif.org/sites/default/files/gbif_analytics/country/BE/GBIF_CountryReport_BE.pdf
+      isPrimary: true
+
+topics:
+  title: Thématiques abordées
+  description: |
+    Explorez les thématiques sur lesquelles nous travaillons
+  features:
+    - title: Biodiversité & Changement climatique # required
+      description: | # required
+        Nous évaluons actuellement le besoin d’outils/approches/capacités d’interface science-politique dans le domaine d’actualité de la biodiversité et du changement climatique.
+      href: https://www.biodiversity.be/5472
+      # img required
+      background: /assets/images/placeholders/topic1.png
+    - title: Espèces exotiques envahissantes # required
+      description: | # required
+        Nous travaillons sur les espèces exotiques envahissantes en facilitant les processus scientifiques et politiques sur les espèces exotiques envahissantes.      href: https://www.biodiversity.be/5981
+      background: /assets/images/placeholders/topic2.png
+    - title: Nature & Societé # required
+      description: | # required
+        La communauté belge des écosystèmes et de la société (BEES) est un réseau informel actif et en pleine croissance d’experts belges en services écosystémiques.      href: https://www.biodiversity.be/5980
+      background: /assets/images/placeholders/topic3.png
+    - title: Santé # required
+      description: | # required
+        La communauté regroupe des experts issus de domaines divers : spécialistes des sciences naturelles et sociales, décideurs politiques, praticiens et autres parties prenantes. Le soutien structurel au thème d'actualité Biodiversité et One Health a été mis en place dans le prolongement de la conférence Belgian Biodiversity & Health 2011 organisée par la Plateforme Belge pour la Biodiversité.      href: https://www.biodiversity.be/3643
+      background: /assets/images/placeholders/topic4.png
+    - title: Solutions inspirées par la Nature # required
+      description: | # required
+        La Plateforme Belge pour la Biodiversité est le Point Focal belge de l'UICN. Nous travaillons au renforcement des actions liées à la conservation en Belgique et nous promouvons les réussites des membres belges de l'UICN.      href: https://www.biodiversity.be/3079
+      background: /assets/images/placeholders/topic5.png
+    - title: Biodiversité & Informatique # required
+      description: | # required
+        A travers nos activités de mobilisation de données sur la biodiversité, nous encourageons les chercheurs à utiliser les outils et standards informatiques de la biodiversité.        Through our activities of biodiversity data mobilisation, we encourage researchers to make use of Biodiversity Informatics tools and standards.
+      href: https://www.biodiversity.be/1767
+      background: /assets/images/placeholders/topic6.png
+staff:
+  title: équipe nodale
+  description: |
+  features:
+    - title: Andre Heughebaert # required
+      description: | # required
+        Ingénieur logiciel senior et expert en informatique de la biodiversité, André dirige l'équipe informatique de la Plateforme. Il coordonne la gestion des données, les sites Web et les services Web. André est notre représentant auprès du conseil d’administration du Global Biodiversity Information Facility (GBIF) et participe à la prise de décision au niveau mondial. Il s'intéresse particulièrement aux normes d'échange de données sur la biodiversité, aux outils de visualisation, de nettoyage et de publication des données.<br>[contact](maito:a.heughebaert@biodiversity.be)
+      categories: [Gestionnaire du Noeud]
+      background: /assets/images/staff/andre.png
+      imageLicense: None
+    - title: Julien Cigar # required
+      description: | # required
+        Informaticien, Julien est l'administrateur système de la Plateforme Belge pour la Biodiversité. Il s'intéresse particulièrement aux bases de données, à Python et au système d'exploitation FreeBSD.<br>[contact](maito:j.cigar@biodiversity.be)
+      categories: [Administrateur de système]
+      background: /assets/images/staff/julien.png
+      imageLicense: None
+    - title: Dimitri Brossens # required
+      description: | # required
+        Dimitri est un biologiste intéressé par l'informatique de la biodiversité, il anime le réseau et participe activement à la mobilisation et à la publication des données en Flandres. Dimitri s'intéresse particulièrement à la standardisation des données, au Darwin Core, aux espèces envahissantes, à la paléontologie, à la biodiversité terrestre et d'eau douce. Il prône la science ouverte dans le cycle de recherche et recherche une utilisation pratique des données ouvertes. Il adore discuter avec les scientifiques et les aide à publier leurs données. Dimitri travaille à l'Institut de Recherche sur la Nature et la Forêt.<br>[contact](maito:d.brosens@biodiversity.be)
+      categories: [Expert en données]
+      background: /assets/images/staff/dimi.png
+      imageLicense: None
+    - title: Maxime Coppremanne # required
+      description: | # required
+        Maxime est un biologiste impliqué dans la mobilisation des données sur la biodiversité sur le portail Global Biodiversity Information Facility (GBIF). Basé au Département d'Etude du Milieu Naturel et Agricole (SPW-DEMNA), il prône l'utilisation de l'Open Data en Wallonie et souhaite en tout cas rejoindre le côté ouvert de la science. Ses intérêts particuliers sont l'informatique de la biodiversité, la gestion des données, la vie marine, les espèces envahissantes, les modèles de répartition des espèces et la science ouverte.<br>[contact](maito:m.coppremanne@biodiversity.be)
+      categories: [Expert en données]
+      background: /assets/images/staff/max.png
+      imageLicense: None
+    - title: Stijn Cooleman # required
+      description: | # required
+        Stijn est un biologiste doté de compétences interdisciplinaires en gestion de données. Il est impliqué dans les activités open data de la plateforme. En se concentrant sur les standards et la cartographie des données, il soutient la mobilisation des connaissances sur l'histoire naturelle des collections. Il s'intéresse particulièrement à l'écologie aviaire, à la taxonomie, à la répartition des espèces et aux services écosystémiques.<br>[contact](maito:s.cooleman@biodiversity.be)
+      categories: [Expert en données]
+      background: /assets/images/staff/stijn.png
+      imageLicense: None

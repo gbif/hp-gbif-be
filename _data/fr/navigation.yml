@@ -3,22 +3,28 @@
 - text: A propos
   menu:
     - text: Qu'est-ce que GBIF.be?
-      href: /about
+      href: /fr/about
     - text: Communité
-      href: /community
+      href: /fr/community
     - text: Services
-      href: /services
+      href: /fr/services
+    - text: Equipe
+      href: /fr/team
+    - text: Thèmes
+      href: /fr/topics
     - text: FAQs
-      href: /faqs
+      href: /fr/faqs
+
 - text: Explorez
   menu:
     - text: Occurrences
-      href: /occurrence/search
-    - text: Jeux de données
-      href: /dataset/search
+      href: /fr/occurrence/search
     - text: Editeurs de données
-      href: /publisher/search
+      href: /fr/publisher/search
+    - text: Jeux de données
+      href: /fr/dataset/search
     - text: Littérature
-      href: /literature/search
+      href: /fr/literature/search
+
 - text: Actualités
-  href: /news
+  href: /fr/news

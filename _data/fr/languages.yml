@@ -1,0 +1,21 @@
+en:
+  label: Anglais
+  icon: # optional
+
+fr:
+  label: Français
+  icon: # optional
+  storiesLocale: fr
+  widgetLocale: fr
+
+nl:
+  label: Néerlandais
+  icon: # optional
+  storiesLocale: nl
+  widgetLocale: nl
+
+de:
+  label: Allemand
+  icon: # optional
+  storiesLocale: de
+  widgetLocale: de
