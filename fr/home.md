@@ -16,7 +16,7 @@ cta:
   - text: Occurrences
     href: /fr/occurrence/search
     isPrimary: true
-  - text: Communité
+  - text: Communauté
     href: /fr/community
   - text: Services
     href: /fr/services

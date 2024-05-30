@@ -52,4 +52,4 @@ Données, connaissances et science ouvertes : Nous pensons qu’un accès ouvert
 
 ### Lectures complémentaires
 
-Si vous voulez en savoir plus sur nos activités, veuillez lire les sections [Communité](/fr/community), [Services](/fr/services), [Equipe](/fr/team) ou [FAQs](/fr/faqs) ou vous rendre sur le [site principal de la Platforme](https://www.biodiversity.be).
+Si vous voulez en savoir plus sur nos activités, veuillez lire les sections [Communauté](/fr/community), [Services](/fr/services), [Equipe](/fr/team) ou [FAQs](/fr/faqs) ou vous rendre sur le [site principal de la Platforme](https://www.biodiversity.be).
