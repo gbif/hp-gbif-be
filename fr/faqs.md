@@ -28,7 +28,7 @@ La plupart de ces données proviennent des **Institutions belges, des Organismes
 
 ### Pouvez-vous m'aider avec mes données?
 
-Les experts de la plateforme et notre infrastructure sont là pour vous aider à partager et réutiliser les données ouvertes sur la biodiversité. Visitez notre section [services](/services) pour en savoir plus.
+Les experts de la plateforme et notre infrastructure sont là pour vous aider à partager et réutiliser les données ouvertes sur la biodiversité. Visitez notre section [services](/fr/services) pour en savoir plus.
 
 ### Comment puis-je contributer?
 

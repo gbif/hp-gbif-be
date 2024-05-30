@@ -1,6 +1,6 @@
 ---
-title: Collection search
+title: Liste des Collections
 description: We publish open data
-permalink: /collection/search
+permalink: /fr/collection/search
 layout: collection-search
 ---

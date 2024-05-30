@@ -1,5 +1,5 @@
 ---
-title: Editeur de données
+title: Liste des organisations
 description: We publish open data
 permalink: /fr/publisher/search
 layout: publisher

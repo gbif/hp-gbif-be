@@ -23,7 +23,7 @@ stats:
       background: /assets/images/icons/occurrence.svg
       href: /fr/occurrence/search
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=BE&limit=0"></span>
-      description: Editeurs de données
+      description: Organisations
       background: /assets/images/icons/publisher.svg
       href: /fr/publisher/search
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=BE&limit=0"></span>

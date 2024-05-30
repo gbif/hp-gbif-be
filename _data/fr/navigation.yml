@@ -19,7 +19,7 @@
   menu:
     - text: Occurrences
       href: /fr/occurrence/search
-    - text: Editeurs de données
+    - text: Organisations
       href: /fr/publisher/search
     - text: Jeux de données
       href: /fr/dataset/search
