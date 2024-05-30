@@ -87,9 +87,9 @@ The [GBIF technical documentation](https://techdocs.gbif.org/en/) describes how 
 
 ### Geographic tools
 
-Geographic tools allow us to customise geographic maps to showcase biodiversity data. For instance, the map of the Belgian Data Portal was created by using a map freely available on [OpenStreetMap](http://www.openstreetmap.org/). We recommend Belgian scientists to make use of the following geographic tools:
+Geographic tools allow us to customise geographic maps to showcase biodiversity data. For instance, the map of the Belgian Data Portal was created by using a map freely available on [OpenStreetMap](https://www.openstreetmap.org/). We recommend Belgian scientists to make use of the following geographic tools:
 
-- Geographic Information System (GIS), are systems designed to capture, store, manipulate, analyse, manage, and visualise all types of geographically referenced data. GIS basic principle is to assemble different sets of spatialized data, which can be considered as different 'data layers', that are superposable and interoperable if they use the same geographic coordinate system. We preferably use freely available open source GIS such as [QGIS](http://www.qgis.org), [DIVA-GIS](http://www.diva-gis.org) or [Carto](https://carto.com/) (cloud-based GIS).
+- Geographic Information System (GIS), are systems designed to capture, store, manipulate, analyse, manage, and visualise all types of geographically referenced data. GIS basic principle is to assemble different sets of spatialized data, which can be considered as different 'data layers', that are superposable and interoperable if they use the same geographic coordinate system. We preferably use freely available open source GIS such as [QGIS](https://www.qgis.org), [DIVA-GIS](https://www.diva-gis.org) or [Carto](https://carto.com/) (cloud-based GIS).
 
 - Spatial extensions for database management systems allow to spatialize your database and the processing of its geographic content. Concretely, geographic queries can be operated on the spatialized data through SQL (Structured Query Language) statements. These tools give you the possibility to deal with spatial features within your relational database, but also make it interpretable for a GIS software which can be used in conjunction. All data published by the Belgian Biodiversity Platform are stored in PostgreSQL data management system with PostGIS spatial extension.
 
@@ -99,11 +99,11 @@ Geographic tools allow us to customise geographic maps to showcase biodiversity 
 
 Biodiversity Informatics standards are essential to ensure interoperability between different types of data provided by different data publishers. Standards allow a variety of data to be understood by using a same common ‘language’ so that all data can be integrated, understood and processed by anyone or any automated process without ambiguity. Biodiversity Informatics standards are in the public domain so that anyone can use them.
 
-Biodiversity Informatics( aka as [TDWG](http://www.tdwg.org/)) is the main organisation that creates standards for biodiversity data. The Belgian Biodiversity Platform is actively participating in TDWG and uses the TDWG standards reference body, called DarwinCore, for a vast majority of biodiversity data.
+Biodiversity Informatics( aka as [TDWG](https://www.tdwg.org/)) is the main organisation that creates standards for biodiversity data. The Belgian Biodiversity Platform is actively participating in TDWG and uses the TDWG standards reference body, called DarwinCore, for a vast majority of biodiversity data.
 
 ### DarwinCore
 
-[DarwinCore](http://rs.tdwg.org/dwc/) is a body of Biodiversity Informatics standards developed by the TDWG. It includes a glossary of terms intended to facilitate the sharing of information about biological diversity. See for exemple the [DarwinCore terms describing the occurrence of an organism](http://rs.gbif.org/core/dwc_occurrence.xml). Because this standard is used by many, including GBIF and the [Encyclopedia of Life](https://eol.org) (EOL), anyone can easily understand a dataset observed in any country by any researcher. The Belgian Biodiversity Platform helps you to ‘map’ your datasets into DarwinCore, a requirement to make it uploadable and understandable by all on GBIF.
+[DarwinCore](https://rs.tdwg.org/dwc/) is a body of Biodiversity Informatics standards developed by the TDWG. It includes a glossary of terms intended to facilitate the sharing of information about biological diversity. See for exemple the [DarwinCore terms describing the occurrence of an organism](https://rs.gbif.org/core/dwc_occurrence.xml). Because this standard is used by many, including GBIF and the [Encyclopedia of Life](https://eol.org) (EOL), anyone can easily understand a dataset observed in any country by any researcher. The Belgian Biodiversity Platform helps you to ‘map’ your datasets into DarwinCore, a requirement to make it uploadable and understandable by all on GBIF.
 
 ### EML
 
