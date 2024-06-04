@@ -2,8 +2,8 @@
 lang-ref: community
 title: Community
 description: Open Biodiversity Data Community
-background: "{{ site.data.images.Lycaena_tityrus.src }}"
-imageLicense: "{{ site.data.images.Lycaena_tityrus.caption }}"
+background:  "{{ site.data.images.YB02.src }}"
+imageLicense: "{{ site.data.images.YB02.caption }}"
 height: 70vh
 permalink: /community
 ---

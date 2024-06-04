@@ -2,8 +2,8 @@
 lang-ref: services
 title: Our Services
 description: Node offer a variety of services
-background: "{{ site.data.images.Lycaena_tityrus.src }}"
-imageLicense: "{{ site.data.images.Lycaena_tityrus.caption }}"
+background:  "{{ site.data.images.RR02.src }}"
+imageLicense: "{{ site.data.images.RR02.caption }}"
 height: 70vh
 permalink: /services
 ---

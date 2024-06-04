@@ -3,9 +3,8 @@ lang-ref: topics
 layout: home
 title: Thématiques abordées
 description: Explorez les thématiques abordées par la Platforme
-background:  "{{ site.data.images.Lycaena_tityrus.src }}"
-imageLicense: "{{ site.data.images.Lycaena_tityrus.caption }}"
-height: 90vh
+background:  "{{ site.data.images.YB03.src }}"
+imageLicense: "{{ site.data.images.YB03.caption }}"
 height: 70vh
 permalink: /fr/topics
 composition:

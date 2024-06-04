@@ -3,9 +3,8 @@ lang-ref: home
 layout: home
 title: la biodiversité en Belgique
 description: Bienvenue sur le portail hébergé GBIF.be.<br> Explorez la biodiversté de notre pays. Découvrez les éditeurs de données et les services offerts par le noeud GBIF.
-background:  "{{ site.data.images.Lycaena_tityrus.src }}"
-imageLicense: "{{ site.data.images.Lycaena_tityrus.caption }}"
-height: 90vh
+background:  "{{ site.data.images.YB01.src }}"
+imageLicense: "{{ site.data.images.YB01.caption }}"
 height: 70vh
 permalink: /fr
 navbar:

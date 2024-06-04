@@ -2,9 +2,8 @@
 lang-ref: faqs
 title: FAQs
 description: Frequently Asked Questions
-background: /assets/images/placeholders/moss.jpg
-imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+background:  "{{ site.data.images.RR03.src }}"
+imageLicense: "{{ site.data.images.RR03.caption }}"
 height: 70vh
 permalink: /fr/faqs
 ---

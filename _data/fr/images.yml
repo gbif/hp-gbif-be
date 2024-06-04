@@ -30,7 +30,51 @@ catocala_ilia_cramer:
   src: /assets/images/placeholders/catocala_ilia_cramer_2365571744.jpg
   caption: |
     [_Catocala ilia_ Cramer, 1779](https://www.gbif.org/occurrence/2365571744) from [Peabody Museum of Natural History](institution/75f50140-830d-4630-a290-3d6e951a7c29)
-Lycaena_tityrus:
-  src: /assets/images/placeholders/Lycaena_tityrus_BRB2726.jpg
+RR01:
+  src: /assets/images/photos/RR01.jpg
   caption: |
-    Lycaena tityrus © [Yvan Barbier](https://www.yvanbarbier.com)
+    _Capreolus capreolus_ summer 2022 from [theroadrunner](https://www.facebook.com/profile.php?id=100063766770116) CC-BY-NC
+RR02:
+  src: /assets/images/photos/RR02.jpg
+  caption: |
+    _Curculio glandium_ summer 2022 from [theroadrunner](https://www.facebook.com/profile.php?id=100063766770116) CC-BY-NC
+RR03:
+  src: /assets/images/photos/RR03.jpg
+  caption: |
+    _Phoca vitulina_ autumn 2022 from [theroadrunner](https://www.facebook.com/profile.php?id=100063766770116) CC-BY-NC
+RR04:
+  src: /assets/images/photos/RR04.jpg
+  caption: |
+    _Ichtyosaura alpestris_ autumn 2022 from [theroadrunner](https://www.facebook.com/profile.php?id=100063766770116) CC-BY-NC
+RR05:
+  src: /assets/images/photos/RR05.jpg
+  caption: |
+    _Erythacus rubecula_ autumn 2022 from [theroadrunner](https://www.facebook.com/profile.php?id=100063766770116) CC-BY-NC
+RR06:
+  src: /assets/images/photos/RR06.jpg
+  caption: |
+    _Alcedo atthis_ autumn 2022 from [theroadrunner](https://www.facebook.com/profile.php?id=100063766770116) CC-BY-NC
+YB01:
+  src: /assets/images/photos/YB01.jpg
+  caption: |
+    _Lycaena tityrus_ from [Yvan Barbier](https://www.yvanbarbier.com) CC-BY-NC
+YB02:
+  src: /assets/images/photos/YB02.jpg
+  caption: |
+    _This morning in Belgium_ from [Yvan Barbier](https://www.yvanbarbier.com) CC-BY-NC
+YB03:
+  src: /assets/images/photos/YB03.jpg
+  caption: |
+    _Lygaeus equestris_ from [Yvan Barbier](https://www.yvanbarbier.com) CC-BY-NC
+YB04:
+  src: /assets/images/photos/YB04.jpg
+  caption: |
+    _Anemone nemerosa & Coccinella septempunctata_ from [Yvan Barbier](https://www.yvanbarbier.com) CC-BY-NC
+YB05:
+  src: /assets/images/photos/YB05.jpg
+  caption: |
+    _Papilio machaon_ (Old World swallowtail) from [Yvan Barbier](https://www.yvanbarbier.com) CC-BY-NC
+YB06:
+  src: /assets/images/photos/YB06.jpg
+  caption: |
+    _Mushrooms_ from [Yvan Barbier](https://www.yvanbarbier.com) CC-BY-NC

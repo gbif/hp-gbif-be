@@ -2,8 +2,8 @@
 lang-ref: about
 title: Welcome to GBIF.be
 description: our Node Hosted Portal
-background: "{{ site.data.images.Lycaena_tityrus.src }}"
-imageLicense: "{{ site.data.images.Lycaena_tityrus.caption }}"
+background:  "{{ site.data.images.RR01.src }}"
+imageLicense: "{{ site.data.images.RR01.caption }}"
 height: 70vh
 permalink: /about
 ---

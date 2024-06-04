@@ -2,8 +2,8 @@
 lang-ref: community
 title: Communauté
 description: La communauté de données ouvertes de biodiversité
-background: "{{ site.data.images.Lycaena_tityrus.src }}"
-imageLicense: "{{ site.data.images.Lycaena_tityrus.caption }}"
+background:  "{{ site.data.images.YB02.src }}"
+imageLicense: "{{ site.data.images.YB02.caption }}"
 height: 70vh
 permalink: /fr/community
 ---
