@@ -25,8 +25,6 @@ composition:
   - type: heroImage
   - type: stats
     data: examples.stats
-  - type: stories
-    data: examples.stories
   - type: split
     data: examples.support
 #  - type: pageMarkdown # This block will render the markdown in this file so no data property needed

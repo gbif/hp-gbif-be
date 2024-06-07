@@ -1,17 +1,3 @@
-stories:
-  # Title (Optional)
-  title: Global News
-  # Description (Optional)
-  # Filters
-  # Use these options to tailor the content displayed in your block.
-  filters:
-    contentType:
-      - DATA_USE
-      - NEWS
-      # - EVENT
-    limit: 6
-    # locale:
-    #   - fr
 stats:
   klass: contentTypesStat
   # title: "type: stats"

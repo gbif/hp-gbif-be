@@ -27,4 +27,8 @@
       href: /fr/literature/search
 
 - text: Actualités
-  href: /fr/news
+  menu:
+    - text: Locales
+      href: /fr/news
+    - text: Globales
+      href: /fr/stories

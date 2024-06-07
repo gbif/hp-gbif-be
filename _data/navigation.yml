@@ -26,5 +26,9 @@
     - text: Literature
       href: /literature/search
 
-- text: Local News
-  href: /news
+- text: News
+  menu:
+    - text: Local news
+      href: /news
+    - text: Global news
+      href: /stories
