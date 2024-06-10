@@ -95,9 +95,9 @@ staff:
       categories: [System Adminstrator]
       background: /assets/images/staff/julien.png
       imageLicense: None
-    - title: Dimitri Brossens # required
+    - title: Dimitri Brosens # required
       description: | # required
-        Dimitri is a biologist interested in biodiversity informatics and is the GBIF (Global Biodiversity Information Facility) node manager for Belgium, he animates the network and is actively involved in data mobilisation and publication in Belgium. Dimitri has a particular interest in data standardisation, Darwin Core, invasive species, palaeontology, terrestrial and freshwater biodiversity. He advocates Open Science in the Research cycle and looks for practical usage of open data. He loves to chat with scientists and helps them to publish their data. His ultimate goal is to get Belgium on the global map of biodiversity. Dimitri has is office in the Research Institute for Nature and Forest.<br>[<i class="fa fa-envelope"></i> contact](maito:d.brosens@biodiversity.be)
+        Dimitri is a biologist interested in biodiversity informatics and is the former GBIF (Global Biodiversity Information Facility) node manager for Belgium, he animates the network and is actively involved in data mobilisation and publication in Belgium. Dimitri has a particular interest in data standardisation, Darwin Core, invasive species, palaeontology, terrestrial and freshwater biodiversity. He advocates Open Science in the Research cycle and looks for practical usage of open data. He loves to chat with scientists and helps them to publish their data. His ultimate goal is to get Belgium on the global map of biodiversity. Dimitri has is office in the Research Institute for Nature and Forest.<br>[<i class="fa fa-envelope"></i> contact](maito:d.brosens@biodiversity.be)
       categories: [Open Data Expert]
       background: /assets/images/staff/dimi.png
       imageLicense: None
