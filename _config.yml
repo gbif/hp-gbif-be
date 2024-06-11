@@ -31,6 +31,7 @@ github_username: andrejjh # if you have an account you want to link to. Else com
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -54,7 +55,7 @@ algae:
   style:
     square: false # Should corners be square or rounded
     colors:
-      primary: darkgreen # Primary color of your brand. Use HEX code. Used for buttons and links
+      primary: blue # Primary color of your brand. Use HEX code. Used for buttons and links
     #      links: blue # What color should links have. Use a HEX code. DEfault is primary color.
     coloredHeadlineLinks: false # If a headline is a link, then use the link color. Default is true.
     navbar: # RELATED TO NAVIGATION BAR
