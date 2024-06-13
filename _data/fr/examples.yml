@@ -8,14 +8,14 @@ stats:
       description: Occurrences
       background: /assets/images/icons/occurrence.svg
       href: /fr/occurrence/search
-    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=BE&limit=0"></span>
-      description: Organisations
-      background: /assets/images/icons/publisher.svg
-      href: /fr/publisher/search
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=BE&limit=0"></span>
       description: Jeux de données
       background: /assets/images/icons/dataset.svg
       href: /fr/dataset/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=BE&limit=0"></span>
+      description: Organisations
+      background: /assets/images/icons/publisher.svg
+      href: /fr/publisher/search
     - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?countriesOfResearcher=BE&limit=0"></span>
       description: Articles
       background: /assets/images/icons/article.svg
@@ -44,31 +44,35 @@ topics:
     Explorez les thématiques sur lesquelles nous travaillons
   features:
     - title: Biodiversité & Changement climatique # required
+      href: https://www.biodiversity.be/5472
       description: | # required
         Nous évaluons actuellement le besoin d’outils/approches/capacités d’interface science-politique dans le domaine d’actualité de la biodiversité et du changement climatique.
-      href: https://www.biodiversity.be/5472
       # img required
       background: /assets/images/placeholders/topic1.png
     - title: Espèces exotiques envahissantes # required
+      href: https://www.biodiversity.be/5981
       description: | # required
-        Nous travaillons sur les espèces exotiques envahissantes en facilitant les processus scientifiques et politiques sur les espèces exotiques envahissantes.      href: https://www.biodiversity.be/5981
+        Nous travaillons sur les espèces exotiques envahissantes en facilitant les processus scientifiques et politiques sur les espèces exotiques envahissantes.
       background: /assets/images/placeholders/topic2.png
     - title: Nature & Societé # required
+      href: https://www.biodiversity.be/5980
       description: | # required
-        La communauté belge des écosystèmes et de la société (BEES) est un réseau informel actif et en pleine croissance d’experts belges en services écosystémiques.      href: https://www.biodiversity.be/5980
+        La communauté belge des écosystèmes et de la société (BEES) est un réseau informel actif et en pleine croissance d’experts belges en services écosystémiques.
       background: /assets/images/placeholders/topic3.png
     - title: Santé # required
+      href: https://www.biodiversity.be/3643
       description: | # required
-        La communauté regroupe des experts issus de domaines divers : spécialistes des sciences naturelles et sociales, décideurs politiques, praticiens et autres parties prenantes. Le soutien structurel au thème d'actualité Biodiversité et One Health a été mis en place dans le prolongement de la conférence Belgian Biodiversity & Health 2011 organisée par la Plateforme Belge pour la Biodiversité.      href: https://www.biodiversity.be/3643
+        La communauté regroupe des experts issus de domaines divers : spécialistes des sciences naturelles et sociales, décideurs politiques, praticiens et autres parties prenantes. Le soutien structurel au thème d'actualité Biodiversité et One Health a été mis en place dans le prolongement de la conférence Belgian Biodiversity & Health 2011 organisée par la Plateforme Belge pour la Biodiversité.
       background: /assets/images/placeholders/topic4.png
     - title: Solutions inspirées par la Nature # required
+      href: https://www.biodiversity.be/3079
       description: | # required
-        La Plateforme Belge pour la Biodiversité est le Point Focal belge de l'UICN. Nous travaillons au renforcement des actions liées à la conservation en Belgique et nous promouvons les réussites des membres belges de l'UICN.      href: https://www.biodiversity.be/3079
+        La Plateforme Belge pour la Biodiversité est le Point Focal belge de l'UICN. Nous travaillons au renforcement des actions liées à la conservation en Belgique et nous promouvons les réussites des membres belges de l'UICN.
       background: /assets/images/placeholders/topic5.png
     - title: Biodiversité & Informatique # required
+      href: https://www.biodiversity.be/1767
       description: | # required
         A travers nos activités de mobilisation de données sur la biodiversité, nous encourageons les chercheurs à utiliser les outils et standards informatiques de la biodiversité.        Through our activities of biodiversity data mobilisation, we encourage researchers to make use of Biodiversity Informatics tools and standards.
-      href: https://www.biodiversity.be/1767
       background: /assets/images/placeholders/topic6.png
 staff:
   title: équipe nodale

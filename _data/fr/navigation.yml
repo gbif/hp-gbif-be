@@ -19,10 +19,12 @@
   menu:
     - text: Occurrences
       href: /fr/occurrence/search
-    - text: Organisations
-      href: /fr/publisher/search
     - text: Jeux de données
       href: /fr/dataset/search
+    - text: Collections
+      href: /fr/collection/search
+    - text: Organisations
+      href: /fr/publisher/search
     - text: Littérature
       href: /fr/literature/search
 

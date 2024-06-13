@@ -21,6 +21,8 @@
       href: /occurrence/search
     - text: Datasets
       href: /dataset/search
+    - text: Collections
+      href: /collection/search
     - text: Publishers
       href: /publisher/search
     - text: Literature
