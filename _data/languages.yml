@@ -3,19 +3,19 @@ en:
   icon: # optional
 
 fr:
-  label: French
+  label: Français
   icon: # optional
   storiesLocale: fr
   widgetLocale: fr
 
 nl:
-  label: Dutch
+  label: Nederlands
   icon: # optional
   storiesLocale: nl
   widgetLocale: nl
 
 de:
-  label: German
+  label: Deutsch
   icon: # optional
   storiesLocale: de
   widgetLocale: de
