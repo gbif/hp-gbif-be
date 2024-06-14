@@ -12,9 +12,9 @@ The [Belgian Node team](/team) consists of IT & Data Experts based in federal an
 - **Andre Heughebaert**, Node Manager @ BelSPO
 - **Julien Cigar**, System Administrator @ BelSPO
 - **Dimitri Brosens**, Data Officer @ INBO
-- **Stijn Coleman**, Data Officer @ RBINS
+- **Stijn Cooleman**, Data Officer @ RBINS
 - **Maxime Coupremanne**, Data Officer @ SPW-DEMNA
 
 ![GBIFNode](/assets/images/logos/node-green.png){:height="120px" width="120px" style="float: left"} Should you have any question in regards to GBIF (data publication, data use, tools, standards, citation mechanism, literature...) do not hesitate to [contact us <i class="fa fa-envelope"></i>](mailto:contact@biodiversity.be). We'll get back to you as soon as possible.
 
-Discover the rest of the **Belgian Biodiversity Platform** team [here](https://www.biodiversity.be/1764/).
+Discover the entire **Belgian Biodiversity Platform** team [here](https://www.biodiversity.be/1764/).
