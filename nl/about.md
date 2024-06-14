@@ -12,7 +12,7 @@ permalink: /nl/about
 ## Wat kan ik hier ontdekken?
 
 GBIF.be Hosted Portal laat je **Open Biodiversiteitsdata gepubliceerd over België** verkennen. Dit zijn alle gegevens die in België voorkomen en openlijk worden gedeeld via GBIF.
-De meeste van deze gegevens komen van Belgische instellingen, publieke agentschappen, wetenschappers en burgers, maar ook uit het buitenland. Deze site is onderdeel van onze bijdrage aan GBIF Hosted Portals.
+De meeste van deze voorkomens komen van Belgische instellingen, publieke agentschappen, wetenschappers en burgers, maar ook uit het buitenland. Deze site is onderdeel van onze bijdrage aan GBIF Hosted Portals.
 
 ---
 

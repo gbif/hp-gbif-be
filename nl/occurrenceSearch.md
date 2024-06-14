@@ -1,7 +1,7 @@
 ---
 lang-ref: occurrence/search
 permalink: /nl/occurrence/search
-title: Gegevens
+title: Voorkomens
 description: We publish open data
 layout: occurrence
 ---

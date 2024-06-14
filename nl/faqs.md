@@ -18,7 +18,7 @@ Elk hosted portal is een eenvoudige website die wordt gehost en onderhouden op d
 
 ### Wat kan ik ontdekken op GBIF.be?
 
-GBIF.be Hosted Portal laat je **Open Biodiversity Data gepubliceerd over België** ontdekken. Dit zijn alle gegevens die in België voorkomen en openlijk gedeeld worden via GBIF. De meeste van deze gegevens zijn afkomstig van **Belgische instellingen, openbare agentschappen, wetenschappers en burgers**, maar ook van buitenlandse partners.
+GBIF.be Hosted Portal laat je **Open Biodiversity Data gepubliceerd over België** ontdekken. Dit zijn alle voorkomens die in België voorkomen en openlijk gedeeld worden via GBIF. De meeste van deze gegevens zijn afkomstig van **Belgische instellingen, openbare agentschappen, wetenschappers en burgers**, maar ook van buitenlandse partners.
 
 ### Hoe kan ik bijdragen?
 

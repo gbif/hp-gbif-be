@@ -17,7 +17,7 @@
 
 - text: Ontdekken
   menu:
-    - text: Gegevens
+    - text: Voorkomens
       href: /nl/occurrence/search
     - text: Datasets
       href: /nl/dataset/search
