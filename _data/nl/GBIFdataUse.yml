@@ -1,0 +1,31 @@
+# "Stories" Block Configuration Guide
+
+# Title (Optional)
+title: "Recent Data Use"
+id: "stories-data-use"
+
+# Description (Optional)
+description: This shows the three most recent items, see [all items on gbif.org](https://www.gbif.org/resource/search?contentType=dataUse&countriesOfCoverage=BE)
+
+# Filters
+# Use these options to tailor the content displayed in your block.
+filters:
+  contentType:
+    - DATA_USE
+  # Set the number of items to showcase. Default is 6.
+  limit: 3
+
+  # Filter content by researcher's country using ISO country codes. (Optional)
+  countriesOfResearcher:
+    - BE
+    - FR
+    - DE
+    - LU
+    - NL
+  # Filter content by country or coverage using ISO country codes. (Optional)
+  countriesOfCoverage:
+    - BE
+    - FR
+    - DE
+    - LU
+    - NL

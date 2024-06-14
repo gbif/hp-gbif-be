@@ -8,20 +8,19 @@ height: 70vh
 permalink: /nl/faqs
 ---
 
-### What is GBIF?
+### Wat is GBIF?
 
-GBIF—the Global Biodiversity Information Facility—is an international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth.
+GBIF—the Global Biodiversity Information Facility— is een internationaal netwerk en data-infrastructuur, gefinancierd door de regeringen van de wereld en bedoeld om iedereen, overal, open toegang te geven tot gegevens over alle soorten leven op aarde.
 
-### What is an Hosted Portal?
+### Wat is een 'Hosted Portal'?
 
-Each hosted portal is a simple website hosted and maintained on the GBIF infrastructure. The programme complements other tools available through the network by lowering the technical threshold for maintaining a branded web presence displaying a targeted subset of the data and information already available through GBIF.org. see [GBIF Hosted portals](https://www.gbif.org/hosted-portals) for more
+Elk hosted portal is een eenvoudige website die wordt gehost en onderhouden op de GBIF-infrastructuur. Het programma is een aanvulling op andere tools die via het netwerk beschikbaar zijn, doordat het de technische drempel verlaagt voor het onderhouden van een webaanwezigheid met een eigen merknaam die een gerichte subset weergeeft van de gegevens en informatie die al beschikbaar zijn via GBIF.org. Bekijk [GBIF Hosted portals](https://www.gbif.org/hosted-portals) voor meer informatie.
 
-### What can I discover on GBIF.be?
+### Wat kan ik ontdekken op GBIF.be?
 
-GBIF.be Hosted Portal let you explore **Open Biodiversity Data published about Belgium**. This is all data occurring in Belgium and openly shared through GBIF.
-Most of these data are coming from **Belgian Institutions, Public agencies, Scientists and Citizens**, but also from abroad.
+GBIF.be Hosted Portal laat je **Open Biodiversity Data gepubliceerd over België** ontdekken. Dit zijn alle gegevens die in België voorkomen en openlijk gedeeld worden via GBIF. De meeste van deze gegevens zijn afkomstig van **Belgische instellingen, openbare agentschappen, wetenschappers en burgers**, maar ook van buitenlandse partners.
 
-### How can I contribute to it?
+### Hoe kan ik bijdragen?
 
-If you have relevant Biodiversity data want to share data through GBIF, please have a look at this [Become a publisher page](https://www.gbif.org/become-a-publisher) or contact us directly.
-If you have a remark on this website, please let us know via [GitHub](https://github.com/gbif/hp-gbif-be)
+Als u relevante biodiversiteitsdata wilt delen via GBIF, kijk dan op [Become a publisher](https://www.gbif.org/become-a-publisher) of neem direct contact met ons op.
+Als u een opmerking heeft over deze website, laat het ons dan weten via [GitHub](https://github.com/gbif/hp-gbif-be)

@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: What is GBIF.be?
+title: Wat is GBIF.be?
 description: Welcome to the Belgian GBIF Hosted Portal
 background: /assets/images/placeholders/moss.jpg
 imageLicense: |
@@ -9,34 +9,34 @@ height: 70vh
 permalink: /nl/about
 ---
 
-## What can I discover here?
+## Wat kan ik hier ontdekken?
 
-GBIF.be Hosted Portal let you explore **Open Biodiversity Data published about Belgium**. This is all data occurring in Belgium and openly shared through GBIF.
-Most of these data are coming from **Belgian Institutions, Public agencies, Scientists and Citizens**, but also from abroad. This site is part of our contribution to [GBIF Hosted Portals](https://www.gbif.org/hosted-portals).
+GBIF.be Hosted Portal laat je **Open Biodiversiteitsdata gepubliceerd over België** verkennen. Dit zijn alle gegevens die in België voorkomen en openlijk worden gedeeld via GBIF.
+De meeste van deze gegevens komen van Belgische instellingen, publieke agentschappen, wetenschappers en burgers, maar ook uit het buitenland. Deze site is onderdeel van onze bijdrage aan GBIF Hosted Portals.
 
 ---
 
-## Who are we?
+## Wie zijn we?
 
-The **Belgian Biodiversity Platform (BBPf)** is a **science-policy interface body** funded by the Belgian Science Policy Office (BELSPO) and is supported by a Cooperation Agreement between the federal and concerned federated authorities. Within the field of biodiversity, it acts as a broker between policy, science and practice.
+Het Belgisch Biodiversiteitsplatform of **Belgian Biodiversity Platform (BBPf)** is een **science-policy interface body** gefinancierd door het Belgisch Wetenschapsbeleid (BELSPO) en wordt ondersteund door een Samenwerkingsovereenkomst tussen de federale en betrokken gefedereerde autoriteiten. Binnen het veld van biodiversiteit fungeert het als een schakel tussen beleid, wetenschap en praktijk.
 
-To fight biodiversity loss, different types of stakeholders need to work hand- in-hand, from public authorities to scientists, businesses, citizens, practitioners and many more. The Platform maintains privileged relations with scientists and policymakers, but our strategic partners are not restricted to these two communities. Indeed, science-policy interfacing (SPI) activities encompass broader interactions between knowledge holders and people involved in governance, decision-making and biodiversity management on the ground.
+Om het verlies aan biodiversiteit tegen te gaan, moeten verschillende soorten stakeholders hand in hand werken, van overheidsinstanties tot wetenschappers, bedrijven, burgers, mensen in de praktijk en vele anderen. Het Platform onderhoudt bevoorrechte relaties met wetenschappers en beleidsmakers, maar onze strategische partners zijn niet beperkt tot deze twee gemeenschappen. SPI-activiteiten (science-policy interfacing) omvatten namelijk bredere interacties tussen kennisdragers en mensen die betrokken zijn bij governance, besluitvorming en biodiversiteitsbeheer op het terrein.
 See our [Community page](/community) to discover all our partners.
 
-## Our values
+## Onze waarden
 
-### ![Holistic thinking](/assets/images/icons/valueHolistic.png)Holistic thinking
+### ![Holistic thinking](/assets/images/icons/valueHolistic.png)Holistisch denken
 
-A holistic approach refers to dealing with the whole of something rather than just a part of it. In the context of our work on biodiversity, we aim to look at all levels, drivers, disciplines and sectors related to biodiversity and address them together in a systemic way rather than through silos;
+Een holistische benadering verwijst naar het aanpakken van iets in zijn geheel in plaats van slechts een deel ervan. In de context van ons werk op het gebied van biodiversiteit streven we ernaar om naar alle niveaus, drijfveren, disciplines en sectoren te kijken die te maken hebben met biodiversiteit en deze samen op een systemische manier aan te pakken in plaats van via silo's;
 
-### ![Transdisciplinarity](/assets/images/icons/valueTransdisciplinarity.png)Transdisciplinarity
+### ![Transdisciplinarity](/assets/images/icons/valueTransdisciplinarity.png)Transdisciplinariteit
 
-We believe that the issues related to biodiversity cannot be solved by a unique discipline and by scientific knowledge alone. By ensuring that biodiversity related issues are looked at from different perspectives including views of relevant stakeholders, by a diversity of disciplines, across different sectors, and by co-creating knowledge in a joint manner, we will be able to solve the challenges our society is currently facing. We can create new conceptual, theoretical, methodological innovations that integrate stakeholders perspectives and move beyond discipline-specific approaches to address the common environmental issues that we are all facing.
+Wij geloven dat de problemen met betrekking tot biodiversiteit niet kunnen worden opgelost door één discipline en door wetenschappelijke kennis alleen. Door ervoor te zorgen dat kwesties met betrekking tot biodiversiteit vanuit verschillende perspectieven worden bekeken, waaronder die van relevante stakeholders, door een verscheidenheid aan disciplines, over verschillende sectoren heen, en door op een gezamenlijke manier kennis te creëren, zullen we in staat zijn om de uitdagingen waar onze samenleving momenteel voor staat op te lossen. We kunnen nieuwe conceptuele, theoretische en methodologische innovaties creëren die de perspectieven van stakeholders integreren en verder gaan dan discipline-specifieke benaderingen om de gemeenschappelijke milieuproblemen aan te pakken waar we allemaal mee te maken hebben.
 
-### ![Trust](/assets/images/icons/valueTrust.png)Trust
+### ![Trust](/assets/images/icons/valueTrust.png)Vertrouwen
 
-Nurturing trust among the different communities engaged in and/or depending on biodiversity (i.e., various scientific disciplines, policymakers, civil society, managers, private sectors etc.) is crucial. Trust allows for dialogue which leads to common understanding and therefore, to informed decisions at all levels
+Het vertrouwen creeëren tussen de verschillende gemeenschappen die betrokken zijn bij en/of afhankelijk zijn van biodiversiteit (d.w.z. verschillende wetenschappelijke disciplines, beleidsmakers, het maatschappelijk middenveld, managers, particuliere sectoren enz.) is van cruciaal belang. Vertrouwen maakt een dialoog mogelijk die leidt tot gemeenschappelijk begrip en tot een weloverwogen beslissingen op alle niveaus.
 
 ### ![Open access](/assets/images/icons/valueOpen.png)Open access
 
-Open data, knowledge and science: We believe that open and free access to reliable biodiversity knowledge and data is key in responding to the challenges facing decision-making in terms of biodiversity. Extending the principles of openness to the whole research process entails a systemic change to the way science is done and used in practice, supporting mandatory scientific integrity.
+Open data, kennis en wetenschap: Wij geloven dat open en vrije toegang tot betrouwbare biodiversiteitskennis en -data essentieel is om de uitdagingen aan te gaan waarmee de besluitvorming op het gebied van biodiversiteit wordt geconfronteerd. Het uitbreiden van de principes van openheid naar het hele onderzoeksproces brengt een systeemverandering met zich mee in de manier waarop wetenschap in de praktijk wordt bedreven en gebruikt, waarbij verplichte wetenschappelijke integriteit wordt ondersteund.

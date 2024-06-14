@@ -11,8 +11,6 @@ fr:
 nl:
   label: Nederlands
   icon: # optional
-  storiesLocale: nl
-  widgetLocale: nl
 
 de:
   label: Deutsch
