@@ -7,10 +7,6 @@ background:  "{{ site.data.images.YB01.src }}"
 imageLicense: "{{ site.data.images.YB01.caption }}"
 height: 70vh
 permalink: /fr
-navbar:
-  color: "transparent"        # What color should the navbar be?
-  hasWhiteText: true          # Should the text color be white?
-  floating: true
 cta:
   - text: Occurrences
     href: /fr/occurrence/search
