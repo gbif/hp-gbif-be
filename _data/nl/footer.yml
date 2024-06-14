@@ -3,7 +3,7 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Contact us
+  - name: Contact
     description: | # Can be Markdown
       [<i class="fa fa-envelope"></i> contact](mailto:contact@biodiversity.be)<br>![BBPf](/assets/images/logos/logoBBPf.png){:height="60px" width="120px"}
 
@@ -17,11 +17,11 @@ columns:
 
   - name: Code
     description: | # Can be Markdown
-      This project is **open source** and maintained on our [GitHub repository](https://github.com/gbif/hp-gbif-be)
+      Dit project is **open source** en wordt onderhouden op onze [GitHub repository](https://github.com/gbif/hp-gbif-be)
 
-  - name: Funding
+  - name: Sponsor
     description: | # Can be Markdown
-      This is an initiative of Belspo, [the Belgian Science Policy](https://www.belspo.be)
+      Dit is een initiatief van Belspo, [the Belgian Science Policy](https://www.belspo.be)
       ![Belspo](/assets/images/logos/BELSPO.png){:height="60px" width="120px"}
 
   # EXAMPLE

@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: Biodiversiteit in België
-description: Welkom bij het GBIF.be Hosted Portal.<br> Verken biodiversiteitswaarnemingen in ons land. Ontdek de levendige gemeenschap van datapubliceerders en de diensten die door uw Node worden aangeboden.
+description: Welkom bij het GBIF.be Hosted Portal.<br> Verken biodiversiteitsgegevens in ons land. Ontdek de levendige gemeenschap van datapubliceerders en de diensten die door uw Node worden aangeboden.
 background:  "{{ site.data.images.YB01.src }}"
 imageLicense: "{{ site.data.images.YB01.caption }}"
 height: 70vh
@@ -12,7 +12,7 @@ navbar:
   hasWhiteText: true          # Should the text color be white?
   floating: true
 cta:
-  - text: Occurrences
+  - text: Gevevens
     href: /nl/occurrence/search
     isPrimary: true
   - text: Gemeenschap
