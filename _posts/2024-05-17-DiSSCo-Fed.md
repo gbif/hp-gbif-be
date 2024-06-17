@@ -1,5 +1,6 @@
 ---
 title: "DiSSCo-Fed kick off"
+preTitle: May 17, 2024
 date: 2024-05-17 14:37:00 +0100
 categories: ["DiSSCo", "GBIF"]
 lang-ref: dissco.fed

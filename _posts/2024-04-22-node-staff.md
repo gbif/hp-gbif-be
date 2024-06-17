@@ -1,6 +1,7 @@
 ---
 title: "Node Staff"
-date: 2024-04-21 14:37:00 +0100
+preTitle: April 22, 2024
+date: 2024-04-22 14:37:00 +0100
 categories: ["GBIF"]
 lang-ref: node.staff
 background: "{{ site.data.images.RR08.src }}"
