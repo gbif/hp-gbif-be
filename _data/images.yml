@@ -54,6 +54,18 @@ RR06:
   src: /assets/images/photos/RR06.jpg
   caption: |
     _Alcedo atthis_ autumn 2022 from [theroadrunner](https://www.facebook.com/profile.php?id=100063766770116) CC-BY-NC
+RR07:
+  src: /assets/images/photos/RR07.jpg
+  caption: |
+    _ Erinaceus europaeus_ summer 2022 from [theroadrunner](https://www.facebook.com/profile.php?id=100063766770116) CC-BY-NC
+RR08:
+  src: /assets/images/photos/RR08.jpg
+  caption: |
+    _Anas plathyrynchos_ spring 2022 from [theroadrunner](https://www.facebook.com/profile.php?id=100063766770116) CC-BY-NC
+RR09:
+  src: /assets/images/photos/RR09.jpg
+  caption: |
+    _Porcellio spinicornis_ winter 2021 from [theroadrunner](https://www.facebook.com/profile.php?id=100063766770116) CC-BY-NC
 YB01:
   src: /assets/images/photos/YB01.jpg
   caption: |
@@ -78,3 +90,7 @@ YB06:
   src: /assets/images/photos/YB06.jpg
   caption: |
     _Mushrooms_ from [Yvan Barbier](https://www.yvanbarbier.com) CC-BY-NC
+TH01:
+  src: /assets/images/photos/TH01.jpg
+  caption: |
+    RBINS Insects collections from Thierry Hubin CC-BY-NC

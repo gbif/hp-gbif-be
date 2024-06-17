@@ -2,7 +2,7 @@
 title: "Node Staff"
 date: 2024-04-21 14:37:00 +0100
 categories: ["Hosted Portal", "GBIF"]
-lang-ref: hp.gbif.be
+lang-ref: node.staff
 background: "{{ site.data.images.YB06.src }}"
 imageLicense: "{{ site.data.images.YB06.caption }}"
 ---
