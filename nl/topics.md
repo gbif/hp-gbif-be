@@ -1,8 +1,8 @@
 ---
 lang-ref: topics
 layout: home
-title: Themas
-description: Explore the topical issues we are currently focusing on
+title: Thema's
+description: Ontdek de actuele onderwerpen waar wij op focussen
 background:  "{{ site.data.images.YB03.src }}"
 imageLicense: "{{ site.data.images.YB03.caption }}"
 height: 70vh
