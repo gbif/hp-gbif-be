@@ -33,6 +33,8 @@ Our [Data Publishers](/publisher/search) are mostly federal/regional organizatio
 
 If you want to join us, please visit [Become a publisher page](https://www.gbif.org/become-a-publisher) or by contact directly your [Node Manager](mailto:contact@biodivsersity.be).
 
+The [Belgian BIF mailing list](https://mailman.biodiversity.be/mailman/listinfo/belgianbif) covers the GBIF Community in Belgium. It offers a privileged communication channel between the Belgian BIF and the members of this Community.
+
 ## Our partners abroad
 
 Our country also is very active on the **Biodiversity informatics** international scene.

@@ -22,7 +22,7 @@ Sur notre[page de Littérature](/fr/literature/search) vous apprendrez comment l
 Ce succès n'aurait pas été possible sans les efforts continus du BeBIF.
 Nous souhaitons ici à remercier toutes les personnes et organisations qui ont contribué à cet effort au cours des vingt dernières années.
 
-## Les membres du BeBIF
+## Les membres du Belgian BIF
 
 Les [éditeurs de données](/fr/publisher/search) sont essentiellement des organisations publiques fédérales ou régionales, des universtiés, des musées et des ONGs.
 
@@ -33,6 +33,8 @@ Les [éditeurs de données](/fr/publisher/search) sont essentiellement des organ
 | [![ULB](/assets/images/logos/ULB.png){:height="60px" width="180px"}](https://www.ulb.be/en) | [![UGent](/assets/images/logos/UGent.png){:height="60px" width="120px"}](https://www.ugent.be/en) | [![ULiege](/assets/images/logos/ULiege.png){:height="60px" width="120px"}](https://www.uliege.be/en) |
 
 Si vous désirez nous rejoindre, nous vous invitons a lire [Comment devenir un éditeur de données](https://www.gbif.org/become-a-publisher) ou à nous contacter directement le [gestionnaire du noeud](mailto:contact@biodivsersity.be).
+
+La [mailing list du Belgian BIF](https://mailman.biodiversity.be/mailman/listinfo/belgianbif) couvre la communauté GBIF en Belgique. Elle offre un canal de communication privilégié entre les membres de la communauté.
 
 ## Nos partenaires à l'étranger
 
