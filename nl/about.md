@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: Wat is GBIF.be?
-description: Welcome to the Belgian GBIF Hosted Portal
+description: Welkom op het Belgische GBIF Hosted Portal
 background: /assets/images/placeholders/moss.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
@@ -11,23 +11,23 @@ permalink: /nl/about
 
 ## Wat kan ik hier ontdekken?
 
-GBIF.be Hosted Portal laat je **Open Biodiversiteitsdata gepubliceerd over België** verkennen. Dit zijn alle gegevens die in België voorkomen en openlijk worden gedeeld via GBIF.
-De meeste van deze voorkomens komen van Belgische instellingen, publieke agentschappen, wetenschappers en burgers, maar ook uit het buitenland. Deze site is onderdeel van onze bijdrage aan GBIF Hosted Portals.
+GBIF.be Hosted Portal laat je **Open Biodiversiteitsdata over België** verkennen. Dit zijn alle gegevens van organismen die in België voorkomen en openlijk worden gedeeld via GBIF.
+De meeste van deze data komen van Belgische instellingen, publieke agentschappen, wetenschappers en burgers, maar ook uit het buitenland. Deze site is onderdeel van onze bijdrage aan GBIF Hosted Portals.
 
 ---
 
 ## Wie zijn we?
 
-Het Belgisch Biodiversiteitsplatform of **Belgian Biodiversity Platform (BBPf)** is een **science-policy interface body** gefinancierd door het Belgisch Wetenschapsbeleid (BELSPO) en wordt ondersteund door een Samenwerkingsovereenkomst tussen de federale en betrokken gefedereerde autoriteiten. Binnen het veld van biodiversiteit fungeert het als een schakel tussen beleid, wetenschap en praktijk.
+Het Belgisch Biodiversiteitsplatform of **Belgian Biodiversity Platform (BBPf)** is een **interface-orgaan voor wetenschapsbeleid** gefinancierd door het Belgisch Wetenschapsbeleid (BELSPO) en wordt ondersteund door een Samenwerkingsovereenkomst tussen de federale en betrokken gefedereerde autoriteiten. Binnen het veld van biodiversiteit fungeert het als een schakel tussen beleid, wetenschap en praktijk.
 
 Om het verlies aan biodiversiteit tegen te gaan, moeten verschillende soorten stakeholders hand in hand werken, van overheidsinstanties tot wetenschappers, bedrijven, burgers, mensen in de praktijk en vele anderen. Het Platform onderhoudt bevoorrechte relaties met wetenschappers en beleidsmakers, maar onze strategische partners zijn niet beperkt tot deze twee gemeenschappen. SPI-activiteiten (science-policy interfacing) omvatten namelijk bredere interacties tussen kennisdragers en mensen die betrokken zijn bij governance, besluitvorming en biodiversiteitsbeheer op het terrein.
-See our [Community page](/community) to discover all our partners.
+Bezoek onze [Community page](/community) om al onze partners te ontdekken.
 
 ## Onze waarden
 
 ### ![Holistic thinking](/assets/images/icons/valueHolistic.png)Holistisch denken
 
-Een holistische benadering verwijst naar het aanpakken van iets in zijn geheel in plaats van slechts een deel ervan. In de context van ons werk op het gebied van biodiversiteit streven we ernaar om naar alle niveaus, drijfveren, disciplines en sectoren te kijken die te maken hebben met biodiversiteit en deze samen op een systemische manier aan te pakken in plaats van via silo's;
+Een holistische benadering verwijst naar het aanpakken van iets in zijn geheel in plaats van slechts een deel ervan. In de context van ons werk op het gebied van biodiversiteit streven we ernaar om naar alle niveaus, drijfveren, disciplines en sectoren te kijken die te maken hebben met biodiversiteit en deze samen op een systemische manier aan te pakken over silo's heen.
 
 ### ![Transdisciplinarity](/assets/images/icons/valueTransdisciplinarity.png)Transdisciplinariteit
 
