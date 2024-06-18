@@ -2,20 +2,22 @@
 title: "Node Staff"
 preTitle: April 22, 2024
 date: 2024-04-21 14:37:00 +0100
-categories: ["Hosted Portal", "GBIF"]
+categories: ["GBIF"]
 lang-ref: node.staff
 background: "{{ site.data.images.YB06.src }}"
 imageLicense: "{{ site.data.images.YB06.caption }}"
 ---
 
-The [Belgian Node team](/team) consists of IT & Data Experts based in federal and regional research institutes:
+Het [Belgian Node-team](/team) bestaat uit een mix van IT- en data-experts gevestigd in federale en regionale onderzoeksinstellingen:
 
 - **Andre Heughebaert**, Node Manager @ BelSPO
-- **Julien Cigar**, System Administrator @ BelSPO
+- **Julien Cigar**, systeembeheerder @ BelSPO
 - **Dimitri Brosens**, Data Officer @ INBO
-- **Stijn Cooleman**, Data Officer @ RBINS
 - **Maxime Coupremanne**, Data Officer @ SPW-DEMNA
+- **Stijn Cooleman**, Data Officer @ Instituut voor Natuurwetenschappen
 
-![GBIFNode](/assets/images/logos/node-green.png){:height="120px" width="120px" style="float: left"} Should you have any question in regards to GBIF (data publication, data use, tools, standards, citation mechanism, literature...) do not hesitate to [contact us <i class="fa fa-envelope"></i>](mailto:contact@biodiversity.be). We'll get back to you as soon as possible.
+![GBIFNode](/assets/images/logos/node-green.png)
 
-Discover the entire **Belgian Biodiversity Platform** team [here](https://www.biodiversity.be/1764/).
+Mocht u vragen hebben over GBIF (datapublicatie, datagebruik, tools, standaarden, citatiemechanisme, datapapers, training, literatuur...), aarzel dan niet om [contact met ons op te nemen <i class="fa fa-envelope" ></i>](mailto:contact@biodiversiteit.be). We nemen zo snel mogelijk contact met u op.
+
+Ontdek de rest van het team van het **Belgisch Biodiversiteitsplatform** [hier](https://www.biodiversity.be/1764/).
