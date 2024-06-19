@@ -5,7 +5,7 @@ stats:
   #  See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
   features:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?country=BE&limit=0"></span>
-      description: Voorkomens
+      description: Verspreidingsgevevens
       background: /assets/images/icons/occurrence.svg
       href: /occurrence/search
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=BE&limit=0"></span>
@@ -22,18 +22,18 @@ stats:
       href: /literature/search
 support:
   reverse: false
-  title: "onze bijdrage"
+  title: "Onze bijdrage"
   description: | # required
-    Belgium was an early adopter of GBIF and remained very active Voting Participant since 2001. Thanks to our continuous efforts in data mobilization, publication and use, we delivered great results for such a small country.
+    België was een early adopter van GBIF. Sinds 2001 zijn we er actief in als stemgerechtigde deelnemer. Dankzij onze continue inspanningen voor data-mobilisatie, -publicatie en -gebruik hebben we al geweldige resultaten geboekt voor zo’n klein land.
   # img required
   background: /assets/images/placeholders/mapBE2024-05-15.png
   imageLicense: |
     GBIF.org
   href: /about
   cta:
-    - text: visit our country page
+    - text: Bezoek onze nationale pagina
       href: https://www.gbif.org/country/BE
-    - text: Download activity report
+    - text: Download ons activiteitenrapport
       href: https://www.gbif.org/sites/default/files/gbif_analytics/country/BE/GBIF_CountryReport_BE.pdf
       isPrimary: true
 
