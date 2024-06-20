@@ -27,10 +27,10 @@ support:
     La Belgique contribue au GBIF depuis sa création. Elle a toujours été un participant très actif depuis 2001.
     Gràce à nos efforts continus en mobilisation de données, en publication et en utilisation, nous avons atteint des résultats impressionnants malgré la petite taille de notre pays.
   # img required
-  background: /assets/images/placeholders/mapBE2024-05-15.png
+  background: /assets/images/placeholders/mapGBIFbe2024-05-15.png
   imageLicense: |
     GBIF.org
-  href: /fr/about
+  href: /nl/occurrence/search?view=MAP
   cta:
     - text: Visitez la page de notre pays
       href: https://www.gbif.org/country/BE

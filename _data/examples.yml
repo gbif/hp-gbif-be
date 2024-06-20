@@ -27,10 +27,10 @@ support:
   description: | # required
     Belgium was an early adopter of GBIF and remained very active Voting Participant since 2001. Thanks to our continuous efforts in data mobilization, publication and use, we delivered great results for such a small country.
   # img required
-  background: /assets/images/placeholders/mapBE2024-05-15.png
+  background: /assets/images/placeholders/mapGBIFbe2024-05-15.png
   imageLicense: |
     GBIF.org
-  href: /about
+  href: /occurrence/search?view=MAP
   cta:
     - text: visit our country page
       href: https://www.gbif.org/country/BE

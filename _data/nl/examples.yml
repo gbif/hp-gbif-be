@@ -26,10 +26,10 @@ support:
   description: | # required
     België was een early adopter van GBIF. Sinds 2001 zijn we er actief in als stemgerechtigde deelnemer. Dankzij onze continue inspanningen voor data-mobilisatie, -publicatie en -gebruik hebben we al geweldige resultaten geboekt voor zo’n klein land.
   # img required
-  background: /assets/images/placeholders/mapBE2024-05-15.png
+  background: /assets/images/placeholders/mapGBIFbe2024-05-15.png
   imageLicense: |
     GBIF.org
-  href: /about
+  href: /nl/occurrence/search?view=MAP
   cta:
     - text: Bezoek onze nationale pagina
       href: https://www.gbif.org/country/BE
