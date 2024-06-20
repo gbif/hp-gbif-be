@@ -10,7 +10,7 @@ permalink: /team
 composition:
   - type: heroImage
   - type: features
-    data: examples.staff
+    data: node.staff
 ---
 
 Edit `/team.md` to change the text.

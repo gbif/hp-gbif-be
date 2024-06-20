@@ -10,7 +10,7 @@ permalink: /fr/topics
 composition:
   - type: heroImage
   - type: features
-    data: fr.examples.topics
+    data: fr.node.topics
 ---
 
 Edit `/topics.md` to change the text.

@@ -8,7 +8,7 @@ imageLicense: "{{ site.data.images.YB01.caption }}"
 height: 70vh
 permalink: /nl
 cta:
-  - text: Verspreidingsgevevens
+  - text: Voorkomens
     href: /nl/occurrence/search
     isPrimary: true
   - text: Gemeenschap

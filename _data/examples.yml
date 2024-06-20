@@ -20,6 +20,7 @@ stats:
       description: Articles
       background: /assets/images/icons/article.svg
       href: /literature/search
+
 support:
   reverse: false
   title: "our contribution"
@@ -36,75 +37,3 @@ support:
     - text: Download activity report
       href: https://www.gbif.org/sites/default/files/gbif_analytics/country/BE/GBIF_CountryReport_BE.pdf
       isPrimary: true
-
-topics:
-  title: Topical issues
-  description: |
-    Explore the topical issues we are currently focusing on
-  features:
-    - title: Biodiversity & Climate Change # required
-      description: | # required
-        We are currently assessing the need for science-policy interfacing tools/approaches/capacity in the topical area of Biodiversity and Climate Change.
-      href: https://www.biodiversity.be/5472
-      # img required
-      background: /assets/images/placeholders/topic1.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Invasive Alien Species # required
-      description: | # required
-        We work on Invasive Alien Species (IAS) by facilitating science-policy processes on invasive alien species
-      href: https://www.biodiversity.be/5981
-      background: /assets/images/placeholders/topic2.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Nature & Society # required
-      description: | # required
-        The BElgian Ecosystems and Society community (BEES) is a growing and active informal network of Belgian ecosystem services experts.
-      href: https://www.biodiversity.be/5980
-      background: /assets/images/placeholders/topic3.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: One Health # required
-      description: | # required
-        The community groups experts from a diversity of fields: natural and social scientists, policy-makers, practitioners and other stakeholders. The structural support for the topical issue on Biodiversity and One Health was established as a follow-up of the 2011 Belgian Biodiversity & Health conference organised by the Belgian Biodiversity Platform.
-      href: https://www.biodiversity.be/3643
-      background: /assets/images/placeholders/topic4.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Nature based solutions # required
-      description: | # required
-        The Belgian Biodiversity Platform is the Belgian IUCN Focal Point. We work on strengthening conservation-related actions in Belgium and we promote success stories of Belgian IUCN members.
-      href: https://www.biodiversity.be/3079
-      background: /assets/images/placeholders/topic5.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Biodiversity Informatics # required
-      description: | # required
-        Through our activities of biodiversity data mobilisation, we encourage researchers to make use of Biodiversity Informatics tools and standards.
-      href: https://www.biodiversity.be/1767
-      background: /assets/images/placeholders/topic6.png
-      imageLicense: None for this image, but normally you would provide one here
-staff:
-  title: Node staff
-  description: |
-  features:
-    - title: Julien Cigar # required
-      description: | # required
-        IT specialist, Julien is the Belgian Biodiversity Platform system administrator. He has particular interest in databases, Python and the FreeBSD operating system.<br>[<i class="fa fa-envelope"></i> contact](maito:j.cigar@biodiversity.be)
-      categories: [System Adminstrator, IT expert]
-      background: /assets/images/staff/julien.png
-    - title: Dimitri Brosens # required
-      description: | # required
-        Dimitri is a biologist interested in biodiversity informatics, he animates the network and is actively involved in data mobilisation and publication in Flanders. Dimitri has a particular interest in data standardisation, Darwin Core, invasive species, palaeontology, terrestrial and freshwater biodiversity. He advocates Open Science in the Research cycle and looks for practical usage of open data. He loves to chat with scientists and helps them to publish their data. His goal is to get Flanders on the global map of biodiversity. Dimitri has is office in the Research Institute for Nature and Forest.<br>[<i class="fa fa-envelope"></i> contact](maito:d.brosens@biodiversity.be)
-      categories: [Open Data Expert]
-      background: /assets/images/staff/dimi.png
-    - title: Maxime Coppremanne # required
-      description: | # required
-        Maxime is a biologist involved in the mobilization of biodiversity data on the Global Biodiversity Information Facility (GBIF) portal. Based at the Départment d'Etude du Milieu Naturel et Agricole (SPW-DEMNA), he advocates the use of Open Data in Wallonia and support anyhow is willing to join the open side of the science. His  particular interests are biodiversity informatics, data management, marine life, invasive species, species distribution models and Open Science.<br>[<i class="fa fa-envelope"></i> contact](maito:m.coppremanne@biodiversity.be)
-      categories: [Open Data Expert]
-      background: /assets/images/staff/max.png
-    - title: Stijn Cooleman # required
-      description: | # required
-        Stijn is a biologist with interdisciplinary skills in data management. He is involved in open data activities at the platform. By focusing on biodiversity informatic standards and data mapping, he supports to mobilise natural history knowledge from collections to web portals of the Global Biodiversity Information Facility (GBIF) and European Infrastructures. He has a particular interest in avian ecology, taxonomy, species distribution and ecosystem services.<br>[<i class="fa fa-envelope"></i> contact](maito:s.cooleman@biodiversity.be)
-      categories: [Open Data Expert]
-      background: /assets/images/staff/stijn.png
-    - title: Andre Heughebaert # required
-      description: | # required
-        Senior Software engineer and expert in Biodiversity Informatics, André manages the Platform's IT team. He coordinates data management, websites and web based services. André is our representative to Global Biodiversity Information Facility (GBIF) Governing Board taking part in the global-level decision making. He has a particular interest in Biodiversity Data Exchange Standards, Data Visualisation, Cleaning and Publication Tools.<br>[<i class="fa fa-envelope"></i> contact](maito:a.heughebaert@biodiversity.be)
-      categories: [Node manager, IT expert]
-      background: /assets/images/staff/andre.png
