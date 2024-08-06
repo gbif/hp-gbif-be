@@ -1,7 +1,7 @@
 ---
 title: "L'équipe du noeud"
-preTitle: April 22, 2024
-date: 2024-04-21 14:37:00 +0100
+preTitle: June 4, 2024
+date: 2024-06-06 14:37:00 +0100
 categories: ["GBIF"]
 lang-ref: node.staff
 lang: fr
