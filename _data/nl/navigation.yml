@@ -1,6 +1,6 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Over
+- text: Over ons
   menu:
     - text: Wat is GBIF.be?
       href: /nl/about
@@ -17,7 +17,7 @@
 
 - text: Ontdekken
   menu:
-    - text: Voorkomens
+    - text: Occurrences
       href: /nl/occurrence/search
     - text: Datasets
       href: /nl/dataset/search

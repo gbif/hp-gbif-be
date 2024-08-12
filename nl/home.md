@@ -8,14 +8,14 @@ imageLicense: "{{ site.data.images.YB01.caption }}"
 height: 70vh
 permalink: /nl
 cta:
-  - text: Voorkomens
+  - text: Occurrences
     href: /nl/occurrence/search
     isPrimary: true
   - text: Gemeenschap
     href: /nl/community
   - text: Diensten
     href: /nl/services
-  - text: Over
+  - text: Over ons
     href: /nl/about
 composition:
   - type: heroImage
