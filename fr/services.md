@@ -129,6 +129,11 @@ La communauté taxonomique publie des listes de contrôle sur ChecklistBank à l
 
 > Nous vous guidons vers les meilleurs standards de données en Biodiversité.
 
+### Le nouveau modèle de données
+La communauté GBIF [diversifie son modèle de données](https://www.gbif.org/composition/HjlTr705BctcnaZkcjRJq/gbif-new-data-model) afin de dépasser les limitations actuellement imposées par le Darwin Core.
+
+> Avec nous, explorez les idées nouvelles rassemblées dans le modèle de données unifié qui offrira bientôt des capacités de publication de données beaucoup plus élaborées.
+
 ## Plan de gestion des données(DMP)
 
 Dans le cadre d'efforts de collaboration avec le Belmont Forum et Biodiversa+, nous avons développé ce [Guide de gestion des données, un document d'orientation sur la gestion des données, les données ouvertes et la production de plans de gestion des données](https://www.biodiversa.eu/2023/10/06/discover-our-data-management-guide). Il s'agit d'un compagnon indispensable, conçu pour soutenir les chercheurs engagés dans des projets financés par le biais d'appels conjoints. Il vise à aider les chercheurs à créer et à mettre en œuvre efficacement leurs plans de gestion des données (Data Management Plan - DMP).

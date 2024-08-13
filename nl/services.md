@@ -123,6 +123,11 @@ The taxonomic community publish checklists to ChecklistBank using [ColDP](https:
 
 > We guide you through the various Biodiversity Standards.
 
+### New Data Model
+GBIF Community is [diversifying the Data Model](https://www.gbif.org/composition/HjlTr705BctcnaZkcjRJq/gbif-new-data-model) to overcome the current Darwin Core limitations.
+
+> With us, explore the current ideas for a unified common model capable of supporting expanded data-publishing capabilities.
+
 ## Data Management Plan
 
 In collaborative efforts with The Belmont Forum and Biodiversa+, we developped this [Data Management Guide,a guidance document on data management, open data and the production of data management plans](https://www.biodiversa.eu/2023/10/06/discover-our-data-management-guide/).
