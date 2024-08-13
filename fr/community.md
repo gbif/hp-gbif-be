@@ -32,7 +32,7 @@ Les [éditeurs de données](/fr/publisher/search) sont essentiellement des organ
 | [![DENMA](/assets/images/logos/DEMNA.png){:height="60px" width="180px"}](http://environnement.wallonie.be/administration/demna.htm) | [![Natuurpunt](/assets/images/logos/natuurpunt.jpg){:height="60px" width="120px"}](https://www.natuurpunt.be/) | [![VLIZ](/assets/images/logos/VLIZ.jpg){:height="60px" width="120px"}](https://www.vliz.be/en) |
 | [![ULB](/assets/images/logos/ULB.png){:height="60px" width="180px"}](https://www.ulb.be/en) | [![UGent](/assets/images/logos/UGent.png){:height="60px" width="120px"}](https://www.ugent.be/en) | [![ULiege](/assets/images/logos/ULiege.png){:height="60px" width="120px"}](https://www.uliege.be/en) |
 
-Si vous désirez nous rejoindre, nous vous invitons a lire [Comment devenir un éditeur de données](https://www.gbif.org/become-a-publisher) ou à nous contacter directement le [gestionnaire du noeud](mailto:contact@biodivsersity.be).
+Si vous désirez nous rejoindre, nous vous invitons a lire [Comment devenir un éditeur de données](https://www.gbif.org/become-a-publisher) ou à nous contacter directement le [gestionnaire du noeud](mailto:{{ page.contactEmail }}).
 
 La [mailing list du Belgian BIF](https://mailman.biodiversity.be/mailman/listinfo/belgianbif) couvre la communauté GBIF en Belgique. Elle offre un canal de communication privilégié entre les membres de la communauté.
 

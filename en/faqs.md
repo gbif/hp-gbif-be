@@ -16,7 +16,7 @@ GBIF—the **Global Biodiversity Information Facility**—is an international ne
 
 Each **hosted portal** is a simple website hosted and maintained on the GBIF infrastructure. The programme complements other tools available through the network by lowering the technical threshold for maintaining a branded web presence displaying a targeted subset of the data and information already available through GBIF.org. see [GBIF Hosted portals](https://www.gbif.org/hosted-portals) for more
 
-### What is GBIF Node?
+### What is a GBIF Node?
 
 The GBIF Node is a team designated by a participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information.
 
@@ -31,5 +31,5 @@ Platform experts and our infrastructure are there to help you sharing and re-usi
 
 ### How can I contribute?
 
-If you have relevant Biodiversity data want to share data through GBIF, we suggest you to [Become a publisher](https://www.gbif.org/become-a-publisher) or directly contact your [Node Manager](mailto:contact@biodivsersity.be).
+If you have relevant Biodiversity data want to share data through GBIF, we suggest you to [Become a publisher](https://www.gbif.org/become-a-publisher) or directly contact your [Node Manager](mailto:{{ page.contactEmail }}).
 If you have a remarks or issues on this website, please let us know via our [GitHub](https://github.com/gbif/hp-gbif-be) repository.

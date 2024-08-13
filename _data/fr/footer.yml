@@ -3,9 +3,9 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Contactez nous
+  - name: Contactez-nous
     description: | # Can be Markdown
-      [<i class="fa fa-envelope"></i> contact@biodiversity.be](mailto:contact@biodiversity.be)
+      [<i class="fa fa-envelope"></i> contact](mailto:gbif@biodiversity.be)
       <br>![BBPf](/assets/images/logos/logoBBPf.png){:height="60px" width="120px"}
 
     connectIcons: true

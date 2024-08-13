@@ -16,7 +16,7 @@ Le GBIF—**Global Biodiversity Information Facility(=Système mondial d’infor
 
 Chaque **portail hébergé** est un site web simple, hébergé et maintenu sur l'infrastructure GBIF. Le programme complète d'autres outils disponibles via le réseau en abaissant le seuil technique pour maintenir une présence web personnalisée affichant un sous-ensemble ciblé des données et informations déjà disponibles via GBIF.org. voir [Portails hébergés par le GBIF](https://www.gbif.org/fr/hosted-portals)
 
-### Qu'est-ce qu'un noeud?
+### Qu'est-ce qu'un noeud national GBIF?
 
 Le nœud GBIF est une équipe désignée par un participant pour coordonner un réseau de personnes et d'institutions qui produisent, gèrent et utilisent des données sur la biodiversité, construisant collectivement une infrastructure pour fournir des informations sur la biodiversité.
 
@@ -31,6 +31,6 @@ Les experts de la plateforme et notre infrastructure sont là pour vous aider à
 
 ### Comment puis-je contributer?
 
-Si vous possèdez des données pertinentes sur la biodiversité et que vous souhaitez partager vos données via le GBIF, nous vous suggérons de [Devenir éditeur](https://www.gbif.org/become-a-publisher) ou de contacter directement votre [Gestionnaire de noeud](mailto:contact@biodivsersity.be).
+Si vous possèdez des données pertinentes sur la biodiversité et que vous souhaitez partager vos données via le GBIF, nous vous suggérons de [devenir éditeur](https://www.gbif.org/become-a-publisher) ou de contacter directement votre [Gestionnaire de noeud](mailto:{{ page.contactEmail }}).
 
 Si vous avez des remarques, des suggestions ou des problèmes à propos de ce site Web, veuillez nous en informer via notre dépôt [GitHub](https://github.com/gbif/hp-gbif-be).

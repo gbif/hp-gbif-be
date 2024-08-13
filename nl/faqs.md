@@ -16,6 +16,10 @@ GBIF—the Global Biodiversity Information Facility— is een internationaal net
 
 Elk hosted portal is een eenvoudige website die wordt gehost en onderhouden op de GBIF-infrastructuur. Het programma is een aanvulling op andere tools die via het netwerk beschikbaar zijn, doordat het de technische drempel verlaagt voor het onderhouden van een webaanwezigheid met een eigen merknaam die een gerichte subset weergeeft van de gegevens en informatie die al beschikbaar zijn via GBIF.org. Bekijk [GBIF Hosted portals](https://www.gbif.org/hosted-portals) voor meer informatie.
 
+### Wat is nationaal kennisknooppunt?
+
+Het GBIF nationaal kennisknooppunt is een team dat door een deelnemer is aangewezen om een ​​netwerk van mensen en instellingen te coördineren die biodiversiteitsgegevens produceren, beheren en gebruiken. Samen bouwen ze een infrastructuur voor het leveren van biodiversiteitsinformatie.
+
 ### Wat kan ik ontdekken op GBIF.be?
 
 GBIF.be Hosted Portal laat je **Open Biodiversity Data gepubliceerd over België** ontdekken. Dit zijn alle occurrences die in België voorkomen en openlijk gedeeld worden via GBIF. De meeste van deze gegevens zijn afkomstig van **Belgische instellingen, openbare agentschappen, wetenschappers en burgers**, maar ook van buitenlandse partners.

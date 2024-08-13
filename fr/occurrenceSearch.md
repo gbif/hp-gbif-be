@@ -4,4 +4,5 @@ permalink: fr/occurrence/search
 title: Recherche d'occurrence
 description: We publish open data
 layout: occurrence
+noindex: true
 ---

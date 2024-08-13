@@ -23,7 +23,7 @@ stats:
 
 support:
   reverse: false
-  title: "our contribution"
+  title: "our mission"
   description: | # required
     Belgium was an early adopter of GBIF and remained very active Voting Participant since 2001. Thanks to our continuous efforts in data mobilization, publication and use, we delivered great results for such a small country.
   # img required

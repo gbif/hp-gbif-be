@@ -10,7 +10,7 @@ permalink: /fr/services
 
 Nous offrons des services liés aux **outils et standards informatiques de la biodiversité** à l'ensemble de la communauté belge BIF (Biodiversity Information Facility). Vous souhaitez publier vos données ou utiliser les données ouvertes du GBIF ? Notre infrastructure et nos experts sont là pour vous aider ! Notre mission est de supporter la communauté des acteurs belges de la biodiversité à s'engager dans la démarche 'Open Data', et pour cela nous proposons un support flexible en fonction de vos besoins.
 
-> N'hésitez pas à contacter **contact@biodiversity.be** ou à [proposer un ensemble de données à publier sur GBIF](https://www.gbif.org/suggest-dataset) !
+> N'hésitez pas à contacter **{{ page.contactEmail }}** ou à [proposer un ensemble de données à publier sur GBIF](https://www.gbif.org/suggest-dataset) !
 
 ## Les outils
 

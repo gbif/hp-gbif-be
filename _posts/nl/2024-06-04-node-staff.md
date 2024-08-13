@@ -18,6 +18,6 @@ Het [Belgian Node-team](/team) bestaat uit een mix van IT- en data-experts geves
 
 ![GBIFNode](/assets/images/logos/node-green.png)
 
-Mocht u vragen hebben over GBIF (datapublicatie, datagebruik, tools, standaarden, citatiemechanisme, datapapers, training, literatuur...), aarzel dan niet om [contact met ons op te nemen <i class="fa fa-envelope" ></i>](mailto:contact@biodiversiteit.be). We nemen zo snel mogelijk contact met u op.
+Mocht u vragen hebben over GBIF (datapublicatie, datagebruik, tools, standaarden, citatiemechanisme, datapapers, training, literatuur...), aarzel dan niet om [contact met ons op te nemen <i class="fa fa-envelope" ></i>](mailto:{{ page.contactEmail }}). We nemen zo snel mogelijk contact met u op.
 
 Ontdek de rest van het team van het **Belgisch Biodiversiteitsplatform** [hier](https://www.biodiversity.be/1764/).

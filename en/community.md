@@ -31,7 +31,7 @@ Our [Data Publishers](/publisher/search) are mostly federal/regional organizatio
 | [![DENMA](/assets/images/logos/DEMNA.png){:height="60px" width="180px"}](http://environnement.wallonie.be/administration/demna.htm) | [![Natuurpunt](/assets/images/logos/natuurpunt.jpg){:height="60px" width="120px"}](https://www.natuurpunt.be/) | [![VLIZ](/assets/images/logos/VLIZ.jpg){:height="60px" width="120px"}](https://www.vliz.be/en) |
 | [![ULB](/assets/images/logos/ULB.png){:height="60px" width="180px"}](https://www.ulb.be/en) | [![UGent](/assets/images/logos/UGent.png){:height="60px" width="120px"}](https://www.ugent.be/en) | [![ULiege](/assets/images/logos/ULiege.png){:height="60px" width="120px"}](https://www.uliege.be/en) |
 
-If you want to join us, please visit [Become a publisher page](https://www.gbif.org/become-a-publisher) or by contact directly your [Node Manager](mailto:contact@biodivsersity.be).
+If you want to join us, please visit [Become a publisher page](https://www.gbif.org/become-a-publisher) or by contact directly your [Node Manager](mailto:{{ page.contactEmail }}).
 
 The [Belgian BIF mailing list](https://mailman.biodiversity.be/mailman/listinfo/belgianbif) covers the GBIF Community in Belgium. It offers a privileged communication channel between the Belgian BIF and the members of this Community.
 

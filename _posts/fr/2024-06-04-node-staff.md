@@ -14,10 +14,10 @@ L'[équipe du Noeud Belge](/team) est composée d'un mélange d'experts en infor
 - **Julien Cigar**, Administrateur Système @ BelSPO
 - **Dimitri Brosens**, Data Officer @ INBO
 - **Maxime Coupremanne**, Data Officer @ SPW-DEMNA
-- **Stijn Cooleman**, responsable des données @ Institut des Sciences Naturelles
+- **Stijn Cooleman**, Data Officer @ Institut des Sciences Naturelles
 
 ![GBIFNode](/assets/images/logos/node-green.png)
 
-Si vous avez des questions concernant le GBIF (publication des données, utilisation des données, outils, normes, mécanisme de citation, documents de données, formation, littérature...), n'hésitez pas à [nous contacter <i class="fa fa-envelope" ></i>](mailto:contact@biodiversity.be). Nous vous répondrons dans les plus brefs délais.
+Si vous avez des questions concernant le GBIF (publication des données, utilisation des données, outils, normes, mécanisme de citation, documents de données, formation, littérature...), n'hésitez pas à [nous contacter <i class="fa fa-envelope" ></i>](mailto:{{ page.contactEmail }}). Nous vous répondrons dans les plus brefs délais.
 
 Découvrez aussi [l'ensemble de l'équipe](https://www.biodiversity.be/1764/) de la **Plateforme Belge de la Biodiversité**.
