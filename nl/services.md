@@ -121,12 +121,11 @@ The taxonomic community publish checklists to ChecklistBank using [ColDP](https:
 [Frictionless](https://frictionlessdata.io/) is an open-source toolkit that brings simplicity to the data experience - whether you're wrangling a CSV or engineering complex pipelines.
 [Camera Trap Data Package](https://camtrap-dp.tdwg.org/) (or Camtrap DP for short) is a community developed data exchange format for camera trap data. It is based on Frictionless standards.
 
-> We guide you through the various Biodiversity Standards.
 
 ### New Data Model
 GBIF Community is [diversifying the Data Model](https://www.gbif.org/composition/HjlTr705BctcnaZkcjRJq/gbif-new-data-model) to overcome the current Darwin Core limitations.
 
-> With us, explore the current ideas for a unified common model capable of supporting expanded data-publishing capabilities.
+> We guide you through the existing Biodiversity Standards and inform you on the emerging ideas for a richer unified common model capable of supporting expanded data-publishing capabilities.
 
 ## Data Management Plan
 

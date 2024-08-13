@@ -40,10 +40,10 @@ remote_theme: gbif/jekyll-hp-base-theme
 
 # For use by the 'standardPrivacy' layout
 privacy:
-  name: Belgian Biodiversity Platform
-  domain: biodiversity.be
-  contactEmail: gbif@biodiversity.be
-  helpdeskEmail: gbif@biodiversity.be
+name: Belgian Biodiversity Platform
+domain: biodiversity.be
+contactEmail: gbif@biodiversity.be
+helpdeskEmail: gbif@biodiversity.be
 
 algae:
   rootLang: en

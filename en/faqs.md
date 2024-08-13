@@ -31,5 +31,5 @@ Platform experts and our infrastructure are there to help you sharing and re-usi
 
 ### How can I contribute?
 
-If you have relevant Biodiversity data want to share data through GBIF, we suggest you to [Become a publisher](https://www.gbif.org/become-a-publisher) or directly contact your [Node Manager](mailto:{{ page.contactEmail }}).
+If you have relevant Biodiversity data want to share data through GBIF, we suggest you to [Become a publisher](https://www.gbif.org/become-a-publisher) or directly contact your [Node Manager](mailto:gbif@biodiversity.be).
 If you have a remarks or issues on this website, please let us know via our [GitHub](https://github.com/gbif/hp-gbif-be) repository.

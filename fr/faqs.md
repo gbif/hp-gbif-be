@@ -31,6 +31,6 @@ Les experts de la plateforme et notre infrastructure sont là pour vous aider à
 
 ### Comment puis-je contributer?
 
-Si vous possèdez des données pertinentes sur la biodiversité et que vous souhaitez partager vos données via le GBIF, nous vous suggérons de [devenir éditeur](https://www.gbif.org/become-a-publisher) ou de contacter directement votre [Gestionnaire de noeud](mailto:{{ page.contactEmail }}).
+Si vous possèdez des données pertinentes sur la biodiversité et que vous souhaitez partager vos données via le GBIF, nous vous suggérons de [devenir éditeur](https://www.gbif.org/become-a-publisher) ou de contacter directement votre [Gestionnaire de noeud](mailto:gbif@biodiversity.be).
 
 Si vous avez des remarques, des suggestions ou des problèmes à propos de ce site Web, veuillez nous en informer via notre dépôt [GitHub](https://github.com/gbif/hp-gbif-be).

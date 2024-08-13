@@ -10,7 +10,7 @@ permalink: /fr/services
 
 Nous offrons des services liés aux **outils et standards informatiques de la biodiversité** à l'ensemble de la communauté belge BIF (Biodiversity Information Facility). Vous souhaitez publier vos données ou utiliser les données ouvertes du GBIF ? Notre infrastructure et nos experts sont là pour vous aider ! Notre mission est de supporter la communauté des acteurs belges de la biodiversité à s'engager dans la démarche 'Open Data', et pour cela nous proposons un support flexible en fonction de vos besoins.
 
-> N'hésitez pas à contacter **{{ page.contactEmail }}** ou à [proposer un ensemble de données à publier sur GBIF](https://www.gbif.org/suggest-dataset) !
+> N'hésitez pas à contacter **gbif@biodiversity.be** ou à [proposer un ensemble de données à publier sur GBIF](https://www.gbif.org/suggest-dataset) !
 
 ## Les outils
 
@@ -127,12 +127,11 @@ La communauté taxonomique publie des listes de contrôle sur ChecklistBank à l
 [Frictionless](https://frictionlessdata.io/) est une boîte à outils open source qui simplifie l'expérience des données, que vous soyez en train de gérer un CSV ou de concevoir des pipelines complexes.
 [Camera Trap Data Package](https://camtrap-dp.tdwg.org/) (ou Camtrap DP en abrégé) est un format d'échange de données développé par la communauté pour les données de pièges photographiques. Il est basé sur les normes Frictionless.
 
-> Nous vous guidons vers les meilleurs standards de données en Biodiversité.
 
 ### Le nouveau modèle de données
 La communauté GBIF [diversifie son modèle de données](https://www.gbif.org/composition/HjlTr705BctcnaZkcjRJq/gbif-new-data-model) afin de dépasser les limitations actuellement imposées par le Darwin Core.
 
-> Avec nous, explorez les idées nouvelles rassemblées dans le modèle de données unifié qui offrira bientôt des capacités de publication de données beaucoup plus élaborées.
+> Nous vous guidons vers les meilleurs standards de données en Biodiversité et vous informons des idées émergeantes vers un modèle unifié common offrant de nouvelles perspectives.
 
 ## Plan de gestion des données(DMP)
 
