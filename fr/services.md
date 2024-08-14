@@ -60,7 +60,7 @@ est un référentiel complet d'informations organisé par la communauté sur les
 
 ### Les portails de données
 
-Durant les 20 dernières années, nous avons développé une série de sites sur un variété de thématiques :
+Durant les 20 dernières années, nous avons développé une série de sites sur une variété de thématiques :
 
 - [African Mammalia](https://projects.biodiversity.be/africanmammalia/)
 - [Afromoths](https://www.afromoths.net/) Base de données en ligne sur les papillons de nuit d'Afrique tropicale
@@ -90,7 +90,7 @@ Le ['API du GBIF](https://techdocs.gbif.org/en/openapi/) fournit une alternative
 
 > Nous vous aidons à découvrir et à faire le meilleur usage de ces différents outils.
 
-La [documentation technique du GBIF](https://techdocs.gbif.org/fr/) explique comment les utilisateurs peuvent accéder aux données du GBIF. Il fournit des informations sur les données disponibles, comment les récupérer, où elles ont été nettoyées ou vérifiées pour la qualité des données et comment elles doivent être citées.
+La [documentation technique du GBIF](https://techdocs.gbif.org/fr/) explique comment les utilisateurs peuvent accéder aux données du GBIF. Elle fournit des informations sur les données disponibles, comment les récupérer, où elles ont été nettoyées ou vérifiées pour la qualité des données et comment elles doivent être citées.
 
 ### Outils Geographiques
 
