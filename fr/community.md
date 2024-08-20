@@ -18,7 +18,7 @@ La **Plateforme Belge de Biodiversité** travaille avec de nombreux acteurs.
 Depuis 2002, en tant que **noeud Belge du GBIF**, nous coordonons
 le **BeBIF, (Belgian Biodiversity Information Facility)**. Cette communauté inclut de nombreux acteurs Belges désirant partager et/ou réutiliser des données ouvertes de biodiversité au travers du réseau GBIF.
 Découvrez-les tous dans la [liste des éditeurs de données](/fr/publisher/search).
-Sur notre[page de Littérature](/fr/literature/search) vous apprendrez comment les scientifiques et décideurs font usage de ces données.
+Sur notre [page de Littérature](/fr/literature/search) vous apprendrez comment les scientifiques et décideurs font usage de ces données. Bien sûr, GBIF supporte bien plus que la littérature scientifique et permet d'articuler différents projets collaboratifs en faveur de la biodiversité, tels que [RIPARIAS](https://www.riparias.be/) ou [TrIAS](https://www.biodiversity.be/3610).
 Ce succès n'aurait pas été possible sans les efforts continus du BeBIF.
 Nous souhaitons ici à remercier toutes les personnes et organisations qui ont contribué à cet effort au cours des vingt dernières années.
 
