@@ -124,7 +124,7 @@ De taxonomische gemeenschap publiceert checklisten op ChecklistBank met behulp v
 [Camera Trap Data Package](https://camtrap-dp.tdwg.org/) (of Camtrap DP voor kort) is een door de gemeenschap ontwikkeld gegevensuitwisselingsformaat voor camera trap-gegevens. Het is gebaseerd op Frictionless-standaarden.
 
 
-### Niew Data Model
+### Nieuw Data Model
 De GBIF-community is bezig met het [diversifiëren van het datamodel](https://www.gbif.org/composition/HjlTr705BctcnaZkcjRJq/gbif-new-data-model) om de huidige beperkingen van de Darwin Core te overwinnen.
 
 > Wij begeleiden je bij de verschillende biodiversiteitsstandaarden en informeren u over de nieuwe ideeën voor een rijker, uniform gemeenschappelijk model dat uitgebreide mogelijkheden voor het publiceren van gegevens kan ondersteunen.
