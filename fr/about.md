@@ -12,7 +12,7 @@ permalink: /fr/about
 
 Le **portail hébergé GBIF.be** vous présente les _données ouvertes de biodiversité dans notre pays_. C'est à dire toutes les données receuillies en Belgique et partagées via le Global Biodiversity Information Facility([GBIF](https://www.gbif.org/fr)).
 Sur ce site, vous pouvez explorer les _occurrences, jeux de données et éditeurs de données ainsi que la litérature_ sur la biodiversité dans notre pays.
-La grande majorité de ces données viennent d' \_institutions, d'organismes publiques, de scientifiques et de citoyens; d'autres proviennent de l'étranger gràce à la rapatriation de données. Ce site est notre contribution aux [portails hébergés du GBIF](https://www.gbif.org/fr/hosted-portals).
+La grande majorité de ces données viennent _d'institutions, d'organismes publiques, de scientifiques et de citoyens_ ; d'autres proviennent de l'étranger gràce au rapatriement de données. Ce site est notre contribution aux [portails hébergés du GBIF](https://www.gbif.org/fr/hosted-portals).
 
 ---
 
@@ -24,7 +24,7 @@ Le **noeud Belge du GBIF** est une équipe désignée par la Belgique pour coord
 
 ![BBPf](/assets/images/logos/logoBBPf.png){:height="60px" width="120px"}
 
-Nous faisons partie de la **Plateforme Belgge de Biodiversité(BBPf)**, une interface science-politique financée par la* Politique Scientique Belge (BELSPO)* soutenue par un accord de cooperation entre le fédéral et les entités fédérées concernées. Dans le cadre de la biodiversité, la plateforme agit comme intermédiaire entre la politique, la science et la pratique.
+Nous faisons partie de la **Plateforme Belge pour la Biodiversité (BBPf)**, une interface science-politique financée par la *Politique Scientifique Belge (BELSPO)* et soutenue par un accord de coopération entre le fédéral et les entités fédérées concernées. Dans le cadre de la biodiversité, la plateforme agit comme intermédiaire entre la politique, la science et la pratique.
 
 ## Notre mission
 
@@ -52,4 +52,4 @@ Données, connaissances et science ouvertes : Nous pensons qu’un accès ouvert
 
 ### Lectures complémentaires
 
-Si vous voulez en savoir plus sur nos activités, veuillez lire les sections [Communauté](/fr/community), [Services](/fr/services), [Equipe](/fr/team) ou [FAQs](/fr/faqs) ou vous rendre sur le [site principal de la Platforme](https://www.biodiversity.be).
+Si vous voulez en savoir plus sur nos activités, veuillez lire les sections [Communauté](/fr/community), [Services](/fr/services), [Equipe](/fr/team) ou [FAQs](/fr/faqs) ou vous rendre sur le [site principal de la Plateforme](https://www.biodiversity.be).
