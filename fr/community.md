@@ -15,7 +15,7 @@ La **Plateforme Belge de Biodiversité** travaille avec de nombreux acteurs.
 
 ## GBIF.be, un effort commun
 
-Depuis 2002, en tant que **noeud Belge du GBIF**, nous coordonons
+Depuis 2002, en tant que **noeud Belge du GBIF**, nous coordonnons
 le **BeBIF, (Belgian Biodiversity Information Facility)**. Cette communauté inclut de nombreux acteurs Belges désirant partager et/ou réutiliser des données ouvertes de biodiversité au travers du réseau GBIF.
 Découvrez-les tous dans la [liste des éditeurs de données](/fr/publisher/search).
 Sur notre [page de Littérature](/fr/literature/search) vous apprendrez comment les scientifiques et décideurs font usage de ces données. Bien sûr, GBIF supporte bien plus que la littérature scientifique et permet d'articuler différents projets collaboratifs en faveur de la biodiversité, tels que [RIPARIAS](https://www.riparias.be/) ou [TrIAS](https://www.biodiversity.be/3610).
@@ -24,7 +24,7 @@ Nous souhaitons ici à remercier toutes les personnes et organisations qui ont c
 
 ## Les membres du Belgian BIF
 
-Les [éditeurs de données](/fr/publisher/search) sont essentiellement des organisations publiques fédérales ou régionales, des universtiés, des musées et des ONGs.
+Les [éditeurs de données](/fr/publisher/search) sont essentiellement des organisations publiques fédérales ou régionales, des universités, des musées et des ONGs.
 
 | --- | --- | --- |
 | [![RBINS](/assets/images/logos/RBINS.png){:height="60px" width="180px"}](https://www.naturalsciences.be/en) | [![RMCA](/assets/images/logos/RMCA.jpg){:height="60px" width="180px"}](https://www.africamuseum.be/en) | [![INBO](/assets/images/logos/INBO.png){:height="60px" width="180px"}](https://www.vlaanderen.be/inbo/home/)
