@@ -86,3 +86,7 @@ IAS01:
   src: /assets/images/photos/IAS01.png
   caption: |
     Anonymous
+MDT:
+  src: /assets/images/photos/MDT.png
+  caption: |
+    MetabacodingDataToolkit
