@@ -3,7 +3,7 @@ title: "BIOGEOnet increases its stake in gbif! "
 preTitle: Jan, 30 2025
 date: 2025-01-30 14:38:00 +0100
 categories: ["GBIF", "OPEN DATA"]
-lang-ref:
+lang-ref: BGNT.data
 background: "{{ site.data.images.BGNT.src }}"
 imageLicense: "{{ site.data.images.BGNT.caption }}"
 ---
