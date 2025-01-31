@@ -7,6 +7,7 @@ lang-ref: BGNT.data
 background: "{{ site.data.images.BGNT.src }}"
 imageLicense: "{{ site.data.images.BGNT.caption }}"
 ---
+
 [**BIOGEOnet**](https://www.biogeonet.ulg.ac.be/) est la base de données taxonomiques et biogéographiques sur tous les êtres vivants, hébergée par le Laboratoire BEC (Biologie, Evolution, Conservation) de l'Université de Liège.
 
 La base de données contient des millions d'observations biologiques réalisées par différents groupes de travail issus des secteurs académique, public, indépendant et associatif (Université de Liège, DNF, Natagriwal, etc.).
