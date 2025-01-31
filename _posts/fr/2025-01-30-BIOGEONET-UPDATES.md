@@ -1,5 +1,5 @@
 ---
-title: "BIOGEOnet increases its stake in GBIF! "
+title: "BIOGEOnet de plus en plus présent sur GBIF! "
 preTitle: Jan, 30 2025
 date: 2025-01-30 14:38:00 +0100
 categories: ["GBIF", "OPEN DATA"]
