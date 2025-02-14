@@ -102,3 +102,7 @@ MDT:
   src: /assets/images/photos/MDT.png
   caption: |
     MetabacodingDataToolkit
+BGNT:
+  src: /assets/images/logos/BioGeoNET.png
+  caption: |
+    [BioGeoNet](https://www.biogeonet.ulg.ac.be/) is a taxonomic and biogeographical database on all living beings, hosted by the BEC Laboratory [Biology, Evolution, Conservation](https://bec-lab.github.io/) at the University of Liège.
