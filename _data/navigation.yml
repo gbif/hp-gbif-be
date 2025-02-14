@@ -17,8 +17,10 @@
 
 - text: Explore
   menu:
-    - text: Occurrences
-      href: /occurrence/search
+    - text: About Belgium
+      href: /occurrence/search?country=BE&view=MAP
+    - text: From Belgium
+      href: /occurrence/search?publishingCountry=BE&view=MAP
     - text: Datasets
       href: /dataset/search
     - text: Collections
