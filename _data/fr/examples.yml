@@ -5,9 +5,13 @@ stats:
   #  See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
   features:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?country=BE&limit=0"></span>
-      description: Occurrences
+      description: Occurrences en Belgique
+      background: /assets/images/icons/occurrenceBE.svg
+      href: /fr/occurrence/search?country=BE
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=BE&limit=0"></span>
+      description: Occurrences publiées
       background: /assets/images/icons/occurrence.svg
-      href: /fr/occurrence/search
+      href: /fr/occurrence/search?publishingCountry=BE
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=BE&limit=0"></span>
       description: Jeux de données
       background: /assets/images/icons/dataset.svg

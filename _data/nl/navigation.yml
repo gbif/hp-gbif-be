@@ -17,8 +17,10 @@
 
 - text: Ontdekken
   menu:
-    - text: Occurrences
-      href: /nl/occurrence/search
+    - text: Gegevens
+      href: /nl/occurrence/search?country=BE&view=MAP
+    - text: Gepubliceerde gegevens
+      href: /nl/occurrence/search?publishingCountry=BE&view=MAP
     - text: Datasets
       href: /nl/dataset/search
     - text: Collecties

@@ -17,9 +17,9 @@
 
 - text: Explore
   menu:
-    - text: About Belgium
+    - text: Data about Belgium
       href: /occurrence/search?country=BE&view=MAP
-    - text: From Belgium
+    - text: Data from Belgium
       href: /occurrence/search?publishingCountry=BE&view=MAP
     - text: Datasets
       href: /dataset/search

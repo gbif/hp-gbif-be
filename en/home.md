@@ -8,9 +8,9 @@ imageLicense: "{{ site.data.images.YB01.caption }}"
 height: 70vh
 permalink: /
 cta:
-  - text: about Belgium
+  - text: Data about Belgium
     href: /occurrence/search?view=MAP&country=BE
-  - text: from Belgium
+  - text: Data from Belgium
     href: /occurrence/search?view=MAP&publishingCountry=BE
   - text: Community
     href: /community

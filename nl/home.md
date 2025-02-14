@@ -8,9 +8,11 @@ imageLicense: "{{ site.data.images.YB01.caption }}"
 height: 70vh
 permalink: /nl
 cta:
-  - text: Occurrences
-    href: /nl/occurrence/search
+  - text: Gegevens
+    href: /nl/occurrence/search?country=BE&view=MAP
     isPrimary: true
+  - text: Gepubliceerde gegevens
+    href: /nl/occurrence/search?publishingCountry=BE&view=MAP
   - text: Gemeenschap
     href: /nl/community
   - text: Diensten
