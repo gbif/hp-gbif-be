@@ -16,7 +16,7 @@ Déjà engagé dans l'aventure OPEN DATA avec GBIF depuis plusieurs années, l'e
 
 BIOGEOnet fournit désormais des mises à jour régulières des données d'observation pour
 *  [Natagriwal ; Observations made from operations within Natura 2000 habitats and other semi-natural areas](https://www.gbif.org/dataset/ea410929-015a-4093-9c7e-7be2482668c9)
-*  [ULG Plantae - Fungi](https://www.gbif.org/dataset/530c309d-0bd0-42d8-8b9e-55fe0f4d918d)
+*  [ULiège - Natagriwal Plantae - Fungi](https://www.gbif.org/dataset/530c309d-0bd0-42d8-8b9e-55fe0f4d918d)
 *  [SPW ARNE-DNF : Occurrences of introduced species along roadsides in Wallonia](https://www.gbif.org/dataset/93dc0e04-f4f8-4773-ab23-4fa48327fe2e)
 *  [BIOGEOnet : Bryophytes occurrences in Wallonia and other regions](https://www.gbif.org/dataset/a76f8527-23e8-4ba5-bdff-f9821bdac187)
 
