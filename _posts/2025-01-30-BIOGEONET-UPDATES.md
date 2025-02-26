@@ -6,8 +6,6 @@ categories: ["GBIF", "OPEN DATA"]
 lang-ref: BGNT.data
 background: "{{ site.data.images.BGNT.src }}"
 imageLicense: "{{ site.data.images.BGNT.caption }}"
-imageHeight: "{{ site.data.BGNT.height }}"
-imageWidth: "{{ site.data.BGNT.width }}"
 ---
 [**BIOGEOnet**](https://www.biogeonet.ulg.ac.be/) is the taxonomic and biogeographical database for all living beings, hosted by the BEC Laboratory (Biology, Evolution, Conservation) at the University of Liège.
 
