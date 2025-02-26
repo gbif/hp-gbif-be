@@ -9,8 +9,6 @@ imageLicense: "{{ site.data.images.BGNT.caption }}"
 imageHeight: "{{ site.data.BGNT.height }}"
 imageWidth: "{{ site.data.BGNT.width }}"
 ---
-!BioGeoNet logo{:style="height: {{ page.imageHeight }}; width: {{ page.imageWidth }};"}
-
 [**BIOGEOnet**](https://www.biogeonet.ulg.ac.be/) is the taxonomic and biogeographical database for all living beings, hosted by the BEC Laboratory (Biology, Evolution, Conservation) at the University of Liège.
 
 The database contains millions of biological observations made by various working groups coming from the academic, public, independent and associative sectors (Université de Liège, DNF, Natagriwal, etc.). Natagriwal records derive from both undergoing restorations within Natura 2000 sites and data collected via the Walloon agri-environmental program.
