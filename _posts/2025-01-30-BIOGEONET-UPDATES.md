@@ -7,9 +7,9 @@ lang-ref: BGNT.data
 background: "{{ site.data.images.BGNT.src }}"
 imageLicense: "{{ site.data.images.BGNT.caption }}"
 ---
-[**BIOGEOnet**](https://www.biogeonet.ulg.ac.be/) is the taxonomic and biogeographical database for all living beings, hosted by the BEC Laboratory (Biology, Evolution, Conservation) at the University of Liège.
+[**BIOGEOnet**](https://www.biogeonet.ulg.ac.be/) is the taxonomic and biogeographical database for all living beings, hosted by the [BEC Laboratory](https://bec-lab.github.io/) (Biology, Evolution, Conservation) at the University of Liège.
 
-The database contains millions of biological observations made by various working groups coming from the academic, public, independent and associative sectors (Université de Liège, DNF, Natagriwal, etc.). Natagriwal records derive from both undergoing restorations within Natura 2000 sites and data collected via the Walloon agri-environmental program.
+The database contains millions of biological observations made by various working groups coming from the academic, public, independent and associative sectors (Université de Liège, [Département de la Nature et des Forêts](https://www.wallonie.be/fr/acteurs-et-institutions/wallonie/spw-agriculture-ressources-naturelles-et-environnement/departement-de-la-nature-et-des-forets), [Natagriwal](https://www.natagriwal.be/), etc.). Natagriwal records derive from both undergoing restorations within Natura 2000 sites and data collected via [the Walloon agri-environmental program](https://www.natagriwal.be/maec/).
 
 Already engaged in the OPEN DATA adventure with GBIF for several years, the commitment accelerated in 2025 with the publication of new datasets, but also by automating existing data flows, enabling access to the most recent BiOGEOnet observations to the GBIF community.
 
