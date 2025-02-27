@@ -38,24 +38,36 @@ var siteConfig = {
       type: "and",
       predicates: [
         {
-          // it is possible to include records published from Belgium
-          key: "notIssues",
+          // exclude absence records
+          key: "occurrenceStatus",
           type: "equals",
-          value: "COUNTRY_COORDINATE_MISMATCH",
+          value: "PRESENT",
         },
         {
-          type: "or",
+          type: "and",
           predicates: [
             {
-              key: "country",
+              // exclude records that have coordinate issues
+              key: "notIssues",
               type: "equals",
-              value: countryCode,
+              value: "COUNTRY_COORDINATE_MISMATCH",
             },
             {
-              // exclude records that have coordinate issues
-              key: "publishingCountry",
-              type: "equals",
-              value: countryCode,
+              type: "or",
+              predicates: [
+                {
+                  // include records occurrences in Belgium
+                  key: "country",
+                  type: "equals",
+                  value: countryCode,
+                },
+                {
+                  // include records published from Belgium
+                  key: "publishingCountry",
+                  type: "equals",
+                  value: countryCode,
+                },
+              ],
             },
           ],
         },
