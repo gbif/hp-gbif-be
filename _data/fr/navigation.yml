@@ -22,7 +22,7 @@
     - text: Données publiées
       href: /fr/occurrence/search?publishingCountry=BE&view=MAP
     - text : Distribution des canards en Belgique #max trials to remove
-      href: /fr/occurrence/search?country=BE&taxonKey=2986&view=MAP # max trials to remove
+      href: /fr/occurrence/search?country=BE&tKey=2986&view=MAP # max trials to remove
     - text: Jeux de données
       href: /fr/dataset/search
     - text: Collections
