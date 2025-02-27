@@ -7,9 +7,9 @@ lang-ref: BGNT.data
 background: "{{ site.data.images.BGNT.src }}"
 imageLicense: "{{ site.data.images.BGNT.caption }}"
 ---
-[**BIOGEOnet**](https://www.biogeonet.ulg.ac.be/) is de taxonomische en biogeografische databank van alle levende wezens, gehost door het Laboratoire BEC (Biologie, Evolutie, Behoud) van de Universiteit van Luik.
+[**BIOGEOnet**](https://www.biogeonet.ulg.ac.be/) is de taxonomische en biogeografische databank van alle levende wezens, gehost door het [Laboratoire BEC](https://bec-lab.github.io/) (Biologie, Evolutie, Behoud) van de Universiteit van Luik.
 
-De database bevat miljoenen biologische waarnemingen die zijn gedaan door verschillende werkgroepen uit de academische, openbare, onafhankelijke en verenigingssector (Université de Liège, DNF, Natagriwal, enz.).
+De database bevat miljoenen biologische waarnemingen die zijn gedaan door verschillende werkgroepen uit de academische, openbare, onafhankelijke en verenigingssector (Universiteit van Luik, [Département de la Nature et des Forêts](https://www.wallonie.be/fr/acteurs-et-institutions/wallonie/spw-agriculture-ressources-naturelles-et-environnement/departement-de-la-nature-et-des-forets), [Natagriwal](https://www.natagriwal.be/), etc.).
 
 Het OPEN DATA-avontuur met GBIF, dat al enkele jaren loopt, werd in 2025 versneld met de publicatie van nieuwe datasets, maar ook door het automatiseren van bestaande datastromen, waardoor de GBIF-gemeenschap toegang krijgt tot de meest recente waarnemingen van BiOGEOnet.
 
