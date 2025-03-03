@@ -17,9 +17,9 @@
 
 - text: Ontdekken
   menu:
-    - text: Gegevens
+    - text: Waarnemingen in België
       href: /nl/occurrence/search?country=BE&view=MAP
-    - text: Gepubliceerde gegevens
+    - text: Waarnemingen gepubliceerd door België
       href: /nl/occurrence/search?publishingCountry=BE&view=MAP
     - text: Datasets
       href: /nl/dataset/search

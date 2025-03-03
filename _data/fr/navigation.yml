@@ -17,9 +17,9 @@
 
 - text: Explorez
   menu:
-    - text: Données
+    - text: Occurrences en Belgique
       href: /fr/occurrence/search?country=BE&view=MAP
-    - text: Données publiées
+    - text: Occurrences publiées par la Belgique
       href: /fr/occurrence/search?publishingCountry=BE&view=MAP
     - text: Jeux de données
       href: /fr/dataset/search
