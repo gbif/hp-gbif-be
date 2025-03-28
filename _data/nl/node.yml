@@ -61,7 +61,7 @@ staff:
       background: /assets/images/staff/max.png
     - title: Stijn Cooleman # required
       description: | # required
-        Stijn is a biologist with interdisciplinary skills in data management. He is involved in open data activities at the platform. By focusing on biodiversity informatic standards and data mapping, he supports to mobilise natural history knowledge from collections to web portals of the Global Biodiversity Information Facility (GBIF) and European Infrastructures. He has a particular interest in avian ecology, taxonomy, species distribution and ecosystem services.<br>[<i class="fa fa-envelope"></i> contact](maito:s.cooleman@biodiversity.be)
+        Stijn is a biologist with interdisciplinary skills in data management. He is involved in open data activities at the platform. By focusing on biodiversity informatic standards and data mapping, he supports to mobilise data from the field or natural history knowledge from collections to web portals of the Global Biodiversity Information Facility (GBIF) and European Infrastructures. He has a particular interest in avian ecology, taxonomy, species distribution and ecosystem services.<br>[<i class="fa fa-envelope"></i> contact](maito:s.cooleman@biodiversity.be)
       categories: [Open Data Expert]
       background: /assets/images/staff/stijn.png
     - title: Andre Heughebaert # required
