@@ -55,7 +55,7 @@ staff:
       background: /assets/images/staff/max.png
     - title: Stijn Cooleman # required
       description: | # required
-        Stijn est un biologiste doté de compétences interdisciplinaires en gestion de données. Il est impliqué dans les activités open data de la plateforme. En se concentrant sur les standards et la cartographie des données, il soutient la mobilisation des connaissances sur l'histoire naturelle des collections. Il s'intéresse particulièrement à l'écologie aviaire, à la taxonomie, à la répartition des espèces et aux services écosystémiques.<br>[<i class="fa fa-envelope"></i> contact](maito:s.cooleman@biodiversity.be)
+        Stijn est un biologiste doté de compétences interdisciplinaires en gestion de données. Il est impliqué dans les activités open data de la plateforme. En se concentrant sur les standards et la cartographie des données, il soutient la mobilisation des données de terrain et des connaissances sur l'histoire naturelle des collections. Il s'intéresse particulièrement à l'écologie aviaire, à la taxonomie, à la répartition des espèces et aux services écosystémiques.<br>[<i class="fa fa-envelope"></i> contact](maito:s.cooleman@biodiversity.be)
       categories: [Expert en données]
       background: /assets/images/staff/stijn.png
     - title: Andre Heughebaert # required
