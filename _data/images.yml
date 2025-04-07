@@ -106,3 +106,8 @@ BGNT:
   src: /assets/images/logos/BioGeoNETv3.png
   caption: |
     [BioGeoNet](https://www.biogeonet.ulg.ac.be/) is a taxonomic and biogeographical database on all living beings, hosted by the BEC Laboratory [Biology, Evolution, Conservation](https://bec-lab.github.io/) at the University of Liège.
+
+HUMBOLDT:
+  src: /assets/images/placeholders/HumboldtExt.png
+  caption: |
+    Humboldt Extension
