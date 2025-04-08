@@ -13,11 +13,11 @@ imageLicense: "{{ site.data.images.HUMBOLDT.caption }}"
 
 ## Two practical applications of the [Survey and Monitoring Data Quick-Start Guide]( https://docs.gbif.org/survey-monitoring-quick-start/)
 
-That new GBIF manual is intended to assist data users in publishing DarwinCore (dwc) datasets with the Humboldt Extension in Ecological Inventories vocabulary (eco) terms. We've utilised its guidelines to upgrade two event datasets related to bird monitoring. Although the Humboldt Extension itself is not yet indexed in GBIF, its eco terms can be retrieved in those datasets' downloads, for instance:
+That [new GBIF manual]( https://docs.gbif.org/survey-monitoring-quick-start/) aims to help publish DarwinCore (dwc) datasets with the Humboldt Extension in Ecological Inventories vocabulary (eco) terms. We've utilised its guidelines to upgrade two event datasets related to bird monitoring. Although the Humboldt Extension itself is not yet indexed in GBIF, its eco terms can be retrieved in those datasets' downloads, for instance:
 * [**Common breeding birds in Flanders (ABV post 2016), Belgium**](https://www.gbif.org/dataset/99047b1e-ee53-4053-ba69-2e28eaaa45d9), published by INBO
 * [**Bird census counts at the Zwin Nature Park (ZNP)**](https://www.gbif.org/dataset/dde71542-ad2d-4ec7-a93c-eb18bc0f432b), published by the Belgian Biodiversity Platform
 
-These examples demonstrate how the Humboldt Extension can enrich biodiversity data by providing more detailed contextual information with a hierarchical structure. It is used alongside dwc terms to enhance descriptions of events, which represent counts of observed birds in both datasets, each following a significantly different standardised observation method.
+These examples demonstrate how the Humboldt Extension can enrich biodiversity data by providing more detailed contextual information with a hierarchical structure. It is used alongside dwc terms to enhance descriptions of events, which represent counts of observed birds in both datasets, each following a significantly different standardised method.
 
 ## Adding eco terms is flexible at various levels
 In those two practices, the data mapping of dwc and eco terms is depending on how the point counts or transect counts are hierarchically grouped within the entire count area:
@@ -26,6 +26,6 @@ In those two practices, the data mapping of dwc and eco terms is depending on ho
 
 Particularly, the terms `eco:siteCount`, `eco:siteNestingDescription`, `eco:geospatialScopeArea (Value & Unit)` and `eco:samplingEffort (Value & Unit)` clarify details about how the occurrence data are associated with point or line counts and are nested on higher spatial and temporal levels.
 
-Another notable difference between the two bird monitoring datasets is the exclusion of specific taxa in the Common Breeding Birds in Flanders (ABV) protocol. Only the ABV dataset includes the term `eco:excludedTaxonomicScope`, especially to state that foraging gulls (*Larinae*), herons (*Ardeinae*),... breeding elsewhere, are not meant to be counted in this project. This exclusion in the ABV dataset highlights a minor exception to the general term `eco:targetTaxonomicScope`, which includes all birds (Aves) in both datasets.
+Another notable difference between the two bird monitoring datasets is the exclusion of specific taxa in the Common Breeding Birds in Flanders (ABV) protocol. Only the ABV dataset contains the term `eco:excludedTaxonomicScope`, especially to state that foraging gulls (*Larinae*), herons (*Ardeinae*),... breeding elsewhere, are not taken into account in this project. This exclusion in the ABV dataset highlights a minor exception to the general term `eco:targetTaxonomicScope`, which includes all birds (*Aves*) in both datasets.
 
 For more information, contact [Stijn Cooleman](mailto:s.cooleman@biodiversity.be), Biodiversity Data Officer.
