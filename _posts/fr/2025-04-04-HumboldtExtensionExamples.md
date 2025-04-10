@@ -11,9 +11,9 @@ imageLicense: "{{ site.data.images.HUMBOLDT.caption }}"
 
 # Exemples de jeux de données GBIF avec des métadonnées améliorées sur les Inventaires Ecologiques
 
-## Deux applications pratiques du [Survey and Monitoring Data Quick-Start Guide]( https://docs.gbif.org/survey-monitoring-quick-start/)
+## Deux applications pratiques du [Survey and Monitoring Data Quick-Start Guide](https://docs.gbif.org/survey-monitoring-quick-start/)
 
-Ce [nouveau manuel du GBIF]( https://docs.gbif.org/survey-monitoring-quick-start/) vise à aider à publier des jeux de données DarwinCore (dwc) avec l'extension Humboldt en termes du vocabulaire des inventaires écologiques (éco). Nous avons utilisé ses directives pour améliorer deux jeux de données d'événements liés au suivi des oiseaux. Bien que l'extension Humboldt ne soit pas encore indexée dans le GBIF, ses termes éco peuvent être récupérés dans les téléchargements de ces ensembles de données, par exemple :
+Ce [nouveau manuel du GBIF](https://docs.gbif.org/survey-monitoring-quick-start/) vise à aider à publier des jeux de données DarwinCore (dwc) avec l'extension Humboldt en termes du vocabulaire des inventaires écologiques (éco). Nous avons utilisé ses directives pour améliorer deux jeux de données d'événements liés au suivi des oiseaux. Bien que l'extension Humboldt ne soit pas encore indexée dans le GBIF, ses termes éco peuvent être récupérés dans les téléchargements de ces ensembles de données, par exemple :
 
 * [**Oiseaux nicheurs communs en Flandre (ref. ABV, l’acronyme néerlandophone de ce projet, post 2016), Belgium**](https://www.gbif.org/dataset/99047b1e-ee53-4053-ba69-2e28eaaa45d9), publié par INBO
 * [**Recensement des oiseaux au Parc Naturel du Zwin (ref. ZNP)**](https://www.gbif.org/dataset/dde71542-ad2d-4ec7-a93c-eb18bc0f432b), publié par la Plateforme belge de la biodiversité
