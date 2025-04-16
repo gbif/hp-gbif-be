@@ -11,9 +11,9 @@ imageLicense: "{{ site.data.images.HUMBOLDT.caption }}"
 
 # GBIF datasets’ examples with enhanced metadata on Ecological Inventories
 
-## Two practical applications of the [Survey and Monitoring Data Quick-Start Guide]( https://docs.gbif.org/survey-monitoring-quick-start/)
+## Two practical applications of the [Survey and Monitoring Data Quick-Start Guide](https://docs.gbif.org/survey-monitoring-quick-start/)
 
-That [new GBIF manual]( https://docs.gbif.org/survey-monitoring-quick-start/) aims to help publish DarwinCore (dwc) datasets with the Humboldt Extension in Ecological Inventories vocabulary (eco) terms. We've utilised its guidelines to upgrade two event datasets related to bird monitoring. Although the Humboldt Extension itself is not yet indexed in GBIF, its eco terms can be retrieved in those datasets' downloads, for instance:
+That [new GBIF manual](https://docs.gbif.org/survey-monitoring-quick-start/) aims to help publish DarwinCore (dwc) datasets with the Humboldt Extension in Ecological Inventories vocabulary (eco) terms. We've utilised its guidelines to upgrade two event datasets related to bird monitoring. Although the Humboldt Extension itself is not yet indexed in GBIF, its eco terms can be retrieved in those datasets' downloads, for instance:
 * [**Common breeding birds in Flanders (ABV post 2016), Belgium**](https://www.gbif.org/dataset/99047b1e-ee53-4053-ba69-2e28eaaa45d9), published by INBO
 * [**Bird census counts at the Zwin Nature Park (ZNP)**](https://www.gbif.org/dataset/dde71542-ad2d-4ec7-a93c-eb18bc0f432b), published by the Belgian Biodiversity Platform
 
