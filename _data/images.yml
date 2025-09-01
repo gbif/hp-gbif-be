@@ -118,4 +118,8 @@ VPB:
   src: /assets/images/logos/VLDP.png
   caption: |
     The Flemish Biodiversity Portal (Vlaams Biodiversiteitsportaal, VBP)
+PB_GBIF:
+  src: /assets/images/logos/PB_GBIF.jpg
+  caption: |
+    Why countries need the Global Biodiversity Information Facility: Lessons from Belgium
 
