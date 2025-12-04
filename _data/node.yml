@@ -57,15 +57,16 @@ staff:
     - title: Maxime Coupremanne # required
       description: | # required
         Maxime is a biologist involved in the mobilization of biodiversity data on the Global Biodiversity Information Facility (GBIF) portal. Based at the Départment d'Etude du Milieu Naturel et Agricole (SPW-DEMNA), he advocates the use of Open Data in Wallonia and support anyhow is willing to join the open side of the science. His  particular interests are biodiversity informatics, data management, marine life, invasive species, species distribution models and Open Science.<br>[<i class="fa fa-envelope"></i> contact](maito:m.coupremanne@biodiversity.be)
-      categories: [Open Data Expert]
+      categories: [Open Data Expert, Node manager]
       background: /assets/images/staff/max.png
     - title: Stijn Cooleman # required
       description: | # required
         Stijn is a biologist with interdisciplinary skills in data management. He is involved in open data activities at the platform. By focusing on biodiversity informatic standards and data mapping, he supports to mobilise data from the field or natural history knowledge from collections to web portals of the Global Biodiversity Information Facility (GBIF) and European Infrastructures. He has a particular interest in avian ecology, taxonomy, species distribution and ecosystem services.<br>[<i class="fa fa-envelope"></i> contact](maito:s.cooleman@biodiversity.be)
       categories: [Open Data Expert]
       background: /assets/images/staff/stijn.png
+  title: Former node staff
     - title: Andre Heughebaert # required
       description: | # required
-        Senior Software engineer and expert in Biodiversity Informatics, André manages the Platform's IT team. He coordinates data management, websites and web based services. André is our representative to Global Biodiversity Information Facility (GBIF) Governing Board taking part in the global-level decision making. He has a particular interest in Biodiversity Data Exchange Standards, Data Visualisation, Cleaning and Publication Tools.<br>[<i class="fa fa-envelope"></i> contact](maito:a.heughebaert@biodiversity.be)
-      categories: [Node manager, IT expert]
+        Founder and creative mind of this Hosted Portal. As senior Software engineer and expert in Biodiversity Informatics, André managed the Platform's IT team. He was the  He coordinated data management, websites and web-based services. André was our representative to Global Biodiversity Information Facility (GBIF) Governing Board, taking part in the global-level decision making. He has a particular interest in Biodiversity Data Exchange Standards, Data Visualisation, Cleaning and Publication Tools.<br>
+      categories: [Retired node manager, IT expert]
       background: /assets/images/staff/andre.png
