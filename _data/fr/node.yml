@@ -51,15 +51,16 @@ staff:
     - title: Maxime Coupremanne # required
       description: | # required
         Maxime est un biologiste impliqué dans la mobilisation des données de biodiversité en Wallonie. Basé au Département d'Etude du Milieu Naturel et Agricole (SPW-DEMNA), il prône l'utilisation de l'Open Data en Wallonie et souhaite en tout cas rejoindre le côté ouvert de la science. Ses intérêts particuliers sont l'informatique de la biodiversité, la gestion des données, la vie marine, les espèces envahissantes, les modèles de répartition des espèces et la science ouverte.<br>[<i class="fa fa-envelope"></i> contact](maito:m.coupremanne@biodiversity.be)
-      categories: [Expert en données]
+      categories: [Expert en données, Gestionnaire du Noeud]
       background: /assets/images/staff/max.png
     - title: Stijn Cooleman # required
       description: | # required
         Stijn est un biologiste doté de compétences interdisciplinaires en gestion de données. Il est impliqué dans les activités open data de la plateforme. En se concentrant sur les standards et la cartographie des données, il soutient la mobilisation des données de terrain et des connaissances sur l'histoire naturelle des collections. Il s'intéresse particulièrement à l'écologie aviaire, à la taxonomie, à la répartition des espèces et aux services écosystémiques.<br>[<i class="fa fa-envelope"></i> contact](maito:s.cooleman@biodiversity.be)
       categories: [Expert en données]
       background: /assets/images/staff/stijn.png
+  title: Anciens membres de l'équipe nodale
     - title: Andre Heughebaert # required
       description: | # required
-        Ingénieur logiciel senior et expert en informatique de la biodiversité, André dirige l'équipe informatique de la Plateforme. Il coordonne la gestion des données, les sites Web et les services Web. André est notre représentant auprès du Global Biodiversity Information Facility (GBIF) et participe à la prise de décision au niveau mondial. Il s'intéresse particulièrement aux normes d'échange de données sur la biodiversité, aux outils de visualisation, de nettoyage et de publication des données.<br>[<i class="fa fa-envelope"></i> contact](maito:a.heughebaert@biodiversity.be)
-      categories: [Gestionnaire du Noeud, Expert IT]
+        Ingénieur logiciel senior et expert en informatique de la biodiversité, André a dirigé l'équipe informatique de la Plateforme. Il a coordonné la gestion des données, les sites Web et les services Web. André a été notre représentant auprès du Global Biodiversity Information Facility (GBIF) et a participé à la prise de décision au niveau mondial. Il s'intéressait particulièrement aux normes d'échange de données sur la biodiversité, aux outils de visualisation, de nettoyage et de publication des données.<br>
+      categories: [Gestionnaire du Noeud à la retraite, Expert IT]
       background: /assets/images/staff/andre.png
