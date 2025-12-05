@@ -15,7 +15,4 @@ composition:
     data: node.retired_staff
 ---
 
-
----
-
 Edit `/team.md` to change the text.
