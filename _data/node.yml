@@ -63,7 +63,17 @@ staff:
       description: | # required
         Stijn is a biologist with interdisciplinary skills in data management. He is involved in open data activities at the platform. By focusing on biodiversity informatic standards and data mapping, he supports to mobilise data from the field or natural history knowledge from collections to web portals of the Global Biodiversity Information Facility (GBIF) and European Infrastructures. He has a particular interest in avian ecology, taxonomy, species distribution and ecosystem services.<br>[<i class="fa fa-envelope"></i> contact](mailto:s.cooleman@biodiversity.be)
       categories: [Open Data Expert]
-      background: /assets/images/staff/stijn.png      
+      background: /assets/images/staff/stijn.png
+    - title: Tobias Musschoot # required
+      description: | # required
+        Tobias holds a MSc degrees in Biology and in Marine & Lacustrine Sciences. With two decades of experience at the Royal Museum for Central Africa, he brings extensive expertise in taxonomy, biogeography, capacity building, and data mobilisation. He has a strong interest in unlocking biodiversity knowledge, with a particular affinity for the aquatic world, focussing on integrating scientific databases, collections, and publications to advance biodiversity research, inform policy, and foster collaboration among stakeholders.<br>[<i class="fa fa-envelope"></i> contact](mailto:t.musschoot@biodiversity.be)
+      categories: [Open Data Expert]
+      background: /assets/images/staff/tobias.png
+    - title: Sébastien Ronveaux # required
+      description: | # required
+        Sébastien is a computer scientist specialised in computer imaging and computer vision. Hired within the context of the RiparIAS project, he's currently developing the decision support tool which is a key deliverable of this project. He has particular interests in programming languages and paradigms, imaging and optimisation.<br>[<i class="fa fa-envelope"></i> contact](mailto:s.ronveaux@biodiversity.be)
+      categories: [ IT expert]
+      background: /assets/images/staff/sebastien.png
 retired_staff:
   title: Retired Node Staff
   description: |
