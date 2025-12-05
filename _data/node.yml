@@ -67,6 +67,6 @@ staff:
   title: Former node staff
     - title: Andre Heughebaert # required
       description: | # required
-        Founder and creative mind of this Hosted Portal. As senior Software engineer and expert in Biodiversity Informatics, André managed the Platform's IT team. He coordinated data management, websites and web-based services. André was our representative to Global Biodiversity Information Facility (GBIF) Governing Board, taking part in the global-level decision making. He has a particular interest in Biodiversity Data Exchange Standards, Data Visualisation, Cleaning and Publication Tools.<br>
+        Founder and creative mind of this Hosted Portal. As senior Software engineer and expert in Biodiversity Informatics, André managed the Platform's IT and data team. He coordinated data management, websites and web-based services. André managed the Belgian GBIF node since the early stages and also was our representative to GBIF Governing Board, taking part in the global-level decision making. He has a particular interest in Biodiversity Data Exchange Standards, Data Visualisation, Cleaning and Publication Tools.<br>
       categories: [Retired node manager, IT expert]
       background: /assets/images/staff/andre.png
