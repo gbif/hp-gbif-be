@@ -46,22 +46,22 @@ staff:
   features:
     - title: Julien Cigar # required
       description: | # required
-        IT specialist, Julien is the Belgian Biodiversity Platform system administrator. He has particular interest in databases, Python and the FreeBSD operating system.<br>[<i class="fa fa-envelope"></i> contact](maito:j.cigar@biodiversity.be)
+        IT specialist, Julien is the Belgian Biodiversity Platform system administrator. He has particular interest in databases, Python and the FreeBSD operating system.<br>[<i class="fa fa-envelope"></i> contact](mailto:j.cigar@biodiversity.be)
       categories: [System Adminstrator, IT expert]
       background: /assets/images/staff/julien.png
     - title: Dimitri Brosens # required
       description: | # required
-        Dimitri is a biologist interested in biodiversity informatics, he animates the network and is actively involved in data mobilisation and publication in Flanders. Dimitri has a particular interest in data standardisation, Darwin Core, invasive species, palaeontology, terrestrial and freshwater biodiversity. He advocates Open Science in the Research cycle and looks for practical usage of open data. He loves to chat with scientists and helps them to publish their data. His goal is to get Flanders on the global map of biodiversity. Dimitri has is office in the Research Institute for Nature and Forest.<br>[<i class="fa fa-envelope"></i> contact](maito:d.brosens@biodiversity.be)
+        Dimitri is a biologist interested in biodiversity informatics, he animates the network and is actively involved in data mobilisation and publication in Flanders. Dimitri has a particular interest in data standardisation, Darwin Core, invasive species, palaeontology, terrestrial and freshwater biodiversity. He advocates Open Science in the Research cycle and looks for practical usage of open data. He loves to chat with scientists and helps them to publish their data. His goal is to get Flanders on the global map of biodiversity. Dimitri has is office in the Research Institute for Nature and Forest.<br>[<i class="fa fa-envelope"></i> contact](mailto:d.brosens@biodiversity.be)
       categories: [Open Data Expert]
       background: /assets/images/staff/dimi.png
     - title: Maxime Coupremanne # required
       description: | # required
-        Maxime is a biologist involved in the mobilization of biodiversity data on the Global Biodiversity Information Facility (GBIF) portal. Based at the Départment d'Etude du Milieu Naturel et Agricole (SPW-DEMNA), he advocates the use of Open Data in Wallonia and support anyhow is willing to join the open side of the science. His  particular interests are biodiversity informatics, data management, marine life, invasive species, species distribution models and Open Science.<br>[<i class="fa fa-envelope"></i> contact](maito:m.coupremanne@biodiversity.be)
+        Maxime is a biologist involved in the mobilization of biodiversity data on the Global Biodiversity Information Facility (GBIF) portal. Based at the Départment d'Etude du Milieu Naturel et Agricole (SPW-DEMNA), he advocates the use of Open Data in Wallonia and support anyhow is willing to join the open side of the science. His  particular interests are biodiversity informatics, data management, marine life, invasive species, species distribution models and Open Science.<br>[<i class="fa fa-envelope"></i> contact](mailto:m.coupremanne@biodiversity.be)
       categories: [Open Data Expert, Node manager]
       background: /assets/images/staff/max.png
     - title: Stijn Cooleman # required
       description: | # required
-        Stijn is a biologist with interdisciplinary skills in data management. He is involved in open data activities at the platform. By focusing on biodiversity informatic standards and data mapping, he supports to mobilise data from the field or natural history knowledge from collections to web portals of the Global Biodiversity Information Facility (GBIF) and European Infrastructures. He has a particular interest in avian ecology, taxonomy, species distribution and ecosystem services.<br>[<i class="fa fa-envelope"></i> contact](maito:s.cooleman@biodiversity.be)
+        Stijn is a biologist with interdisciplinary skills in data management. He is involved in open data activities at the platform. By focusing on biodiversity informatic standards and data mapping, he supports to mobilise data from the field or natural history knowledge from collections to web portals of the Global Biodiversity Information Facility (GBIF) and European Infrastructures. He has a particular interest in avian ecology, taxonomy, species distribution and ecosystem services.<br>[<i class="fa fa-envelope"></i> contact](mailto:s.cooleman@biodiversity.be)
       categories: [Open Data Expert]
       background: /assets/images/staff/stijn.png
     - title: Andre Heughebaert # required
