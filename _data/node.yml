@@ -63,7 +63,12 @@ staff:
       description: | # required
         Stijn is a biologist with interdisciplinary skills in data management. He is involved in open data activities at the platform. By focusing on biodiversity informatic standards and data mapping, he supports to mobilise data from the field or natural history knowledge from collections to web portals of the Global Biodiversity Information Facility (GBIF) and European Infrastructures. He has a particular interest in avian ecology, taxonomy, species distribution and ecosystem services.<br>[<i class="fa fa-envelope"></i> contact](mailto:s.cooleman@biodiversity.be)
       categories: [Open Data Expert]
-      background: /assets/images/staff/stijn.png
+      background: /assets/images/staff/stijn.png      
+retired_staff:
+  title: Retired Node Staff
+  description: |
+    Former members of the Belgian GBIF Node team.
+  features:
     - title: Andre Heughebaert # required
       description: | # required
         Founder and creative mind of this Hosted Portal. As senior Software engineer and expert in Biodiversity Informatics, André managed the Platform's IT and data team. He coordinated data management, websites and web-based services. André managed the Belgian GBIF node since the early stages and also was our representative to GBIF Governing Board, taking part in the global-level decision making. He has a particular interest in Biodiversity Data Exchange Standards, Data Visualisation, Cleaning and Publication Tools.<br>
