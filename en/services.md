@@ -8,7 +8,7 @@ height: 70vh
 permalink: /services
 ---
 
-We offer a variety of services related to **Biodiversity Informatics Tools and Standards** to the Belgian BIF community. Whether you want to publish data or use data from GBIF our infrastructre and experts are there to help you.
+We offer a variety of services related to **Biodiversity Informatics Tools and Standards** to the Belgian BIF community. Whether you want to publish data or use data from GBIF, our infrastructure and experts are there to help you.
 
 ## Tools
 
