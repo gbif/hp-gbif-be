@@ -56,7 +56,7 @@ staff:
       background: /assets/images/staff/dimi.png
     - title: Maxime Coupremanne # required
       description: | # required
-        Maxime is a biologist involved in the mobilization of biodiversity data on the Global Biodiversity Information Facility (GBIF) portal. Based at the Départment d'Etude du Milieu Naturel et Agricole (SPW-DEMNA), he advocates the use of Open Data in Wallonia and support anyhow is willing to join the open side of the science. His  particular interests are biodiversity informatics, data management, marine life, invasive species, species distribution models and Open Science.<br>[<i class="fa fa-envelope"></i> contact](mailto:m.coupremanne@biodiversity.be)
+        Maxime is a biologist involved in mobilising biodiversity data, particularly in Wallonia. Based at the Royal Belgian Institute of Natural Sciences (RBINS), he advocates the use of Open Data and aims to bring others to the open side of science. His main interests include biodiversity informatics, data management, marine life, invasive species, species distribution modelling, and Open Science.<br>[<i class="fa fa-envelope"></i> contact](mailto:m.coupremanne@biodiversity.be)
       categories: [Open Data Expert, Node manager]
       background: /assets/images/staff/max.png
     - title: Stijn Cooleman # required
