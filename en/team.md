@@ -11,6 +11,9 @@ composition:
   - type: heroImage
   - type: features
     data: node.staff
+    type: features
+    data: node.retired_staff
+
 ---
 
 Edit `/team.md` to change the text.
