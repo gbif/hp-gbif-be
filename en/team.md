@@ -11,8 +11,10 @@ composition:
   - type: heroImage
   - type: features
     data: node.staff
-    type: features
+  - type: features
     data: node.retired_staff
+---
+
 
 ---
 
