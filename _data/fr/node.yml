@@ -50,7 +50,7 @@ staff:
       background: /assets/images/staff/dimi.png
     - title: Maxime Coupremanne # required
       description: | # required
-        Maxime est un biologiste impliqué dans la mobilisation des données de biodiversité en Wallonie. Basé au Département d'Etude du Milieu Naturel et Agricole (SPW-DEMNA), il prône l'utilisation de l'Open Data en Wallonie et souhaite en tout cas rejoindre le côté ouvert de la science. Ses intérêts particuliers sont l'informatique de la biodiversité, la gestion des données, la vie marine, les espèces envahissantes, les modèles de répartition des espèces et la science ouverte.<br>[<i class="fa fa-envelope"></i> contact](maito:m.coupremanne@biodiversity.be)
+        Maxime est un biologiste impliqué dans la mobilisation des données de biodiversité, particulièrement en Wallonie. Basé à l'Institut des Sciences Naturelles (IRSNB), il prône l'utilisation de l'Open Data et souhaite vous faire rejoindre le côté ouvert de la science. Ses intérêts particuliers sont l'informatique de la biodiversité, la gestion des données, la vie marine, les espèces envahissantes, les modèles de répartition des espèces et la science ouverte.<br>[<i class="fa fa-envelope"></i> contact](maito:m.coupremanne@biodiversity.be)
       categories: [Expert en données, Gestionnaire du Noeud]
       background: /assets/images/staff/max.png
     - title: Stijn Cooleman # required
@@ -61,5 +61,5 @@ staff:
     - title: Andre Heughebaert # required
       description: | # required
         Ingénieur logiciel senior et expert en informatique de la biodiversité, André a dirigé l’équipe « Données et Informatique » de la Plateforme, coordonnant la gestion des données, des sites et des services Web. Depuis ses premiers stages, il a piloté l’évolution du nœud GBIF belge, assuré sa représentation et contribué de manière exemplaire au réseau GBIF global, en soutenant activement les décisions stratégiques et les activités clés. Passionné par les normes d’échange de données sur la biodiversité, il s’intéresse également aux outils de visualisation, de nettoyage et de publication des données.<br>
-      categories: [Gestionnaire du Noeud à la retraite, Expert IT]
+      categories: [Expert en données, Expert IT, former node manager]
       background: /assets/images/staff/andre.png
