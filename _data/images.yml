@@ -122,4 +122,8 @@ PB_GBIF:
   src: /assets/images/logos/PB_GBIF.jpg
   caption: |
     Why countries need the Global Biodiversity Information Facility: Lessons from Belgium
+GRA:
+  src: /assets/images/photos/GRA.png
+  caption: |
+    2026 GBIF Graduate Researchers Award call for nominations
 
