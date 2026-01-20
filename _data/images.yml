@@ -126,4 +126,8 @@ GRA:
   src: /assets/images/photos/GRA.png
   caption: |
     2026 GBIF Graduate Researchers Award call for nominations
+GRAfr:
+  src: /assets/images/photos/GRAfr.png
+  caption: |
+    Prix Jeunes chercheurs
 
