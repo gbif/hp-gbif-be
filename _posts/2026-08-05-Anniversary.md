@@ -3,8 +3,8 @@ title: "GBIF Belgium 25th Anniversary: Celebrating 25 Years of Biodiversity Data
 preTitle: Oct 19, 2026
 categories: ["Event", "GBIF"]
 lang-ref: Anniversary
-background: "{{ site.data.images.anniversary.src }}"
-imageLicense: "{{ site.data.images.anniversary.caption }}"
+background: "{{ site.data.images.Anniversary.src }}"
+imageLicense: "{{ site.data.images.Anniversary.caption }}"
 ---
 On **19 October 2026**, GBIF Belgium will celebrate its **25th anniversary at the Royal Belgian Institute of Natural Sciences (RBINS) in Brussels.**
 Over the past 25 years, GBIF Belgium has played a central role in supporting the mobilization, publication, and use of biodiversity data, contributing to a global network that enables open access to millions of biodiversity records for research, conservation, education, and policy-making.
