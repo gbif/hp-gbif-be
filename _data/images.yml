@@ -130,4 +130,8 @@ GRAfr:
   src: /assets/images/photos/GRAfr.png
   caption: |
     Prix Jeunes chercheurs
+Anniversary:
+  src: /assets/images/photos/anniversary.png
+  caption: |
+    Prix https://www.gbif.org/
 
