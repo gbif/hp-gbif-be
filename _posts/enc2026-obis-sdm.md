@@ -1,7 +1,7 @@
 ---
 title: "OBIS Species Distribution Models among the 2026 Ebbe Nielsen Challenge winners"
 preTitle: Oct 05, 2026
-categories: ["Award", "GBIF", "OBIS", "SDMs"]
+categories: ["Ebbe Nielsen Challenge", "GBIF", "OBIS", "SDMs"]
 lang-ref: GB33
 background: "{{ site.data.images.ENCOBIS.src }}"
 imageLicense: "{{ site.data.imagesENCOBIS.caption }}"
