@@ -134,4 +134,8 @@ Anniversary:
   src: /assets/images/photos/anniversary.png
   caption: |
     https://www.gbif.org/
+GB33:
+  src: /assets/images/logos/gb33.png
+  caption: |
+   [GBIF25](https://www.flickr.com/photos/gbif/55533455138/) by Javier Gamboa. GBIF Secretariat, 2026. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
 
