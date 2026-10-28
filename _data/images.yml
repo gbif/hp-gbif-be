@@ -142,4 +142,8 @@ ENCOBIS:
   src: /assets/images/logos/ENCOBIS.png
   caption: |
    A view of the OBIS Species Distribution Models showing the current distribution of grey seals (Halichoerus grypus) Read the full article [here](https://obis.org/2026/09/30/sdm-enc26/).
+GBIFEVENT:
+  src: /assets/images/logos/GBIFEVENT.jpg
+  caption: |
+   Dimitri Brosens (INBO) presenting the Flemish Biodiversity Portal at the 25th Anniversary of GBIF Belgium, 19 October 2026.
 
