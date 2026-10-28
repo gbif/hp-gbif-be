@@ -2,7 +2,7 @@
 title: "25 ans de GBIF Belgium : merci d'avoir fêté ça avec nous !"
 preTitle: Oct 28, 2026
 categories: ["GBIF Belgium", "25e anniversaire", "Événement", "Communauté"]
-lang-ref: EN
+lang-ref: fr
 background: "{{ site.data.images.GBIFEVENT.src }}"
 imageLicense: "{{ site.data.images.GBIFEVENT.caption }}"
 ---
